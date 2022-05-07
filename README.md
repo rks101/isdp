@@ -17,5 +17,5 @@ Dec 2021
 
 
 
-
-
+October 2021
+[Facebook Papers](https://www.npr.org/2021/10/25/1049015366/the-facebook-papers-what-you-need-to-know)    
