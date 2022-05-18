@@ -8,13 +8,11 @@ Android Apps [circumventing permission model](https://blog.appcensus.io/2022/04/
 
 
 March 2022   
-A seemingly-legitimate looking Process Manager changes its avatar to malware and downloads another app to make money.   
-[link1](https://www.androidpolice.com/malware-russian-hackers-tracks-you-records-audio/) app records audio and [link2](https://lab52.io/blog/complete-dissection-of-an-apk-with-a-suspicious-c2-server/) with dissection of the issue.  
+A seemingly-legitimate looking Process Manager changes its avatar to malware and downloads another app to make money. [link1](https://www.androidpolice.com/malware-russian-hackers-tracks-you-records-audio/) app records audio and [link2](https://lab52.io/blog/complete-dissection-of-an-apk-with-a-suspicious-c2-server/) with dissection of the issue.  
 
 
 Dec 2021   
 [Location data leaked even app user opted-out](https://www.vice.com/en/article/5dgmqz/huq-location-data-opt-out-no-consent)   
-
 
 
 October 2021
