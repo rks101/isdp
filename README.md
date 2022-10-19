@@ -2,6 +2,8 @@
 Information Security and Data Privacy concerns with some examples
 
 
+[Insecure Direct Object Reference (IDOR)](https://www.varonis.com/blog/what-is-idor-insecure-direct-object-reference)   
+
 
 April 2022   
 Android Apps [circumventing permission model](https://blog.appcensus.io/2022/04/06/the-curious-case-of-coulus-coelib/) using SDK copying phone numbers and leaking from device.   
