@@ -1,8 +1,12 @@
 # isdp
-Information Security and Data Privacy concerns with some examples
+Information Security and Data Privacy concerns with some examples   
 
 
+Oct 2022   
 [Insecure Direct Object Reference (IDOR)](https://www.varonis.com/blog/what-is-idor-insecure-direct-object-reference)   
+
+[TLS 1.3](https://sectigostore.com/blog/tls-version-1-3-what-to-know-about-the-latest-tls-version/)   
+[TLS versions](https://www.covetus.com/blog/different-versions-of-transfer-layer-security-tls-its-working-and-benefits)   
 
 
 April 2022   
