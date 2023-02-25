@@ -2,6 +2,15 @@
 Information Security and Data Privacy concerns with some examples   
 
 
+
+
+Jan 2023   
+[OS Intelligence (OSINT) Tools](https://www.osinttechniques.com/osint-tools.html)   
+
+[Information you share is valuable](https://teachingprivacy.org/information-is-valuable/) and [You are leaving your footprints](https://teachingprivacy.org/youre-leaving-footprints/) at [Teaching Privacy]((https://teachingprivacy.org)    
+
+
+
 Oct 2022   
 [Insecure Direct Object Reference (IDOR)](https://www.varonis.com/blog/what-is-idor-insecure-direct-object-reference)   
 
