@@ -41,3 +41,8 @@ October 2021
 
 [Terms of Service didn't read](https://tosdr.org/): “I have read and agree to the Terms” is the biggest lie on the web. TOSDR aims to fix that.  
 
+
+[Sharing information](https://consumer.ftc.gov/media/video-0022-sharing-information-day-your-life)   
+
+
+[A day in the life of your data](https://www.apple.com/privacy/docs/A_Day_in_the_Life_of_Your_Data.pdf)   
