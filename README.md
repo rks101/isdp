@@ -2,6 +2,14 @@
 Information Security and Data Privacy concerns with some examples   
 
 
+## Shannon's Maxim 
+Shannon's Maxim => _We should always assume that the enemy will have full knowledge of how our system works._   
+
+## OSINT 
+OSINT => _Open Source INTelligence_   
+
+**Passive Reconnaissance** => your queries or packets are going to umpteen resources that are available on the public internet to anyone willing to query and they are not going to your target’s environment or network.    
+**OSINT** => Passive reconnaissance and intellegence gathered using your target’s resources that are explicitly meant for public use as to a potential user or role or affiliate.   
 
 
 Jan 2023   
