@@ -1,5 +1,6 @@
 # isdp
-Information Security and Data Privacy concerns with some examples   
+Information Security and Data Privacy concerns with some examples.   
+Surely, the content below is unstructured and looking for assistance.   
 
 
 ## Shannon's Maxim 
@@ -17,7 +18,8 @@ Jan 2023
 
 [Information you share is valuable](https://teachingprivacy.org/information-is-valuable/) and [You are leaving your footprints](https://teachingprivacy.org/youre-leaving-footprints/) at [Teaching Privacy](https://teachingprivacy.org)    
 
-Check your website's **security headers** at [securityheaders.com](https://securityheaders.com/)   
+**HTTP Response Headers**  
+Check your website's HTTP **security headers** at [securityheaders.com](https://securityheaders.com/)   
 For a top graded website and W3C compliance, set HTTP headers to suitable values: 
 Strict-Transport-Security   
 X-Frame-Options   
