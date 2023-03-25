@@ -18,9 +18,9 @@ Jan 2023
 
 [Information you share is valuable](https://teachingprivacy.org/information-is-valuable/) and [You are leaving your footprints](https://teachingprivacy.org/youre-leaving-footprints/) at [Teaching Privacy](https://teachingprivacy.org)    
 
-**HTTP Response Headers**  
-Check your website's HTTP **security headers** at [securityheaders.com](https://securityheaders.com/)   
-For a top graded website and W3C compliance, set HTTP headers to suitable values: 
+## HTTP Response Headers   
+Check your website's HTTP **response headers** at [securityheaders.com](https://securityheaders.com/)   
+For a top graded website and W3C compliance, set HTTP headers to suitable values:    
 Strict-Transport-Security   
 X-Frame-Options   
 X-Content-Type-Options   
