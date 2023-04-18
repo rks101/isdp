@@ -2,6 +2,11 @@
 Information Security and Data Privacy concerns with some examples.   
 Surely, the content below is unstructured and looking for assistance.   
 
+  * [ISDP](#isdp)  
+     * [OSINT](#osint)  
+     * [HTTP Response Headers](#http-response-headers)  
+     * [SSL/TLS Certificates](#ssl-tls-certificates)  
+     * [Incidents](#incidents)  
 
 ## Shannon's Maxim 
 Shannon's Maxim => _We should always assume that the enemy will have full knowledge of how our system works._   
@@ -27,11 +32,12 @@ X-Content-Type-Options
 Content-Security-Policy    
 Referrer-Policy   
 Permissions-Policy    
-
+---- 
 
 Oct 2022   
 [Insecure Direct Object Reference (IDOR)](https://www.varonis.com/blog/what-is-idor-insecure-direct-object-reference)   
 
+## SSl TLS Certificates
 [TLS 1.3](https://sectigostore.com/blog/tls-version-1-3-what-to-know-about-the-latest-tls-version/)   
 [TLS versions](https://www.covetus.com/blog/different-versions-of-transfer-layer-security-tls-its-working-and-benefits)   
 [TLS versions comparison](https://thesecmaster.com/what-is-ssl-tls-how-ssl-tls-1-2-and-tls-1-3-differ-from-each-other/)   
@@ -40,6 +46,10 @@ To disable obsolete versions of SSL/TLS supported by Apache on Ubuntu specify th
 ```
 SSLProtocol all -SSLv3 -TLSv1 -TLSv1.1
 ```
+
+[SSL/TLS Certificate Errors and ways to address them](https://sematext.com/blog/ssl-certificate-error/)   
+
+----
 
 April 2022   
 Android Apps [circumventing permission model](https://blog.appcensus.io/2022/04/06/the-curious-case-of-coulus-coelib/) using SDK copying phone numbers and leaking from device.   
