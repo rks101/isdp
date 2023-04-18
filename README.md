@@ -1,12 +1,13 @@
 # isdp
 Information Security and Data Privacy concerns with some examples.   
-Surely, the content below is unstructured and looking for assistance.   
+Surely, the content below is unstructured and looking for assistance. Compliing content for notes.    
+
 
   * [ISDP](#isdp)  
      * [OSINT](#osint)  
      * [HTTP Response Headers](#http-response-headers)  
      * [SSL/TLS Certificates](#ssl-tls-certificates)  
-     * [Incidents](#incidents)  
+     * [Incidents/Examples](#incidents/examples)  
 
 ## Shannon's Maxim 
 Shannon's Maxim => _We should always assume that the enemy will have full knowledge of how our system works._   
@@ -23,19 +24,21 @@ Jan 2023
 
 [Information you share is valuable](https://teachingprivacy.org/information-is-valuable/) and [You are leaving your footprints](https://teachingprivacy.org/youre-leaving-footprints/) at [Teaching Privacy](https://teachingprivacy.org)    
 
+----
+
 ## HTTP Response Headers   
-Check your website's HTTP **response headers** at [securityheaders.com](https://securityheaders.com/)   
-For a top graded website and W3C compliance, set HTTP headers to suitable values:    
+
+You can check your website's HTTP **response headers** at [securityheaders.com](https://securityheaders.com/)   
+
+For a top graded website and W3C compliance, set the following HTTP headers to suitable values, see W3C documentation/RFCs for Compliance:    
 Strict-Transport-Security   
 X-Frame-Options   
 X-Content-Type-Options   
 Content-Security-Policy    
 Referrer-Policy   
 Permissions-Policy    
----- 
 
-Oct 2022   
-[Insecure Direct Object Reference (IDOR)](https://www.varonis.com/blog/what-is-idor-insecure-direct-object-reference)   
+---- 
 
 ## SSl TLS Certificates
 [TLS 1.3](https://sectigostore.com/blog/tls-version-1-3-what-to-know-about-the-latest-tls-version/)   
@@ -50,6 +53,11 @@ SSLProtocol all -SSLv3 -TLSv1 -TLSv1.1
 [SSL/TLS Certificate Errors and ways to address them](https://sematext.com/blog/ssl-certificate-error/)   
 
 ----
+
+## Incidents/Examples   
+
+Oct 2022   
+[Insecure Direct Object Reference (IDOR)](https://www.varonis.com/blog/what-is-idor-insecure-direct-object-reference)   
 
 April 2022   
 Android Apps [circumventing permission model](https://blog.appcensus.io/2022/04/06/the-curious-case-of-coulus-coelib/) using SDK copying phone numbers and leaking from device.   
