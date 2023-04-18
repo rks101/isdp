@@ -7,7 +7,7 @@ Surely, the content below is unstructured and looking for assistance. Compliing 
      * [OSINT](#osint)  
      * [HTTP Response Headers](#http-response-headers)  
      * [SSL/TLS Certificates](#ssl-tls-certificates)  
-     * [Incidents/Examples](#incidents/examples)  
+     * [Incidents or Examples](#incidents-or-examples)  
 
 ## Shannon's Maxim 
 Shannon's Maxim => _We should always assume that the enemy will have full knowledge of how our system works._   
@@ -54,7 +54,7 @@ SSLProtocol all -SSLv3 -TLSv1 -TLSv1.1
 
 ----
 
-## Incidents/Examples   
+## Incidents or Examples   
 
 Oct 2022   
 [Insecure Direct Object Reference (IDOR)](https://www.varonis.com/blog/what-is-idor-insecure-direct-object-reference)   
