@@ -8,6 +8,7 @@ Surely, the content below is unstructured and looking for assistance. Compliing 
      * [HTTP Response Headers](#http-response-headers)  
      * [SSL/TLS Certificates](#ssl-tls-certificates)  
      * [Incidents or Examples](#incidents-or-examples)  
+     * [Data Privacy](#data-privacy)  
 
 ## Shannon's Maxim 
 Shannon's Maxim => _We should always assume that the enemy will have full knowledge of how our system works._   
@@ -30,6 +31,7 @@ Jan 2023
 
 You can check your website's HTTP **response headers** at [securityheaders.com](https://securityheaders.com/)   
 
+Feb 2023 
 For a top graded website and W3C compliance, set the following HTTP headers to suitable values, see W3C documentation/RFCs for Compliance:    
 Strict-Transport-Security   
 X-Frame-Options   
@@ -40,11 +42,13 @@ Permissions-Policy
 
 ---- 
 
-## SSl TLS Certificates
+## SSL TLS Certificates 
+
 [TLS 1.3](https://sectigostore.com/blog/tls-version-1-3-what-to-know-about-the-latest-tls-version/)   
 [TLS versions](https://www.covetus.com/blog/different-versions-of-transfer-layer-security-tls-its-working-and-benefits)   
 [TLS versions comparison](https://thesecmaster.com/what-is-ssl-tls-how-ssl-tls-1-2-and-tls-1-3-differ-from-each-other/)   
 [Enable/Disable TLS versions on popular servers](https://thesecmaster.com/how-to-enable-tls-1-3-on-popular-web-servers/) and [disable older TLS versions](https://www.ssl.com/guide/disable-tls-1-0-and-1-1-apache-nginx/)   
+
 To disable obsolete versions of SSL/TLS supported by Apache on Ubuntu specify them as follows in /etc/apache2/mods-enabled/ssl.conf:
 ```
 SSLProtocol all -SSLv3 -TLSv1 -TLSv1.1
@@ -58,6 +62,7 @@ SSLProtocol all -SSLv3 -TLSv1 -TLSv1.1
 
 Oct 2022   
 [Insecure Direct Object Reference (IDOR)](https://www.varonis.com/blog/what-is-idor-insecure-direct-object-reference)   
+
 
 April 2022   
 Android Apps [circumventing permission model](https://blog.appcensus.io/2022/04/06/the-curious-case-of-coulus-coelib/) using SDK copying phone numbers and leaking from device.   
@@ -74,6 +79,8 @@ Dec 2021
 October 2021
 [Facebook Papers](https://www.npr.org/2021/10/25/1049015366/the-facebook-papers-what-you-need-to-know)    
 
+
+## Data Privacy  
 
 [Terms of Service didn't read](https://tosdr.org/): “I have read and agree to the Terms” is the biggest lie on the web. TOSDR aims to fix that.  
 
