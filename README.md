@@ -6,7 +6,7 @@ Surely, the content below is unstructured and looking for assistance. Compliing 
   * [ISDP](#isdp)  
      * [OSINT](#osint)  
      * [HTTP Response Headers](#http-response-headers)  
-     * [SSL/TLS Certificates](#ssl\/tls-certificates)  
+     * [SSL/TLS Certificates](#ssl-/tls-certificates)  
      * [Incidents or Examples](#incidents-or-examples)  
      * [Data Privacy](#data-privacy)  
 
