@@ -6,7 +6,7 @@ Surely, the content below is unstructured and looking for assistance. Compliing 
   * [ISDP](#isdp)  
      * [OSINT](#osint)  
      * [HTTP Response Headers](#http-response-headers)  
-     * [SSL/TLS Certificates](#ssl-/tls-certificates)  
+     * [SSL/TLS Certificates](#ssl-tls-certificates)  
      * [Incidents or Examples](#incidents-or-examples)  
      * [Data Privacy](#data-privacy)  
 
@@ -42,7 +42,7 @@ Permissions-Policy
 
 ---- 
 
-## SSL/TLS Certificates 
+## SSL TLS Certificates 
 
 [TLS v1.3](https://sectigostore.com/blog/tls-version-1-3-what-to-know-about-the-latest-tls-version/), [TLS v1.3 RFC](https://datatracker.ietf.org/doc/html/rfc8446) released in August 2018 
 [Browser support or compatiability matrix for TLS v1.3](https://caniuse.com/tls1-3). Upgrade your web-browser once and you should be fine.   
