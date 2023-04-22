@@ -55,7 +55,7 @@ SSLProtocol all -SSLv3 -TLSv1 -TLSv1.1
 ```
 
 [SSL/TLS Certificate Errors and ways to address them](https://sematext.com/blog/ssl-certificate-error/)   
-For SendGrid domain whitelisting validation error, you should check existing entries in DNS or [check Top-Level-Domain auto-appending](Check for TLD Auto-Appending)  
+For SendGrid domain whitelisting validation error, you should check existing entries in DNS or [check Top-Level-Domain auto-appending](https://web.archive.org/web/20170706082258/https://sendgrid.com/docs/Classroom/Troubleshooting/Authentication/i_have_created_dns_records_but_the_whitelabel_wizard_is_not_validating_them.html)   
 
 ----
 
