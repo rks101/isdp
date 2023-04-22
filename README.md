@@ -44,6 +44,8 @@ Permissions-Policy
 
 Every sysad and webmaster should consider [hardening HTTP response headers](https://scotthelme.co.uk/hardening-your-http-response-headers/).   
 
+Suggestions for [Apache server hardening](https://www.tecmint.com/apache-security-tips/)    
+
 ---- 
 
 ## SSL TLS Certificates 
