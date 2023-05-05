@@ -77,6 +77,9 @@ For SendGrid domain whitelisting validation error [check Top-Level-Domain auto-a
 
 ## Incidents or Examples   
 
+April 2023    
+[Atomic macOS stealer](https://thehackernews.com/2023/04/new-atomic-macos-stealer-can-steal-your.html)    
+
 Oct 2022   
 [Insecure Direct Object Reference (IDOR)](https://www.varonis.com/blog/what-is-idor-insecure-direct-object-reference)   
 
