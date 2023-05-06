@@ -35,7 +35,6 @@ Jan 2023
 
 You can check your website's HTTP **response headers** at [securityheaders.com](https://securityheaders.com/)   
 
-Feb 2023 
 For a top graded website and W3C compliance, set the following HTTP headers to suitable values, see W3C documentation/RFCs for Compliance:    
 Strict-Transport-Security   
 X-Frame-Options   
