@@ -111,6 +111,8 @@ At times, creating and fiddling with environment set up is fun, learning, and he
 
 [Jupyter Labs](https://jupyter.org/try)     
 
+Besides these, follow up articles that dissect recent incidents up to the minute details and try out for fun.   
+
 ----
 
 ## Data Privacy  
