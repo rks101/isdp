@@ -8,6 +8,7 @@ Surely, the content below is unstructured and looking for assistance. Compliing 
      * [HTTP Response Headers](#http-response-headers)  
      * [SSL/TLS Certificates](#ssl-tls-certificates)  
      * [Incidents or Examples](#incidents-or-examples)  
+     * [Practice and Hands-on](#hands-\-on) 
      * [Data Privacy](#data-privacy)  
 
 ## Shannon's Maxim 
@@ -98,6 +99,19 @@ Dec 2021
 October 2021
 [Facebook Papers](https://www.npr.org/2021/10/25/1049015366/the-facebook-papers-what-you-need-to-know)    
 
+----
+
+## Hands-on    
+
+At times, creating and fiddling with environment set up is fun, learning, and hell yes, time consumming. These days, you can try out online environemnt or playgrounds without a need to install and create complex set up.    
+
+[Try Hack Me](https://tryhackme.com) - gives virtual rooms or environment accessible from within browser to try out a few things.    
+
+[Online Code Editors - Playgrounds](https://github.com/rks101/webapps#online-editors-playgrounds)    
+
+[Jupyter Labs](https://jupyter.org/try)     
+
+----
 
 ## Data Privacy  
 
