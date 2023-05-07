@@ -103,7 +103,7 @@ October 2021
 
 ## Hands-on    
 
-At times, creating and fiddling with environment set up is fun, learning, and hell yes, time consumming. These days, you can try out online environemnt or playgrounds without a need to install and create complex set up.    
+At times, creating and fiddling with environment set up is fun, learning, and hell yes, time consumming. These days, you can try out online environemnt or playgrounds without a need to install and create complex set up. So, for all those who cannot afford to have an environment or are too lazy to set up one, there are browser-based online learning kits available.     
 
 [Try Hack Me](https://tryhackme.com) - gives virtual rooms or environment accessible from within browser to try out a few things.    
 
