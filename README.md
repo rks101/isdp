@@ -9,6 +9,7 @@ Surely, the content below is unstructured and looking for assistance. Compliing 
      * [SSL/TLS Certificates](#ssl-tls-certificates)  
      * [Incidents or Examples](#incidents-or-examples)  
      * [Practice and Hands-on](#hands\-on) 
+     * [URL Schemes](#url-schemes) 
      * [Data Privacy](#data-privacy)  
 
 ## Shannon's Maxim 
@@ -119,6 +120,13 @@ This thread is incomeplete without the mention of Offensive Security (OffSec) fr
 Kali linux has a long list of tools that can be used for OSINT and gathering details and working with tools of interest for checking on security and fun.   
 
 ----
+
+## URL Schemes 
+
+[Android URL Schemes](https://dev.iridi.com/URL_Scheme/en#Android_URL_schemes)    
+[Apple/Safari URL Schemes](https://dev.iridi.com/URL_Scheme/en)     
+
+---- 
 
 ## Data Privacy  
 
