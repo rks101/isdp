@@ -8,7 +8,7 @@ Surely, the content below is unstructured and looking for assistance. Compliing 
      * [HTTP Response Headers](#http-response-headers)  
      * [SSL/TLS Certificates](#ssl-tls-certificates)  
      * [Incidents or Examples](#incidents-or-examples)  
-     * [Practice and Hands-on](#hands-\-on) 
+     * [Practice and Hands-on](#hands\-on) 
      * [Data Privacy](#data-privacy)  
 
 ## Shannon's Maxim 
