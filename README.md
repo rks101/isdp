@@ -124,7 +124,7 @@ Kali linux has a long list of tools that can be used for OSINT and gathering det
 ## URL Schemes 
 
 [Android URL Schemes](https://dev.iridi.com/URL_Scheme/en#Android_URL_schemes)    
-[Apple/Safari URL Schemes](https://dev.iridi.com/URL_Scheme/en)     
+[Apple/Safari URL Schemes](https://dev.iridi.com/URL_Scheme/en#Apple_URL_schemes)     
 
 ---- 
 
