@@ -137,15 +137,16 @@ Kali linux has a long list of tools that can be used for OSINT and gathering det
 
 [Android URL Schemes](https://dev.iridi.com/URL_Scheme/en#Android_URL_schemes)    
 [Apple/Safari URL Schemes](https://dev.iridi.com/URL_Scheme/en#Apple_URL_schemes)     
+e.g. open wallet:// or music:// in Safari on Apple phone/tablet/laptop.   
 
 ---- 
 
 ## Data Privacy  
 
-[Terms of Service didn't read](https://tosdr.org/): “I have read and agree to the Terms” is the biggest lie on the web. TOSDR aims to fix that.  
+[Terms of Service didn't read](https://tosdr.org/): “I have read and agree to the Terms” is the biggest lie on the web. TOSDR aims to fix that.   
 
 
-[Sharing information](https://consumer.ftc.gov/media/video-0022-sharing-information-day-your-life)   
+[Sharing information - A day in your life](https://consumer.ftc.gov/media/video-0022-sharing-information-day-your-life) from [consumer.ftc.gov](https://consumer.ftc.gov).    
 
 
-[A day in the life of your data](https://www.apple.com/privacy/docs/A_Day_in_the_Life_of_Your_Data.pdf)   
+[A day in the life of your data](https://www.apple.com/privacy/docs/A_Day_in_the_Life_of_Your_Data.pdf) from Apple.    
