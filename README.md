@@ -152,3 +152,26 @@ e.g. open wallet:// or music:// in Safari on Apple phone/tablet/laptop.
 
 
 [A day in the life of your data](https://www.apple.com/privacy/docs/A_Day_in_the_Life_of_Your_Data.pdf) from Apple.    
+
+----
+
+## Guidelines and standards     
+
+Compliance and hardening requirements   
+
+
+FedRAMP    
+
+HIPPA    
+
+COPPA    
+
+FIPS 140-2   
+
+[DISA-STIG](https://www.perforce.com/blog/kw/what-is-DISA-STIG)   
+
+[STIG](https://public.cyber.mil/stigs/)   
+
+CIS and Coomon Criteria   
+
+---- 
