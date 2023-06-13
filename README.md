@@ -66,7 +66,7 @@ $ curl -v eg.iitjammu.ac.in
 </body></html>
 * Connection #0 to host eg.iitjammu.ac.in left intact
 ```
-Or see only HTTP Response headers    
+Or see only HTTP Response headers:    
 ```
 $ curl -I eg.iitjammu.ac.in 
 HTTP/1.1 302 Found
@@ -77,6 +77,117 @@ X-Frame-Options: SAMEORIGIN
 Location: https://eg.iitjammu.ac.in/
 Content-Type: text/html; charset=iso-8859-1
 ```
+Even more info with -Lvso options with curl:     
+```
+$ curl -Lvso /dev/null  eg.iitjammu.ac.in
+*   Trying 13.126.157.211:80...
+* Connected to eg.iitjammu.ac.in (13.126.157.211) port 80 (#0)
+> GET / HTTP/1.1
+> Host: eg.iitjammu.ac.in
+> User-Agent: curl/7.81.0
+> Accept: */*
+> 
+* Mark bundle as not supporting multiuse
+< HTTP/1.1 302 Found
+< Date: Tue, 13 Jun 2023 13:32:32 GMT
+< Server: Apache
+< Referrer-Policy: strict-origin
+< X-Frame-Options: SAMEORIGIN
+< Location: https://eg.iitjammu.ac.in/
+< Content-Length: 210
+< Content-Type: text/html; charset=iso-8859-1
+< 
+* Ignoring the response-body
+{ [210 bytes data]
+* Connection #0 to host eg.iitjammu.ac.in left intact
+* Clear auth, redirects to port from 80 to 443
+* Issue another request to this URL: 'https://eg.iitjammu.ac.in/'
+*   Trying 13.126.157.211:443...
+* Connected to eg.iitjammu.ac.in (13.126.157.211) port 443 (#1)
+* ALPN, offering h2
+* ALPN, offering http/1.1
+*  CAfile: /etc/ssl/certs/ca-certificates.crt
+*  CApath: /etc/ssl/certs
+* TLSv1.0 (OUT), TLS header, Certificate Status (22):
+} [5 bytes data]
+* TLSv1.3 (OUT), TLS handshake, Client hello (1):
+} [512 bytes data]
+* TLSv1.2 (IN), TLS header, Certificate Status (22):
+{ [5 bytes data]
+* TLSv1.3 (IN), TLS handshake, Server hello (2):
+{ [108 bytes data]
+* TLSv1.2 (IN), TLS header, Certificate Status (22):
+{ [5 bytes data]
+* TLSv1.2 (IN), TLS handshake, Certificate (11):
+{ [5135 bytes data]
+* TLSv1.2 (IN), TLS header, Certificate Status (22):
+{ [5 bytes data]
+* TLSv1.2 (IN), TLS handshake, Server key exchange (12):
+{ [333 bytes data]
+* TLSv1.2 (IN), TLS header, Certificate Status (22):
+{ [5 bytes data]
+* TLSv1.2 (IN), TLS handshake, Server finished (14):
+{ [4 bytes data]
+* TLSv1.2 (OUT), TLS header, Certificate Status (22):
+} [5 bytes data]
+* TLSv1.2 (OUT), TLS handshake, Client key exchange (16):
+} [70 bytes data]
+* TLSv1.2 (OUT), TLS header, Finished (20):
+} [5 bytes data]
+* TLSv1.2 (OUT), TLS change cipher, Change cipher spec (1):
+} [1 bytes data]
+* TLSv1.2 (OUT), TLS header, Certificate Status (22):
+} [5 bytes data]
+* TLSv1.2 (OUT), TLS handshake, Finished (20):
+} [16 bytes data]
+* TLSv1.2 (IN), TLS header, Finished (20):
+{ [5 bytes data]
+* TLSv1.2 (IN), TLS header, Certificate Status (22):
+{ [5 bytes data]
+* TLSv1.2 (IN), TLS handshake, Finished (20):
+{ [16 bytes data]
+* SSL connection using TLSv1.2 / ECDHE-RSA-AES256-GCM-SHA384
+* ALPN, server accepted to use http/1.1
+* Server certificate:
+*  subject: CN=eg.iitjammu.ac.in
+*  start date: Oct  1 07:06:43 2022 GMT
+*  expire date: Oct 27 10:53:42 2023 GMT
+*  subjectAltName: host "eg.iitjammu.ac.in" matched cert's "eg.iitjammu.ac.in"
+*  issuer: C=US; ST=Arizona; L=Scottsdale; O=GoDaddy.com, Inc.; OU=http://certs.godaddy.com/repository/; CN=Go Daddy Secure Certificate Authority - G2
+*  SSL certificate verify ok.
+* TLSv1.2 (OUT), TLS header, Supplemental data (23):
+} [5 bytes data]
+> GET / HTTP/1.1
+> Host: eg.iitjammu.ac.in
+> User-Agent: curl/7.81.0
+> Accept: */*
+> 
+* TLSv1.2 (IN), TLS header, Supplemental data (23):
+{ [5 bytes data]
+* Mark bundle as not supporting multiuse
+< HTTP/1.1 200 OK
+< Date: Tue, 13 Jun 2023 13:32:32 GMT
+< Server: Apache
+< Referrer-Policy: strict-origin
+< X-Frame-Options: SAMEORIGIN
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache
+< Vary: Accept-Encoding
+< Strict-Transport-Security: max-age=31536000; includeSubDomains;
+< Permissions-Policy: geolocation=self
+< X-Content-Type-Options: nosniff
+< X-XSS-Protection: 1; mode=block
+< Content-Security-Policy: object-src 'self';
+< Set-Cookie: PHPSESSID=119d24bsdd960eobotctq6vgm36oajqti37u69l94nf8pigatb11; path=/; HttpOnly;Secure
+< Content-Length: 2108
+< Content-Type: text/html; charset=UTF-8
+< 
+* TLSv1.2 (IN), TLS header, Supplemental data (23):
+{ [5 bytes data]
+* Connection #1 to host eg.iitjammu.ac.in left intact
+```
+
 
 You can check your website's HTTP **response headers** at [securityheaders.com](https://securityheaders.com/)   
 
