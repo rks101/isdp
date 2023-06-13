@@ -36,6 +36,48 @@ Jan 2023
 
 ## HTTP Response Headers   
 
+You can use curl to view HTTP headers.    
+
+```
+$ curl -v eg.iitjammu.ac.in 
+*   Trying 13.126.157.211:80...
+* Connected to eg.iitjammu.ac.in (13.126.157.211) port 80 (#0)
+> GET / HTTP/1.1                                      <-- Request Headers
+> Host: eg.iitjammu.ac.in                             <--
+> User-Agent: curl/7.81.0                             <--
+> Accept: */*                                         <--
+> 
+* Mark bundle as not supporting multiuse
+< HTTP/1.1 302 Found
+< Date: Tue, 13 Jun 2023 13:19:30 GMT
+< Server: Apache                                     <-- Response Headers
+< Referrer-Policy: strict-origin                     <--
+< X-Frame-Options: SAMEORIGIN                        <--
+< Location: https://eg.iitjammu.ac.in/               <--
+< Content-Length: 210 
+< Content-Type: text/html; charset=iso-8859-1        <--
+< 
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>302 Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The document has moved <a href="https://eg.iitjammu.ac.in/">here</a>.</p>
+</body></html>
+* Connection #0 to host eg.iitjammu.ac.in left intact
+```
+Or see only HTTP Response headers    
+```
+$ curl -I eg.iitjammu.ac.in 
+HTTP/1.1 302 Found
+Date: Tue, 13 Jun 2023 13:19:36 GMT
+Server: Apache
+Referrer-Policy: strict-origin
+X-Frame-Options: SAMEORIGIN
+Location: https://eg.iitjammu.ac.in/
+Content-Type: text/html; charset=iso-8859-1
+```
+
 You can check your website's HTTP **response headers** at [securityheaders.com](https://securityheaders.com/)   
 
 For a top graded website and W3C compliance, set the following HTTP headers to suitable values, see W3C documentation/RFCs for Compliance:    
