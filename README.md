@@ -80,7 +80,7 @@ Content-Type: text/html; charset=iso-8859-1
 
 You can check your website's HTTP **response headers** at [securityheaders.com](https://securityheaders.com/)   
 
-For a top graded website and W3C compliance, set the following HTTP headers to suitable values, see W3C documentation/RFCs for Compliance:    
+For a top graded website and W3C compliance, set the following HTTP headers to suitable values:    
 Strict-Transport-Security   
 X-Frame-Options   
 X-Content-Type-Options   
@@ -90,7 +90,7 @@ Permissions-Policy
 
 Every sysad and webmaster should consider [hardening HTTP response headers](https://scotthelme.co.uk/hardening-your-http-response-headers/).   
 
-Suggestions for [Apache server hardening](https://www.tecmint.com/apache-security-tips/)    
+Some suggestions for [Apache server hardening](https://www.tecmint.com/apache-security-tips/)    
 
 ---- 
 
