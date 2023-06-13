@@ -145,6 +145,8 @@ e.g. open wallet:// or music:// in Safari on Apple phone/tablet/laptop.
 
 ## Data Privacy  
 
+[Five key privacy principles](https://www.computerworld.com/article/2574182/five-key-privacy-principles.html)    
+
 [Terms of Service didn't read](https://tosdr.org/): “I have read and agree to the Terms” is the biggest lie on the web. TOSDR aims to fix that.   
 
 
@@ -152,6 +154,8 @@ e.g. open wallet:// or music:// in Safari on Apple phone/tablet/laptop.
 
 
 [A day in the life of your data](https://www.apple.com/privacy/docs/A_Day_in_the_Life_of_Your_Data.pdf) from Apple.    
+
+
 
 ----
 
