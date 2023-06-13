@@ -145,7 +145,7 @@ e.g. open wallet:// or music:// in Safari on Apple phone/tablet/laptop.
 
 ## Data Privacy  
 
-[Five key privacy principles](https://www.computerworld.com/article/2574182/five-key-privacy-principles.html)    
+[Five key privacy principles](https://www.computerworld.com/article/2574182/five-key-privacy-principles.html): Notice/Awareness, Choice/Consent, Access/Participation, Integrity/Security, and Enforcement/Redress    
 
 [Terms of Service didn't read](https://tosdr.org/): “I have read and agree to the Terms” is the biggest lie on the web. TOSDR aims to fix that.   
 
