@@ -1,5 +1,5 @@
 # isdp
-Information Security and Data Privacy topics and concerns with some examples.   
+Information Security and Data Privacy topics and concerns with some examples - everything accessible in public domain.   
 Surely, the content below is unstructured and looking for assistance. Compliing content for notes.    
 
 
