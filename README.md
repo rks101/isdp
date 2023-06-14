@@ -284,7 +284,7 @@ Besides these, follow up articles that dissect recent incidents up to the minute
 [Null Byte](https://null-byte.wonderhowto.com/how-to/hack-like-pro-spy-anyone-part-1-hacking-computers-0156376/) on wonderhowto.com is a nice and scary read, at least to get a hang of what is possible in practice.     
 
 This thread is incomeplete without the mention of Offensive Security (OffSec) from where [Kali Linux](https://www.kali.org/), [Exploit-DB](https://www.exploit-db.com/),etc. have come up.   
-Kali linux has a long list of tools that can be used for OSINT and gathering details and working with tools of interest for checking on security and fun.   
+Kali linux has a long list of tools that can be used for OSINT and gathering details and working with tools of interest for checking on security and experiencing the joy of learning.   
 
 ----
 
