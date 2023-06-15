@@ -286,6 +286,9 @@ Besides these, follow up articles that dissect recent incidents up to the minute
 This thread is incomeplete without the mention of Offensive Security (OffSec) from where [Kali Linux](https://www.kali.org/), [Exploit-DB](https://www.exploit-db.com/),etc. have come up.   
 Kali linux has a long list of tools that can be used for OSINT and gathering details and working with tools of interest for checking on security and experiencing the joy of learning.   
 
+[Damn Vulnerable Web Applications](https://github.com/digininja/DVWA)   
+
+
 ----
 
 ## URL Schemes 
