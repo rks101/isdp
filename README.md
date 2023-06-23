@@ -6,7 +6,8 @@ Surely, the content below is unstructured and looking for assistance. Compliing 
   * [ISDP](#isdp)  
      * [OSINT](#osint)  
      * [HTTP Response Headers](#http-response-headers)  
-     * [SSL/TLS Certificates](#ssl-tls-certificates)  
+     * [SSL/TLS Certificates](#ssl-tls-certificates)
+     * [Weak Links](#weak-links)
      * [Incidents or Examples](#incidents-or-examples)  
      * [Cyber Threat Intelligence](#cyber-threat-intelligence)  
      * [Practice and Hands-on](#hands\-on) 
@@ -227,6 +228,14 @@ Finally, keep on checking sslscan output, TLS certificate checks like one by [SS
 
 At client side, do not ignore [SSL/TLS Certificate Errors and ways to address them](https://sematext.com/blog/ssl-certificate-error/)   
 For SendGrid domain whitelisting validation error [check Top-Level-Domain auto-appending](https://web.archive.org/web/20170706082258/https://sendgrid.com/docs/Classroom/Troubleshooting/Authentication/i_have_created_dns_records_but_the_whitelabel_wizard_is_not_validating_them.html). You should check existing entries in DNS too.   
+
+----
+
+## Weak Links 
+
+Browser and passwords remain a weak link in overall security posture.    
+
+One should avoid [common or weak passwords](https://www.ncsc.gov.uk/blog-post/passwords-passwords-everywhere) in personal accounts as well as accounts at organizations.     
 
 ----
 
