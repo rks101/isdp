@@ -1,6 +1,5 @@
 # isdp
-Information Security and Data Privacy topics and concerns with some examples - everything accessible in public domain.   
-Surely, the content below is unstructured and looking for assistance. Compliing content for notes.    
+Information Security and Data Privacy topics and concerns with some examples - everything accessible in public domain. Surely, the content below can be structured in a better way and I am looking for assistance on this, for now, compliing self-notes.    
 
 
   * [ISDP](#isdp)  
@@ -20,8 +19,8 @@ Shannon's Maxim => _We should always assume that the enemy will have full knowle
 ## OSINT 
 OSINT => _Open Source INTelligence_   
 
-**Passive Reconnaissance** => your queries or packets are going to umpteen resources that are available on the public internet to anyone willing to query and they are not going to your target’s environment or network.    
-**OSINT** => Passive reconnaissance and intellegence gathered using your target’s resources that are explicitly meant for public use as to a potential user or role or affiliate.   
+**Passive Reconnaissance** => your queries or packets are going to umpteen resources that are available on the public internet to anyone willing to query and they are not going to your target’s environment or network. e.g. using whois database query or DNS query for a domain    
+**OSINT** => Passive reconnaissance and intellegence gathered using your target’s resources that are explicitly meant for public use as to a potential user or role or affiliate. e.g. sslscan or curl query for a domain.    
 
 
 Jan 2023   
@@ -236,6 +235,8 @@ For SendGrid domain whitelisting validation error [check Top-Level-Domain auto-a
 Browser and passwords remain a weak link in overall security posture.    
 
 One should avoid [common or weak passwords](https://www.ncsc.gov.uk/blog-post/passwords-passwords-everywhere) in personal accounts as well as accounts at organizations.     
+
+[How common is password-reuse problem?](https://www.troyhunt.com/only-secure-password-is-one-you-cant/)    
 
 ----
 
