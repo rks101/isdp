@@ -238,6 +238,16 @@ One should avoid [common or weak passwords](https://www.ncsc.gov.uk/blog-post/pa
 
 [How common is password-reuse problem?](https://www.troyhunt.com/only-secure-password-is-one-you-cant/)    
 
+
+Philosophy of a good and secure password:    
+A secure password is the one:     
+- you cannot remember    
+- you can retrieve it with what you know and what you have     
+- you never shared over wire/network and application never displayed you back    
+- you never shared with anyone     
+- you never wrote in email drafts/notebook/online accounts     
+
+
 ----
 
 ## Incidents or Examples   
