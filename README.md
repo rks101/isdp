@@ -271,8 +271,12 @@ Dec 2021
 [Location data leaked even app user opted-out](https://www.vice.com/en/article/5dgmqz/huq-location-data-opt-out-no-consent)   
 
 
-October 2021
+October 2021    
 [Facebook Papers](https://www.npr.org/2021/10/25/1049015366/the-facebook-papers-what-you-need-to-know)    
+
+September 2016    
+[Mirai Botnet](https://www.cloudflare.com/en-gb/learning/ddos/glossary/mirai-botnet/)   
+
 
 ----
 
