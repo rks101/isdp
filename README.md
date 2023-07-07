@@ -279,8 +279,8 @@ September 2016
 
 
 
-1999    
-[l0pht testifies to bring down internet](https://www.youtube.com/watch?v=VVJldn_MmMY)    
+1998    
+[l0pht testifies on many things and to bring down internet](https://www.youtube.com/watch?v=VVJldn_MmMY), customer data thefts are not new incidents!     
 
 1988    
 [Morris Worm](https://en.wikipedia.org/wiki/Morris_worm)    
