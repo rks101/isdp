@@ -280,7 +280,7 @@ September 2016
 
 
 1999    
-[l0pht testifies to bring down internet](https://www.youtube.com/watch?v=VVJldn_MmMY), [link2](https://www.youtube.com/watch?v=VVJldn_MmMY&t=183s)    
+[l0pht testifies to bring down internet](https://www.youtube.com/watch?v=VVJldn_MmMY)    
 
 1988    
 [Morris Worm](https://en.wikipedia.org/wiki/Morris_worm)    
