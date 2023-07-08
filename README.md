@@ -319,6 +319,7 @@ Kali linux has a long list of tools that can be used for OSINT and gathering det
 
 [Damn Vulnerable Web Applications](https://github.com/digininja/DVWA)   
 
+[Learn and teach to write secure code](https://cr.yp.to/qmail/guarantee.html)    
 
 ----
 
