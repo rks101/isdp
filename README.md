@@ -280,7 +280,7 @@ September 2016
 
 
 1998    
-[l0pht testifies on many things and to bring down internet](https://www.youtube.com/watch?v=VVJldn_MmMY), customer data thefts are not new incidents!     
+[l0pht testifies on many things and to bring down internet in 30 minutes](https://www.youtube.com/watch?v=VVJldn_MmMY), [link-3](https://www.washingtonpost.com/sf/business/2015/06/22/net-of-insecurity-part-3/), customer data thefts and security holes in the knowledge of companies - are not new incidents!     
 
 1988    
 [Morris Worm](https://en.wikipedia.org/wiki/Morris_worm)    
