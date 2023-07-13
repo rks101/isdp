@@ -1,5 +1,5 @@
 # isdp
-Information Security and Data Privacy topics and concerns with some examples - everything accessible in public domain. Surely, the content below can be structured in a better way and I am looking for assistance on this, for now, compliing self-notes.    
+This is a compilation of Information Security and Data Privacy (ISDP) topics and concerns with some examples - everything accessible in the public domain. The content below can be structured in a better way, and I am looking for assistance on this, for now, compiling self-notes.    
 
 
   * [ISDP](#isdp)  
@@ -19,8 +19,8 @@ Shannon's Maxim => _We should always assume that the enemy will have full knowle
 ## OSINT 
 OSINT => _Open Source INTelligence_   
 
-**Passive Reconnaissance** => your queries or packets are going to umpteen resources that are available on the public internet to anyone willing to query and they are not going to your target’s environment or network. e.g. using whois database query or DNS query for a domain    
-**OSINT** => Passive reconnaissance and intellegence gathered using your target’s resources that are explicitly meant for public use as to a potential user or role or affiliate. e.g. sslscan or curl query for a domain.    
+**Passive Reconnaissance** => Your queries or packets are going to umpteen resources that are available on the public internet to anyone willing to query, and they are not going to your target’s environment or network. e.g., using the whois database query or DNS query for a domain    
+**OSINT** => Passive reconnaissance and intelligence gathered using your target’s resources that are explicitly meant for public use as to a potential user or role, or affiliate. e.g., sslscan or curl query for a domain.    
 
 
 Jan 2023   
@@ -77,7 +77,7 @@ X-Frame-Options: SAMEORIGIN
 Location: https://eg.iitjammu.ac.in/
 Content-Type: text/html; charset=iso-8859-1
 ```
-Even more info with -Lvso options with curl:     
+Here is some more info using -Lvso options with curl:     
 ```
 $ curl -Lvso /dev/null  eg.iitjammu.ac.in
 *   Trying 13.126.157.211:80...
@@ -191,7 +191,7 @@ $ curl -Lvso /dev/null  eg.iitjammu.ac.in
 
 You can check your website's HTTP **response headers** at [securityheaders.com](https://securityheaders.com/)   
 
-For a top graded website and W3C compliance, set the following HTTP headers to suitable values:    
+For a top-graded website and W3C compliance, set the following HTTP headers to suitable values:    
 Strict-Transport-Security   
 X-Frame-Options   
 X-Content-Type-Options   
@@ -208,13 +208,13 @@ Some suggestions for [Apache server hardening](https://www.tecmint.com/apache-se
 ## SSL TLS Certificates 
 
 [TLS v1.3](https://sectigostore.com/blog/tls-version-1-3-what-to-know-about-the-latest-tls-version/), [TLS v1.3 RFC](https://datatracker.ietf.org/doc/html/rfc8446) released in August 2018 
-[Browser support or compatiability matrix for TLS v1.3](https://caniuse.com/tls1-3). Upgrade your web-browser once and you should be fine.   
+[Browser support or compatibility matrix for TLS v1.3](https://caniuse.com/tls1-3). Upgrade your web browser once, and you should be fine.   
 
 [TLS versions](https://www.covetus.com/blog/different-versions-of-transfer-layer-security-tls-its-working-and-benefits)   
 [TLS versions comparison](https://thesecmaster.com/what-is-ssl-tls-how-ssl-tls-1-2-and-tls-1-3-differ-from-each-other/)   
 [Enable/Disable TLS versions on popular servers](https://thesecmaster.com/how-to-enable-tls-1-3-on-popular-web-servers/) and [disable older TLS versions](https://www.ssl.com/guide/disable-tls-1-0-and-1-1-apache-nginx/)   
 
-To disable obsolete versions of SSL/TLS supported by Apache on Ubuntu specify them as follows in /etc/apache2/mods-enabled/ssl.conf, e.g.:
+To disable obsolete versions of SSL/TLS supported by Apache on Ubuntu, specify them as follows in /etc/apache2/mods-enabled/ssl.conf, e.g.:
 ```
 SSLProtocol all -SSLv3 -TLSv1 -TLSv1.1
 ```
@@ -223,27 +223,27 @@ and to allow TLSv1.2 and v1.3 only:
 SSLProtocol -all +TLSv1.2 +TLSv1.3
 ```
 
-Finally, keep on checking sslscan output, TLS certificate checks like one by [SSL Labs](https://www.ssllabs.com/ssltest/) for TLS certs and some basic vulnerability checks.   
+Finally, keep on checking the sslscan output, TLS certificate checks like one by [SSL Labs](https://www.ssllabs.com/ssltest/) for TLS certs, and some basic vulnerability checks.   
 
-At client side, do not ignore [SSL/TLS Certificate Errors and ways to address them](https://sematext.com/blog/ssl-certificate-error/)   
+On the client side, do not ignore [SSL/TLS Certificate Errors and ways to address them](https://sematext.com/blog/ssl-certificate-error/)   
 For SendGrid domain whitelisting validation error [check Top-Level-Domain auto-appending](https://web.archive.org/web/20170706082258/https://sendgrid.com/docs/Classroom/Troubleshooting/Authentication/i_have_created_dns_records_but_the_whitelabel_wizard_is_not_validating_them.html). You should check existing entries in DNS too.   
 
 ----
 
 ## Weak Links 
 
-Browser and passwords remain a weak link in overall security posture.    
+Browser and passwords remain a weak link in the overall security posture.    
 
 One should avoid [common or weak passwords](https://www.ncsc.gov.uk/blog-post/passwords-passwords-everywhere) in personal accounts as well as accounts at organizations.     
 
-[How common is password-reuse problem?](https://www.troyhunt.com/only-secure-password-is-one-you-cant/)    
+[How common is the password-reuse problem?](https://www.troyhunt.com/only-secure-password-is-one-you-cant/)    
 
 
 Philosophy of a good and secure password:    
 A secure password is the one:     
 - you cannot remember    
 - you can retrieve it with what you know and what you have     
-- you never shared over wire/network and application never displayed you back    
+- you never shared over wire/network, and the application never displays you back    
 - you never shared with anyone     
 - you never wrote in email drafts/notebook/online accounts     
 
@@ -260,7 +260,7 @@ Oct 2022
 
 
 April 2022   
-Android Apps [circumventing permission model](https://blog.appcensus.io/2022/04/06/the-curious-case-of-coulus-coelib/) using SDK copying phone numbers and leaking from device.   
+Android Apps [circumventing permission model](https://blog.appcensus.io/2022/04/06/the-curious-case-of-coulus-coelib/) using SDK copying phone numbers and leaking from the device.   
 
 
 March 2022   
@@ -274,48 +274,57 @@ Dec 2021
 October 2021    
 [Facebook Papers](https://www.npr.org/2021/10/25/1049015366/the-facebook-papers-what-you-need-to-know)    
 
+December 2020   
+SolarWinds - supply chain attack    
+
+May 2017   
+WannaCry ransomware    
+
 September 2016    
 [Mirai Botnet](https://www.cloudflare.com/en-gb/learning/ddos/glossary/mirai-botnet/)   
 
 
 
 1998    
-[l0pht testifies on many things and to bring down internet in 30 minutes](https://www.youtube.com/watch?v=VVJldn_MmMY), [link-3](https://www.washingtonpost.com/sf/business/2015/06/22/net-of-insecurity-part-3/), customer data thefts and security holes in the knowledge of companies - are not new incidents!     
+[l0pht (group of 7 hackers) testifies on many things, bringing down the internet in 30 minutes](https://www.youtube.com/watch?v=VVJldn_MmMY), [link-3](https://www.washingtonpost.com/sf/business/2015/06/22/net-of-insecurity-part-3/), customer data thefts by organization, and security holes in the knowledge of companies - this was in 1998!     
 
 1988    
 [Morris Worm](https://en.wikipedia.org/wiki/Morris_worm)    
+
+1979, 1994   
+[Kevin Mitnick](https://www.mitnicksecurity.com/about-kevin-mitnick-mitnick-security) - Hacked into DEC, Bell computers, and attempts on other networks.    
 
 ----
 
 ## Cyber Threat Intelligence   
 
-There are databases and organisations that provide a lot of data about cyber threats, incidents occurred, and models to analysis threats.     
+There are databases and organizations that provide a lot of data about cyber threats, incidents that occurred, and models to analyze threats.     
 
 MITRE, OWASP, etc, have some known databases that can provide ample cyber threat intelligence.    
 
 [OWASP top ten](https://owasp.org/www-project-top-ten/)    
 
-[MITRE ATT&CK matrix for enterprise](https://attack.mitre.org/matrices/enterprise/). Several other [ATT&CK matrices](https://attack.mitre.org/docs/ATTACK_Design_and_Philosophy_March_2020.pdf)  are published on Windows, macOS, Linux, Cloud, Mobile, etc. for categorisation of adversary behaviour.     
+[MITRE ATT&CK matrix for enterprise](https://attack.mitre.org/matrices/enterprise/). Several other [ATT&CK matrices](https://attack.mitre.org/docs/ATTACK_Design_and_Philosophy_March_2020.pdf)  are published on Windows, macOS, Linux, Cloud, Mobile, etc. for categorization of adversary behavior.     
 
 
 ---- 
 
 ## Hands-on    
 
-At times, creating and fiddling with environment set up is fun, learning, and hell yes, time consumming. These days, you can try out online environemnt or playgrounds without a need to install and create complex set up. So, for all those who cannot afford to have an environment or are too lazy to set up one, there are browser-based online learning kits available.     
+At times, creating and fiddling with environment setup is fun, learning, and hell yes, time consuming. These days, you can try out online environments or playgrounds without the need to install and create complex setups. So, for all those who cannot afford to have an environment or are too lazy to set up one, there are browser-based online learning kits available.     
 
-[Try Hack Me](https://tryhackme.com) - gives virtual rooms or environment accessible from within browser to try out a few things.    
+[Try Hack Me](https://tryhackme.com) - gives virtual rooms or environments accessible from within the web browser to try out a few things.    
 
 [Online Code Editors - Playgrounds](https://github.com/rks101/webapps#online-editors-playgrounds)    
 
 [Jupyter Labs](https://jupyter.org/try)     
 
-Besides these, follow up articles that dissect recent incidents up to the minute details and try out for fun.   
+Besides these, follow-up articles that dissect recent incidents up to the minute details and try out for fun.   
 
 [Null Byte](https://null-byte.wonderhowto.com/how-to/hack-like-pro-spy-anyone-part-1-hacking-computers-0156376/) on wonderhowto.com is a nice and scary read, at least to get a hang of what is possible in practice.     
 
-This thread is incomeplete without the mention of Offensive Security (OffSec) from where [Kali Linux](https://www.kali.org/), [Exploit-DB](https://www.exploit-db.com/),etc. have come up.   
-Kali linux has a long list of tools that can be used for OSINT and gathering details and working with tools of interest for checking on security and experiencing the joy of learning.   
+This thread is incomplete without the mention of Offensive Security (OffSec) from where [Kali Linux](https://www.kali.org/), [Exploit-DB](https://www.exploit-db.com/), etc. have come up.   
+Kali Linux has a long list of tools that can be used for OSINT and gathering details and working with tools of interest for checking on security and experiencing the joy of learning.   
 
 [Damn Vulnerable Web Applications](https://github.com/digininja/DVWA)   
 
