@@ -1,5 +1,5 @@
 # isdp
-This is a compilation of Information Security and Data Privacy (ISDP) topics and concerns with some examples - everything accessible in the public domain. The content below can be structured in a better way, and I am looking for assistance on this, for now, compiling self-notes.    
+This repository is a compilation of Information Security and Data Privacy (ISDP) topics and concerns with some examples - everything accessible in the public domain. The content below can be structured better, and I am looking for assistance on this, for now, compiling self-notes.    
 
 
   * [ISDP](#isdp)  
@@ -14,21 +14,19 @@ This is a compilation of Information Security and Data Privacy (ISDP) topics and
      * [Data Privacy](#data-privacy)  
 
 ## Shannon's Maxim 
-Shannon's Maxim => _We should always assume that the enemy will have full knowledge of how our system works._   
+Shannon's Maxim => _We should always assume that the enemy will fully know how our system works._   
 
 ## OSINT 
-OSINT => _Open Source INTelligence_   
+We hear about OSINT => _Open Source INTelligence_ often in the context of information security and data privacy to gather data stealthily or knock on the servers' doors.    
 
-**Passive Reconnaissance** => Your queries or packets are going to umpteen resources that are available on the public internet to anyone willing to query, and they are not going to your target’s environment or network. e.g., using the whois database query or DNS query for a domain    
-**OSINT** => Passive reconnaissance and intelligence gathered using your target’s resources that are explicitly meant for public use as to a potential user or role, or affiliate. e.g., sslscan or curl query for a domain.    
+**Passive Reconnaissance** => Your queries or packets are going to umpteen resources available on the public internet to anyone willing to query, and they are not going to your target’s environment or network. e.g., using the whois database query or DNS query for a domain    
+
+**OSINT** => Passive reconnaissance and intelligence gathered using your target’s resources explicitly meant for public use as to a potential user, role, or affiliate. e.g., sslscan or curl query for a domain.    
 
 
-Jan 2023   
 [OS Intelligence (OSINT) Tools](https://www.osinttechniques.com/osint-tools.html)   
 
 [Information you share is valuable](https://teachingprivacy.org/information-is-valuable/) and [You are leaving your footprints](https://teachingprivacy.org/youre-leaving-footprints/) at [Teaching Privacy](https://teachingprivacy.org)    
-
-[SSL Labs](https://www.ssllabs.com/ssltest) and [DigiCert](https://www.digicert.com/help/)   
 
 [Our World in Data](https://ourworldindata.org/)   
 
@@ -192,10 +190,10 @@ $ curl -Lvso /dev/null  eg.iitjammu.ac.in
 You can check your website's HTTP **response headers** at [securityheaders.com](https://securityheaders.com/)   
 
 For a top-graded website and W3C compliance, set the following HTTP headers to suitable values:    
-Strict-Transport-Security   
+Strict-Transport-Security <== HSTS   
 X-Frame-Options   
 X-Content-Type-Options   
-Content-Security-Policy    
+Content-Security-Policy     
 Referrer-Policy   
 Permissions-Policy    
 
@@ -225,11 +223,13 @@ and to allow TLSv1.2 and v1.3 only:
 SSLProtocol -all +TLSv1.2 +TLSv1.3
 ```
 
-Finally, keep on checking the sslscan output, TLS certificate checks like one by [SSL Labs](https://www.ssllabs.com/ssltest/) for TLS certs, and some basic vulnerability checks.   
+Finally, check the sslscan output, TLS certificate checks like the one by [SSL Labs](https://www.ssllabs.com/ssltest) and [DigiCert](https://www.digicert.com/help/) for TLS certs, and some basic vulnerability checks.   
+
+[Understand Online Certificate Status Protocol (OCSP) and Certificate Revokation](https://www.thesslstore.com/blog/ocsp-ocsp-stapling-ocsp-must-staple/)    
 
 On the client side, do not ignore [SSL/TLS Certificate Errors and ways to address them](https://sematext.com/blog/ssl-certificate-error/)   
 
-For SendGrid domain whitelisting validation error [check Top-Level-Domain auto-appending](https://web.archive.org/web/20170706082258/https://sendgrid.com/docs/Classroom/Troubleshooting/Authentication/i_have_created_dns_records_but_the_whitelabel_wizard_is_not_validating_them.html). You should check existing entries in DNS too.   
+For **SendGrid domain whitelisting** validation error [check Top-Level-Domain auto-appending](https://web.archive.org/web/20170706082258/https://sendgrid.com/docs/Classroom/Troubleshooting/Authentication/i_have_created_dns_records_but_the_whitelabel_wizard_is_not_validating_them.html). You should check existing entries in DNS too.   
 
 [SSL and TLS Deployment Best Practices](https://github.com/ssllabs/research/wiki/SSL-and-TLS-Deployment-Best-Practices)    
 
@@ -238,10 +238,10 @@ For SendGrid domain whitelisting validation error [check Top-Level-Domain auto-a
 Notes:-    
 * SSL/TLS Certificates are valid for a maximum of 398 days. You should take care of the time zone if the issuer is not in the same time zone as the host.    
 * Paid TLS certificates do not use better cryptography than free certificates (e.g., Let's Encrypt). Paid TLS can give you extended validity on certificates.    
-* Subject Alternate Name (SAN) or multi-domain TLS certificates allow additional host names to be protected by the same /single TLS certificate at the time of the creation of the certificate.   
+* Subject Alternate Name (SAN) or multi-domain TLS certificates allow additional host names to be protected by the same /single TLS certificate when creating the certificate.   
 * Apache allows you to virtually host multiple HTTPS sites with a single public IP address using SAN certificates.    
 * Wildcard certificate can protect all sub-domains of the same suffix top-level domain (TLD), e.g., *.mydomain.com - while for *.mydomain.org, you need a separate certificate.   
-* SSL is only referred to for historical reasons. Most of the SSL/TLS certificates use TLS v1.1 / v1.2 / v1.3 these days.   
+* SSL is only referred to for historical reasons. Most SSL/TLS certificates currently use TLS v1.2 / v1.3.   
 * Web browsers have a hardcoded list of trusted certificate authorities (CA) to check that your certificate is signed by someone it trusts.   
 * You can make a "self-signed" TLS certificate. Because a trusted certificate authority does not sign that certificate, browsers won't accept it.   
 
