@@ -483,12 +483,19 @@ e.g. open wallet:// or music:// in Safari on Apple phone/tablet/laptop.
 
 Compliance and hardening requirements   
 
+[Compare Data Protection laws of the world](https://www.dlapiperdataprotection.com/index.html)    
+
+[Right to Information (RTI) in India](https://rti.gov.in/)    
+
+[Digital Personal Data Protection Bill, 2022](https://www.meity.gov.in/writereaddata/files/The%20Digital%20Personal%20Data%20Protection%20Bill%2C%202022.pdf) and [webview](https://prsindia.org/billtrack/draft-the-digital-personal-data-protection-bill-2022)    
+
+[Cyber-Crisis Management Plan from Meity](https://www.cert-in.org.in/Downloader?pageid=5&type=2&fileName=CIPS-2017-0121.pdf), [CCMP from ministry](https://mowr.nic.in/core/Circulars/2022/e-Gov_21-12-2022_18.pdf), 
+
+[Health Insurance Portability and Accountability Act (HIPPA)](https://www.cdc.gov/phlp/publications/topic/hipaa.html)    
+
+[Children's Online Privacy Protection Rule (COPPA)](https://www.ftc.gov/legal-library/browse/rules/childrens-online-privacy-protection-rule-coppa)    
 
 FedRAMP    
-
-HIPPA    
-
-COPPA    
 
 FIPS 140-2   
 
