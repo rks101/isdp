@@ -503,6 +503,4 @@ FIPS 140-2
 
 [STIG](https://public.cyber.mil/stigs/)   
 
-CIS and Coomon Criteria   
-
 ---- 
