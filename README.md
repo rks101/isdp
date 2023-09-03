@@ -428,8 +428,7 @@ MITRE, OWASP, etc, have some known databases that can provide ample cyber threat
 
 [OWASP top ten](https://owasp.org/www-project-top-ten/)    
 
-[MITRE ATT&CK matrix for enterprise](https://attack.mitre.org/matrices/enterprise/). Several other [ATT&CK matrices](https://attack.mitre.org/docs/ATTACK_Design_and_Philosophy_March_2020.pdf)  are published on Windows, macOS, Linux, Cloud, Mobile, etc. for categorization of adversary behavior.     
-
+[MITRE ATT&CK matrix for enterprise](https://attack.mitre.org/matrices/enterprise/). Several other [ATT&CK matrices](https://attack.mitre.org/docs/ATTACK_Design_and_Philosophy_March_2020.pdf)  are published on Windows, macOS, Linux, Cloud, Mobile, etc., for categorization of adversary behavior.     
 
 ---- 
 
@@ -452,7 +451,6 @@ Cyber Kill Chain has seven steps:
 **Command & Control (C2)**: The successful installation of the malware provides the attacker with a command and control ability over the target system. This is like remotely monitoring and watching the exploit play.    
 
 **Actions on Objectives**: After gaining control over one target system (Hands-on-Keyboard access), the attacker has achieved their objectives. One example objective is Data Exfiltration (stealing target asset’s data).    
-
 
 ---- 
 
