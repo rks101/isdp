@@ -356,21 +356,23 @@ CPUINFO: OPENSSL_ia32cap=0x7ffaf3bfffebffff:0x18c05fdef3bfa7eb
 
 ## Weak Links 
 
-Browser and passwords remain a weak link in the overall security posture.    
+Web browsers and passwords remain a weak link in the overall security posture.    
 
-One should avoid [common or weak passwords](https://www.ncsc.gov.uk/blog-post/passwords-passwords-everywhere) in personal accounts as well as accounts at organizations.     
+One should avoid [common or weak passwords](https://www.ncsc.gov.uk/blog-post/passwords-passwords-everywhere) in personal accounts and accounts at organizations/workplace.     
 
 [How common is the password-reuse problem?](https://www.troyhunt.com/only-secure-password-is-one-you-cant/)    
 
 
-Philosophy of a good and secure password:    
+**Philosophy of a good and secure password**    
+
 A secure password is the one:     
 - you cannot remember    
-- you can retrieve it with what you know and what you have     
+- you can retrieve it - with what you know and what you have     
 - you never shared over wire/network, and the application never displays you back    
 - you never shared with anyone     
 - you never wrote in email drafts/notebook/online accounts     
-
+- you never reused it on multiple sites     
+- you never reused it on other sites with varying one or two digits/characters     
 
 ----
 
