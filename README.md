@@ -511,7 +511,7 @@ Compliance and hardening requirements
 
 [Right to Information (RTI) in India](https://rti.gov.in/)    
 
-[Digital Personal Data Protection Bill, 2022](https://www.meity.gov.in/writereaddata/files/The%20Digital%20Personal%20Data%20Protection%20Bill%2C%202022.pdf) and [webview](https://prsindia.org/billtrack/draft-the-digital-personal-data-protection-bill-2022)    
+[Digital Personal Data Protection Bill, 2022](https://www.meity.gov.in/writereaddata/files/The%20Digital%20Personal%20Data%20Protection%20Bill%2C%202022.pdf) and [press release](https://prsindia.org/billtrack/draft-the-digital-personal-data-protection-bill-2022) and [another post on privacy bills](https://blog.ipleaders.in/different-aspects-of-right-to-privacy-under-article-21/)    
 
 [Cyber-Crisis Management Plan from Meity](https://www.cert-in.org.in/Downloader?pageid=5&type=2&fileName=CIPS-2017-0121.pdf), [CCMP from ministry](https://mowr.nic.in/core/Circulars/2022/e-Gov_21-12-2022_18.pdf), 
 
