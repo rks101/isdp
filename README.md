@@ -458,7 +458,9 @@ Cyber Kill Chain has seven steps:
 
 ## Hands-on    
 
-At times, creating and fiddling with environment setup is fun, learning, and hell yes, time consuming. These days, you can try out online environments or playgrounds without the need to install and create complex setups. So, for all those who cannot afford to have an environment or are too lazy to set up one, there are browser-based online learning kits available.     
+At times, creating and fiddling with environment setup is fun, learning, and hell yes, time-consuming. These days, you can try out online environments or playgrounds without the need to install and create complex setups. So, for those who cannot afford an environment, or system or are too lazy to set up one, browser-based online learning kits are available.     
+
+[SEED Labs](https://seedsecuritylabs.org/) - grateful to receive (hard copy) labs from Professor Wenliang Du, Syracuse University.   
 
 [Try Hack Me](https://tryhackme.com) - gives virtual rooms or environments accessible from within the web browser to try out a few things.    
 
@@ -468,14 +470,18 @@ At times, creating and fiddling with environment setup is fun, learning, and hel
 
 Besides these, follow-up articles that dissect recent incidents up to the minute details and try out for fun.   
 
-[Null Byte](https://null-byte.wonderhowto.com/how-to/hack-like-pro-spy-anyone-part-1-hacking-computers-0156376/) on wonderhowto.com is a nice and scary read, at least to get a hang of what is possible in practice.     
+[Null Byte](https://null-byte.wonderhowto.com/how-to/hack-like-pro-spy-anyone-part-1-hacking-computers-0156376/) on wonderhowto.com is a nice and scary read to get a hang of what is possible in practice.     
 
 This thread is incomplete without the mention of Offensive Security (OffSec) from where [Kali Linux](https://www.kali.org/), [Exploit-DB](https://www.exploit-db.com/), etc. have come up.   
-Kali Linux has a long list of tools that can be used for OSINT and gathering details and working with tools of interest for checking on security and experiencing the joy of learning.   
+Kali Linux has a long list of tools that can be used for OSINT, gathering details, working with tools for security hands-on, and experiencing the joy of learning.   
 
 [Damn Vulnerable Web Applications](https://github.com/digininja/DVWA)   
 
 [Learn and teach to write secure code](https://cr.yp.to/qmail/guarantee.html)    
+
+[Consider contributing to SEED labs](https://github.com/seed-labs/seed-labs/blob/master/CONTRIBUTING.md)    
+
+[Consider contributing to Open Source projects]()    
 
 ----
 
