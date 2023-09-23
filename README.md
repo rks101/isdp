@@ -1,5 +1,5 @@
 # isdp
-This repository is a compilation of Information Security and Data Privacy (ISDP) topics and concerns with some examples - everything accessible in the public domain. The content below can be structured better, and I am looking for assistance on this, for now, compiling self-notes.    
+This repository is a compilation of Information Security and Data Privacy (ISDP) topics and concerns with some examples - everything accessible in the public domain. The content below can be structured better, and I am looking for assistance on this, for now, compiling self-notes for a course under construction 🙂    
 
 
   * [ISDP](#isdp)  
