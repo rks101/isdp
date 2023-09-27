@@ -541,9 +541,9 @@ FIPS 140-2
 ## Windows App Permissions    
 
 [Windows 11/10 App Permissions](https://support.microsoft.com/en-us/windows/app-permissions-aea98a7c-b61a-1930-6ed0-47f0ed2ee15c)    
-- what comes as surprise to us is why and when it became normal to give "Allow elevation" and "App diagnostics"!     
+- What comes as surprise to us is why and when it became normal to give permissions like "Allow elevation" and "App diagnostics"!     
 - While tech companies, collect and share data, are they alone going to control and dictate terms of privacy and security?     
-- Data exfiltration at the cost of using the so-called free app and implicit consent to "Terms and Conditions" users do not read or are not shown prominantly!    
+- Data exfiltration at the cost of using the so-called free apps and implicit consent to "Terms and Conditions" users do not read or are not shown prominantly!    
 
 ---- 
 
@@ -551,7 +551,7 @@ FIPS 140-2
 
 We have conducted three separate studies and we show apps are not transparent about permissions being asked from users and permissions being used in practice!     
 
-These studies voice our growing concerns over what an app says (looking at its application description) and what discrepancies are found when we look at permissions available to app and what is being used inside the binary code of the app. Digital Personal Data exfiltration happens at the cost of using the so-called free app and implicit/deemed consent to "Terms and Conditions" of users do not read them or these T&Cs are not shown prominantly!    
+These studies voice our growing concerns over what an app says (looking at its application description) and what discrepancies are found when we look at permissions available to app and what is being used inside the binary code of the app. Digital Personal Data exfiltration happens at the cost of using the so-called free app and implicit/deemed consent to "Terms and Conditions" of users do not read them or these T&Cs are not shown prominantly! It has become difficult to locate permissions details than before.     
 
 TODO: add details of studies     
 
