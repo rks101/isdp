@@ -12,7 +12,10 @@ This repository is a compilation of Information Security and Data Privacy (ISDP)
      * [Cyber Kill Chain](#cyber-kill-chain) 
      * [Practice and Hands-on](#hands\-on) 
      * [URL Schemes](#url-schemes) 
-     * [Data Privacy](#data-privacy)  
+     * [Data Privacy](#data-privacy)
+     * [Guidelines and Standards](#guidelines-and-standards) 
+     * [Windows App Permissions](#windows-app-permissions) 
+     * [Android App Permissions](#android-app-permissions) 
 
 ## Shannon's Maxim 
 Shannon's Maxim => _We should always assume that the enemy will fully know how our system works._   
@@ -532,5 +535,24 @@ FIPS 140-2
 [DISA-STIG](https://www.perforce.com/blog/kw/what-is-DISA-STIG)   
 
 [STIG](https://public.cyber.mil/stigs/)   
+
+---- 
+
+## Windows App Permissions    
+
+[Windows 11/10 App Permissions](https://support.microsoft.com/en-us/windows/app-permissions-aea98a7c-b61a-1930-6ed0-47f0ed2ee15c)    
+- what comes as surprise to us is why and when it became normal to give "Allow elevation" and "App diagnostics"!     
+- While tech companies, collect and share data, are they alone going to control and dictate terms of privacy and security?     
+- Data exfiltration at the cost of using the so-called free app and implicit consent to "Terms and Conditions" users do not read or are not shown prominantly!    
+
+---- 
+
+## Android App Permissions     
+
+We have conducted three separate studies and we show apps are not transparent about permissions being asked from users and permissions being used in practice!     
+
+These studies voice our growing concerns over what an app says (looking at its application description) and what discrepancies are found when we look at permissions available to app and what is being used inside the binary code of the app. Digital Personal Data exfiltration happens at the cost of using the so-called free app and implicit/deemed consent to "Terms and Conditions" of users do not read them or these T&Cs are not shown prominantly!    
+
+TODO: add details of studies     
 
 ---- 
