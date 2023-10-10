@@ -21,7 +21,7 @@ This repository is a compilation of Information Security and Data Privacy (ISDP)
 Shannon's Maxim => _We should always assume that the enemy will fully know how our system works._   
 
 ## OSINT 
-We hear about OSINT => _Open Source INTelligence_ often in the context of information security and data privacy to gather data stealthily or knock on the servers' doors.    
+We hear about OSINT => _Open Source INTelligence_ often in the context of information security and data privacy to gather data stealthily or by knocking on the servers' doors.    
 
 **Passive Reconnaissance** => Your queries or packets are going to umpteen resources available on the public internet to anyone willing to query, and they are not going to your target’s environment or network. e.g., using the whois database query or DNS query for a domain    
 
