@@ -508,7 +508,7 @@ e.g. open wallet:// or music:// in Safari on Apple phone/tablet/laptop.
 
 [A day in the life of your data](https://www.apple.com/privacy/docs/A_Day_in_the_Life_of_Your_Data.pdf) from Apple.    
 
-
+[Google Pays Apple 36% of search revenue from Safari on iPhones to keep it default search engine](https://www.msn.com/en-in/money/news/google-s-sundar-pichai-confirms-it-pays-apple-36-of-search-revenue-from-safari/ar-AA1jXP9e?ocid=msedgntp&pc=DCTS&cvid=833d703b64f141999ce33b9a089661bd&ei=42)     
 
 ----
 
