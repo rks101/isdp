@@ -510,6 +510,8 @@ e.g. open wallet:// or music:// in Safari on Apple phone/tablet/laptop.
 
 [Google Pays Apple 36% of search revenue from Safari on iPhones to keep it default search engine](https://www.msn.com/en-in/money/news/google-s-sundar-pichai-confirms-it-pays-apple-36-of-search-revenue-from-safari/ar-AA1jXP9e?ocid=msedgntp&pc=DCTS&cvid=833d703b64f141999ce33b9a089661bd&ei=42)     
 
+[SPARK report to address journal's Data Privacy Practices](https://sparcopen.org/news/2023/sparc-report-urges-action-to-address-concerns-with-sciencedirect-data-privacy-practices/)    
+
 ----
 
 ## Guidelines and standards     
