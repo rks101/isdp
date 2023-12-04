@@ -381,6 +381,10 @@ A secure password is the one:
 
 ## Incidents or Examples   
 
+
+October 2023   
+[Google mitigated the largest DDoS attack to date, peaking above 398 million req/sec](https://cloud.google.com/blog/products/identity-security/google-cloud-mitigated-largest-ddos-attack-peaking-above-398-million-rps)    
+
 April 2023    
 [Atomic macOS stealer](https://thehackernews.com/2023/04/new-atomic-macos-stealer-can-steal-your.html)    
 
