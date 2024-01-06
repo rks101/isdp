@@ -1,6 +1,8 @@
 # isdp
 This repository is a compilation of Information Security and Data Privacy (ISDP) topics and concerns with some examples - everything accessible in the public domain. The content below can be structured better, and I am looking for assistance on this, for now, compiling self-notes for a course under construction 🙂    
 
+Note:- You get to be aware of constant surveillance not just web browsers, and even cameras around you: because good Cameras watch you at 3 meters and people even with science and technology backgrounds are hellbent on justifying cameras in offices/rooms too with absolutely no regard to your mental health or data privacy. They can do so and are very good at it!     
+
 
   * [ISDP](#isdp)  
      * [OSINT](#osint)  
@@ -361,7 +363,7 @@ CPUINFO: OPENSSL_ia32cap=0x7ffaf3bfffebffff:0x18c05fdef3bfa7eb
 
 Web browsers and passwords remain a weak link in the overall security posture.    
 
-One should avoid [common or weak passwords](https://www.ncsc.gov.uk/blog-post/passwords-passwords-everywhere) in personal accounts and accounts at organizations/workplace.     
+One should avoid [common or weak passwords](https://www.ncsc.gov.uk/blog-post/passwords-passwords-everywhere) in personal accounts and accounts at organizations/workplaces.     
 
 [How common is the password-reuse problem?](https://www.troyhunt.com/only-secure-password-is-one-you-cant/)    
 
@@ -371,11 +373,13 @@ One should avoid [common or weak passwords](https://www.ncsc.gov.uk/blog-post/pa
 A secure password is the one:     
 - you cannot remember    
 - you can retrieve it - with what you know and what you have     
-- you never shared over wire/network, and the application never displays you back    
+- you never shared over wire/network, and the application never displays you back *^ 
 - you never shared with anyone     
 - you never wrote in email drafts/notebook/online accounts     
 - you never reused it on multiple sites     
-- you never reused it on other sites with varying one or two digits/characters     
+- you never reused it on other sites with varying one or two digits/characters
+  
+*^ (because good Cameras watch you at 3 meters and people even with science and technology backgrounds are hellbent on justifying cameras in offices/rooms too with absolutely no regard to your mental health or data privacy)     
 
 ----
 
