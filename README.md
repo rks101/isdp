@@ -381,6 +381,9 @@ A secure password is the one:
 
 ## Incidents or Examples   
 
+October 2023 
+[Some of the worst cyberattacks in 2023 including Okta, MOVEit, LastPass, and T-Mobile](https://www.wired.com/story/worst-hacks-2023/)     
+Rethink about the online password managers and their promises.      
 
 October 2023   
 [Google mitigated the largest DDoS attack to date, peaking above 398 million req/sec](https://cloud.google.com/blog/products/identity-security/google-cloud-mitigated-largest-ddos-attack-peaking-above-398-million-rps)    
