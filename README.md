@@ -417,6 +417,8 @@ October 2021
 December 2020   
 SolarWinds - supply chain attack    
 
+[Zimperium blog - Dissecting Mobile Native Code](https://www.zimperium.com/blog/dissecting-mobile-native-code-packers-case-study/)   
+
 May 2017   
 WannaCry ransomware    
 
