@@ -20,7 +20,8 @@ Note:- You get to be aware of constant surveillance not just web browsers, and e
      * [Android App Permissions](#android-app-permissions) 
 
 ## Shannon's Maxim 
-Shannon's Maxim => _We should always assume that the enemy will fully know how our system works._   
+Shannon's Maxim => _We should always assume that the enemy will fully know how our system works._    
+rks: So, can we make it easy, make it explicit, to make better, to break better, to defend better?    
 
 ## OSINT 
 We hear about OSINT => _Open Source INTelligence_ often in the context of information security and data privacy to gather data stealthily or by knocking on the servers' doors.    
