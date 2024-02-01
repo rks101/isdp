@@ -500,6 +500,8 @@ Kali Linux has a long list of tools that can be used for OSINT, gathering detail
 
 [Consider contributing to Open Source projects]()    
 
+Mailing lists: Take a plung into publicly available open-source software, utilities, and their (developer) mailing lists, e.g. Linux kernel, Git, Clang, GCC, shell built-ins, Postgresql, github repositories, OSR, stack-overflow, etc.    
+
 ----
 
 ## URL Schemes 
