@@ -15,13 +15,13 @@ Note:- You get to be aware of constant surveillance not just web browsers, and e
      * [Practice and Hands-on](#hands\-on) 
      * [URL Schemes](#url-schemes) 
      * [Data Privacy](#data-privacy)
-     * [Guidelines and Standards](#guidelines-and-standards) 
+     * [Compliance and Hardening requirements](#Compliance-and-Hardening-requirements)   
      * [Windows App Permissions](#windows-app-permissions) 
      * [Android App Permissions](#android-app-permissions) 
 
 ## Shannon's Maxim 
 Shannon's Maxim => _We should always assume that the enemy will fully know how our system works._    
-rks: So, can we make it easy, make it explicit, to make better, to break better, to defend better?    
+rks101: So, can we make it easy, make it explicit, to make better, to break better, to defend better?    
 
 ## OSINT 
 We hear about OSINT => _Open Source INTelligence_ often in the context of information security and data privacy to gather data stealthily or by knocking on the servers' doors.    
@@ -530,29 +530,33 @@ e.g. open wallet:// or music:// in Safari on Apple phone/tablet/laptop.
 
 ----
 
-## Guidelines and standards     
+## Compliance and Hardening requirements     
 
-Compliance and hardening requirements   
+This section compiles a few compliance and hardening requirements.    
 
 [Compare Data Protection laws of the world](https://www.dlapiperdataprotection.com/index.html)    
 
 [Right to Information (RTI) in India](https://rti.gov.in/)    
 
-[Digital Personal Data Protection Bill, 2022](https://www.meity.gov.in/writereaddata/files/The%20Digital%20Personal%20Data%20Protection%20Bill%2C%202022.pdf) and [press release](https://prsindia.org/billtrack/draft-the-digital-personal-data-protection-bill-2022) and [another post on privacy bills](https://blog.ipleaders.in/different-aspects-of-right-to-privacy-under-article-21/)    
+[Digital Personal Data Protection Bill, 2022, India](https://www.meity.gov.in/writereaddata/files/The%20Digital%20Personal%20Data%20Protection%20Bill%2C%202022.pdf) and [press release](https://prsindia.org/billtrack/draft-the-digital-personal-data-protection-bill-2022) and [another post on privacy bills](https://blog.ipleaders.in/different-aspects-of-right-to-privacy-under-article-21/)    
 
-[Cyber-Crisis Management Plan from Meity](https://www.cert-in.org.in/Downloader?pageid=5&type=2&fileName=CIPS-2017-0121.pdf), [CCMP from ministry](https://mowr.nic.in/core/Circulars/2022/e-Gov_21-12-2022_18.pdf), 
+[Cyber-Crisis Management Plan from Meity, India](https://www.cert-in.org.in/Downloader?pageid=5&type=2&fileName=CIPS-2017-0121.pdf), [CCMP from ministry](https://mowr.nic.in/core/Circulars/2022/e-Gov_21-12-2022_18.pdf), 
 
 [Health Insurance Portability and Accountability Act (HIPPA)](https://www.cdc.gov/phlp/publications/topic/hipaa.html)    
 
 [Children's Online Privacy Protection Rule (COPPA)](https://www.ftc.gov/legal-library/browse/rules/childrens-online-privacy-protection-rule-coppa)    
 
-FedRAMP    
+[FedRAMP](https://www.gsa.gov/technology/government-it-initiatives/fedramp)     
+FedRAMP refers to Federal Risk and Authorization Management Program (FedRAMP) — a US program for security assessment, authorization, and continuous monitoring for cloud products and services.     
 
-FIPS 140-2   
+[FIPS 140-2](https://en.wikipedia.org/wiki/FIPS_140-2)    
+FIPS or Federal Information Processing Standard Publication 140-2, is a US government computer security standard used to approve cryptographic modules.   
 
 [DISA-STIG](https://www.perforce.com/blog/kw/what-is-DISA-STIG)   
+DISA STIG refers to an organization DISA — Defense Information Systems Agency that provides technical guides STIG — Security Technical Implementation Guide.    
 
 [STIG](https://public.cyber.mil/stigs/)   
+STIG refers to Security Technical Implementation Guide    
 
 ---- 
 
