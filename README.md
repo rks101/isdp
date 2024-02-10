@@ -386,9 +386,9 @@ A secure password is the one:
 
 ## Incidents or Examples   
 
-October 2023 
+October 2023     
 [Some of the worst cyberattacks in 2023 including Okta, MOVEit, LastPass, and T-Mobile](https://www.wired.com/story/worst-hacks-2023/)     
-Rethink about the online password managers and their promises.      
+Rethink about the online password managers and their promises. Do not store passwords in online password managers.     
 
 October 2023   
 [Google mitigated the largest DDoS attack to date, peaking above 398 million req/sec](https://cloud.google.com/blog/products/identity-security/google-cloud-mitigated-largest-ddos-attack-peaking-above-398-million-rps)    
@@ -405,7 +405,8 @@ Android Apps [circumventing permission model](https://blog.appcensus.io/2022/04/
 
 
 March 2022   
-A seemingly-legitimate looking Process Manager changes its avatar to malware and downloads another app to make money. [link1](https://www.androidpolice.com/malware-russian-hackers-tracks-you-records-audio/) app records audio and [link2](https://lab52.io/blog/complete-dissection-of-an-apk-with-a-suspicious-c2-server/) with dissection of the issue.  
+A seemingly-legitimate looking Process Manager changes its avatar to malware and downloads another app to make money.    
+[link1](https://www.androidpolice.com/malware-russian-hackers-tracks-you-records-audio/) app records audio and [link2](https://lab52.io/blog/complete-dissection-of-an-apk-with-a-suspicious-c2-server/) with dissection of the issue.  
 
 
 Dec 2021   
@@ -416,20 +417,20 @@ October 2021
 [Facebook Papers](https://www.npr.org/2021/10/25/1049015366/the-facebook-papers-what-you-need-to-know)    
 
 December 2020   
-SolarWinds - supply chain attack    
+[SolarWinds - supply chain attack](https://www.fortinet.com/resources/cyberglossary/solarwinds-cyber-attack) and a rather [untold long story of SolarWinds supply chain attack](https://www.wired.com/story/the-untold-story-of-solarwinds-the-boldest-supply-chain-hack-ever/)     
 
 [Zimperium blog - Dissecting Mobile Native Code](https://www.zimperium.com/blog/dissecting-mobile-native-code-packers-case-study/)   
 
 May 2017   
-WannaCry ransomware    
+[WannaCry ransomware](https://www.kaspersky.com/resource-center/threats/ransomware-wannacry), [how it was stopped](https://www.cloudflare.com/en-gb/learning/security/ransomware/wannacry-ransomware/) and [EternalBlue](https://en.wikipedia.org/wiki/EternalBlue)     
 
 September 2016    
 [Mirai Botnet](https://www.cloudflare.com/en-gb/learning/ddos/glossary/mirai-botnet/)   
 
-
+...     
 
 1998    
-[l0pht (group of 7 hackers) testifies on many things, bringing down the internet in 30 minutes](https://www.youtube.com/watch?v=VVJldn_MmMY), [link-3](https://www.washingtonpost.com/sf/business/2015/06/22/net-of-insecurity-part-3/), customer data thefts by organization, and security holes in the knowledge of companies - this was in 1998!     
+[l0pht (group of 7 hackers) testified on many things, bringing down the internet in 30 minutes](https://www.youtube.com/watch?v=VVJldn_MmMY), [link-3](https://www.washingtonpost.com/sf/business/2015/06/22/net-of-insecurity-part-3/), customer data thefts by organization, and security holes in the knowledge of companies - this was in 1998!     
 
 1988    
 [Morris Worm](https://en.wikipedia.org/wiki/Morris_worm)    
