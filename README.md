@@ -528,6 +528,12 @@ e.g. open wallet:// or music:// in Safari on Apple phone/tablet/laptop.
 
 [SPARK report to address journal's Data Privacy Practices](https://sparcopen.org/news/2023/sparc-report-urges-action-to-address-concerns-with-sciencedirect-data-privacy-practices/)    
 
+### Data Brokers and Trackers    
+
+A data broker can be defined as a business/entity that knowingly collects and sells to third parties the personal information of a consumer with whom the business does not have a direct relationship. The country-specific laws can exempt some of these entities. Exempted businesses/entities may include consumer reporting agencies - credit bureaus, certain financial institutions, and insurance companies. e.g., In India CIBIL, CCI, NeSL, etc. may be exempted.     
+
+Tracker:    
+
 ----
 
 ## Compliance and Hardening requirements     
@@ -545,6 +551,8 @@ This section compiles a few compliance and hardening requirements.
 [Health Insurance Portability and Accountability Act (HIPPA)](https://www.cdc.gov/phlp/publications/topic/hipaa.html)    
 
 [Children's Online Privacy Protection Rule (COPPA)](https://www.ftc.gov/legal-library/browse/rules/childrens-online-privacy-protection-rule-coppa)    
+
+[California Consumer Privacy Act (CCPA)](https://oag.ca.gov/privacy/ccpa) - protects the rights of California (USA) residents to access their personal information, ask for deletion, and request that their personal data not be collected or resold. e.g., right to know, right to delete, right to opt-out, right to non-discrimination, right to correct, and right to limit.    
 
 [FedRAMP](https://www.gsa.gov/technology/government-it-initiatives/fedramp)     
 FedRAMP refers to Federal Risk and Authorization Management Program (FedRAMP) — a US program for security assessment, authorization, and continuous monitoring for cloud products and services.     
