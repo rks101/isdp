@@ -1,7 +1,7 @@
 # isdp
 This repository is a compilation of Information Security and Data Privacy (ISDP) topics and concerns with some examples - everything accessible in the public domain. The content below can be structured better, and I am looking for assistance on this, for now, compiling self-notes for a course under construction 🙂    
 
-Note:- You get to be aware of constant surveillance not just web browsers, and even cameras around you: because good Cameras watch you at 3 meters and people even with science and technology backgrounds are hellbent on justifying cameras in offices/rooms too with absolutely no regard to your mental health or data privacy. They can do so and are very good at it!     
+Note:- You get to be aware of constant surveillance, not just web browsers, but even cameras around you, because good Cameras watch you at 3 meters, and people, even with science and technology backgrounds, are hellbent on justifying cameras in offices/rooms too with absolutely no regard to your mental health or data privacy. They can do so to boost purchases or justify investments and are very good at it! You can speak up before it reaches your doors.      
 
 
   * [ISDP](#isdp)  
@@ -389,6 +389,8 @@ A secure password is the one:
 October 2023     
 [Some of the worst cyberattacks in 2023 including Okta, MOVEit, LastPass, and T-Mobile](https://www.wired.com/story/worst-hacks-2023/)     
 Rethink about the online password managers and their promises. Do not store passwords in online password managers.     
+
+[The State of Ransomware in the U.S.: Report and Statistics 2023](https://www.emsisoft.com/en/blog/44987/the-state-of-ransomware-in-the-u-s-report-and-statistics-2023/)     
 
 October 2023   
 [Google mitigated the largest DDoS attack to date, peaking above 398 million req/sec](https://cloud.google.com/blog/products/identity-security/google-cloud-mitigated-largest-ddos-attack-peaking-above-398-million-rps)    
