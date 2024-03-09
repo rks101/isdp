@@ -572,9 +572,9 @@ STIG refers to Security Technical Implementation Guide
 ## Windows App Permissions    
 
 [Windows 11/10 App Permissions](https://support.microsoft.com/en-us/windows/app-permissions-aea98a7c-b61a-1930-6ed0-47f0ed2ee15c)    
-- What comes as surprise to us is why and when it became normal to give permissions like "Allow elevation" and "App diagnostics"!     
+- What comes as a surprise to us is why and when it became normal to give permissions like "Allow elevation" and "App diagnostics"!     
 - While tech companies, collect and share data, are they alone going to control and dictate terms of privacy and security?     
-- Data exfiltration at the cost of using the so-called free apps and implicit consent to "Terms and Conditions" users do not read or are not shown prominantly!    
+- Data exfiltration at the cost of using the so-called free apps and implicit consent to "Terms and Conditions" users do not read or are not shown prominently!    
 
 ---- 
 
@@ -582,8 +582,14 @@ STIG refers to Security Technical Implementation Guide
 
 We have conducted three separate studies and we show apps are not transparent about permissions being asked from users and permissions being used in practice!     
 
-These studies voice our growing concerns over what an app says (looking at its application description) and what discrepancies are found when we look at permissions available to app and what is being used inside the binary code of the app. Digital Personal Data exfiltration happens at the cost of using the so-called free app and implicit/deemed consent to "Terms and Conditions" of users do not read them or these T&Cs are not shown prominantly! It has become difficult to locate permissions details than before.     
+These studies voice our growing concerns over what an app says (looking at its application description) and what discrepancies are found when we look at permissions available to the app and what is being used inside the binary code of the app. Digital Personal Data exfiltration happens at the cost of using the so-called free app and implicit/deemed consent to "Terms and Conditions" of users do not read them or these T&Cs are not shown prominently! It has become more difficult to locate permission details than before.     
 
 TODO: add details of studies     
 
 ---- 
+
+## Random stats    
+
+[Teens Spend Average of 4.8 Hours on Social Media Per Day](https://news.gallup.com/poll/512576/teens-spend-average-hours-social-media-per-day.aspx) - Source Gallup, 2023    
+
+[41 US States sue Meta in Oct 2023](https://www.washingtonpost.com/technology/2023/10/24/meta-lawsuit-facebook-instagram-children-mental-health/) alleging the company's platforms are addictive and detrimental to children's mental health. This is how Big Tech firms deploy algorithms to maximize user engagement and profits through advt.    
