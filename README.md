@@ -392,6 +392,8 @@ Rethink about the online password managers and their promises. Do not store pass
 
 [The State of Ransomware in the U.S.: Report and Statistics 2023](https://www.emsisoft.com/en/blog/44987/the-state-of-ransomware-in-the-u-s-report-and-statistics-2023/)     
 
+[Qakbot malware botnet infrastructure taken down](https://www.europol.europa.eu/media-press/newsroom/news/qakbot-botnet-infrastructure-shattered-after-international-operation) after affecting 7,00,00 systems and EUR 54 million paid in ransom.     
+
 October 2023   
 [Google mitigated the largest DDoS attack to date, peaking above 398 million req/sec](https://cloud.google.com/blog/products/identity-security/google-cloud-mitigated-largest-ddos-attack-peaking-above-398-million-rps)    
 
