@@ -17,7 +17,9 @@ Note:- You get to be aware of constant surveillance, not just web browsers, but 
      * [Data Privacy](#data-privacy)
      * [Compliance and Hardening requirements](#Compliance-and-Hardening-requirements)   
      * [Windows App Permissions](#windows-app-permissions) 
-     * [Android App Permissions](#android-app-permissions) 
+     * [Android App Permissions](#android-app-permissions)
+     * [Random Stats](#random-stats)
+     * [Jargons](#jargons)
 
 ## Shannon's Maxim 
 Shannon's Maxim => _We should always assume that the enemy will fully know how our system works._    
@@ -559,6 +561,12 @@ This section compiles a few compliance and hardening requirements.
 
 [California Consumer Privacy Act (CCPA)](https://oag.ca.gov/privacy/ccpa) - protects the rights of California (USA) residents to access their personal information, ask for deletion, and request that their personal data not be collected or resold. e.g., right to know, right to delete, right to opt-out, right to non-discrimination, right to correct, and right to limit.    
 
+[California Privacy Right Act (CPRA)](https://www.mineos.ai/glossary/cpra) is an amendment to CCPA.    
+
+[Personal Information Protection Act(PIPA)] in Japan     
+
+[ISO27001] Client's Data Security Protection    
+
 [FedRAMP](https://www.gsa.gov/technology/government-it-initiatives/fedramp)     
 FedRAMP refers to Federal Risk and Authorization Management Program (FedRAMP) — a US program for security assessment, authorization, and continuous monitoring for cloud products and services.     
 
@@ -570,6 +578,8 @@ DISA STIG refers to an organization DISA — Defense Information Systems Agency 
 
 [STIG](https://public.cyber.mil/stigs/)   
 STIG refers to Security Technical Implementation Guide    
+
+[Family Educational Rights and Privacy Act(FERPA)]()    
 
 ---- 
 
@@ -597,3 +607,26 @@ TODO: add details of studies
 [Teens Spend Average of 4.8 Hours on Social Media Per Day](https://news.gallup.com/poll/512576/teens-spend-average-hours-social-media-per-day.aspx) - Source Gallup, 2023    
 
 [41 US States sue Meta in Oct 2023](https://www.washingtonpost.com/technology/2023/10/24/meta-lawsuit-facebook-instagram-children-mental-health/) alleging the company's platforms are addictive and detrimental to children's mental health. This is how Big Tech firms deploy algorithms to maximize user engagement and profits through advt.    
+
+----
+
+## Jargons    
+
+Privacy    
+PII: Personally Identifiable Information   
+RTBF: Right to Be Forgotten   
+AMP: Accelerated Mobile Pages    
+ATT: App Tracking Transparency   
+DP: Differential Privacy    
+PHA: Potentially Harmful Applications   
+RBAC: Role-Based Access Control    
+
+Security    
+SIEM: Security information and event management    
+SOC: Security Operations Center    
+NOC: Network Operations Center    
+TAC: Technical Assistance Center   
+RMA: Return Material Authorization    
+EDR: End-point detection and response   
+XDR: Extended detection and response    
+IAM: Identity and Access Management   
