@@ -258,6 +258,52 @@ Notes:-
 
 ----
 
+**Publically searchable SSL/TLS databases** store Certificate Transparency (CT) logs for every SSL/TLS certificate created.    
+
+```
+https://crt.sh/?q=saral.iitjammu.ac.in
+
+crt.sh ID	 Logged At  ⇧	Not Before	Not After	Common Name	Matching Identities	Issuer Name
+12457506210	2024-03-21	2024-03-21	2025-03-21	saral.iitjammu.ac.in	saral.iitjammu.ac.in	C=US, ST=Arizona, L=Scottsdale, O="GoDaddy.com, Inc.", OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2
+
+https://crt.sh/?q=eg.iitjammu.ac.in
+
+crt.sh ID	 Logged At  ⇧	Not Before	Not After	Common Name	Matching Identities	Issuer Name
+12457516850	2024-03-21	2023-10-03	2024-10-27	eg.iitjammu.ac.in	eg.iitjammu.ac.in
+www.eg.iitjammu.ac.in	C=US, ST=Arizona, L=Scottsdale, O="GoDaddy.com, Inc.", OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2
+10580537009	2023-10-03	2022-10-01	2023-10-27	eg.iitjammu.ac.in	eg.iitjammu.ac.in
+www.eg.iitjammu.ac.in	C=US, ST=Arizona, L=Scottsdale, O="GoDaddy.com, Inc.", OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2
+10580367151	2023-10-03	2023-10-03	2024-10-27	eg.iitjammu.ac.in	eg.iitjammu.ac.in
+www.eg.iitjammu.ac.in	C=US, ST=Arizona, L=Scottsdale, O="GoDaddy.com, Inc.", OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2
+7655110496	2022-10-01	2022-10-01	2023-10-27	eg.iitjammu.ac.in	eg.iitjammu.ac.in
+www.eg.iitjammu.ac.in	C=US, ST=Arizona, L=Scottsdale, O="GoDaddy.com, Inc.", OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2
+5307822883	2021-09-29	2021-09-29	2022-10-31	eg.iitjammu.ac.in	eg.iitjammu.ac.in
+www.eg.iitjammu.ac.in	C=US, ST=Arizona, L=Scottsdale, O="GoDaddy.com, Inc.", OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2
+3582841268	2020-10-31	2020-10-27	2021-10-27	eg.iitjammu.ac.in	eg.iitjammu.ac.in
+www.eg.iitjammu.ac.in	C=US, ST=Arizona, L=Scottsdale, O="GoDaddy.com, Inc.", OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2
+3563761812	2020-10-27	2020-10-27	2021-10-27	eg.iitjammu.ac.in	eg.iitjammu.ac.in
+www.eg.iitjammu.ac.in	C=US, ST=Arizona, L=Scottsdale, O="GoDaddy.com, Inc.", OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2
+
+
+https://crt.sh/?q=erp.iitjammu.ac.in
+
+crt.sh ID	 Logged At  ⇧	Not Before	Not After	Common Name	Matching Identities	Issuer Name
+2827528381	2020-05-19	2020-05-12	2022-06-22	erp.iitjammu.ac.in	erp.iitjammu.ac.in
+www.erp.iitjammu.ac.in	C=US, ST=Arizona, L=Scottsdale, O="GoDaddy.com, Inc.", OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2
+2797505830	2020-05-12	2020-05-12	2022-06-22	erp.iitjammu.ac.in	erp.iitjammu.ac.in
+www.erp.iitjammu.ac.in	C=US, ST=Arizona, L=Scottsdale, O="GoDaddy.com, Inc.", OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2
+1612288285	2019-06-25	2019-06-22	2020-06-22	erp.iitjammu.ac.in	erp.iitjammu.ac.in
+www.erp.iitjammu.ac.in	C=US, ST=Arizona, L=Scottsdale, O="GoDaddy.com, Inc.", OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2
+1603025694	2019-06-22	2019-06-22	2020-06-22	erp.iitjammu.ac.in	erp.iitjammu.ac.in
+www.erp.iitjammu.ac.in	C=US, ST=Arizona, L=Scottsdale, O="GoDaddy.com, Inc.", OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2
+576000286	2018-07-06	2018-06-22	2019-06-22	erp.iitjammu.ac.in	erp.iitjammu.ac.in
+www.erp.iitjammu.ac.in	C=US, ST=Arizona, L=Scottsdale, O="GoDaddy.com, Inc.", OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2
+542356038	2018-06-22	2018-06-22	2019-06-22	erp.iitjammu.ac.in	erp.iitjammu.ac.in
+www.erp.iitjammu.ac.in	C=US, ST=Arizona, L=Scottsdale, O="GoDaddy.com, Inc.", OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2
+```
+
+----
+
 Using `openssl` for SSL/TLS certificates    
 
 e.g., check if a remote server uses TLSv1.2 - if you get the certificate chain back, it's all good.    
