@@ -8,6 +8,7 @@ Note:- You get to be aware of constant surveillance, not just web browsers, but 
      * [OSINT](#osint)  
      * [HTTP Response Headers](#http-response-headers)  
      * [SSL/TLS Certificates](#ssl-tls-certificates)
+     * [Encode Decode](#encode-decode)
      * [Weak Links](#weak-links)
      * [Incidents or Examples](#incidents-or-examples)  
      * [Cyber Threat Intelligence](#cyber-threat-intelligence)
@@ -405,6 +406,15 @@ CPUINFO: OPENSSL_ia32cap=0x7ffaf3bfffebffff:0x18c05fdef3bfa7eb
 
 ```
 [Online OpenSSL cookbook](https://www.feistyduck.com/library/openssl-cookbook/online/)     
+
+----
+
+## Encode Decode    
+
+Common encoding types are base32 which converts binary data to the string of characters A-Z and 2-7, and base64 which converts using the characters a-z, A-Z, 0-9, +, / and the equals sign used for padding.   
+[Base64 Encoder](https://www.base64encode.org/)     
+
+[crackstation.net](https://crackstation.net/) to try Hash cracker/resolver.    
 
 ----
 
