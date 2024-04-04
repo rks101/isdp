@@ -20,6 +20,7 @@ Note:- You get to be aware of constant surveillance, not just web browsers, but 
      * [Windows App Permissions](#windows-app-permissions) 
      * [Android App Permissions](#android-app-permissions)
      * [Random Stats](#random-stats)
+     * [Quiz](#quiz)
      * [Jargons](#jargons)
 
 ## Shannon's Maxim 
@@ -665,6 +666,15 @@ TODO: add details of studies
 [41 US States sue Meta in Oct 2023](https://www.washingtonpost.com/technology/2023/10/24/meta-lawsuit-facebook-instagram-children-mental-health/) alleging the company's platforms are addictive and detrimental to children's mental health. This is how Big Tech firms deploy algorithms to maximize user engagement and profits through advt.    
 
 ----
+
+## Quiz   
+
+Q1. In 1942, the US government passed the Victory Act, causing the top tax rate to skyrocket to 88 percent, which rose to 94 percent in 1944 due to various surtaxes. The top tax rate in Britain rose as high as 98 percent in the 1940s. In Germany, the top tax rate climbed to 64.99 percent in 1941. What was the top tax rate in Ukraine, which was engulfed in war for over two years during 2022-24? Why?     
+
+Q2. In India, B. Tech. Undergraduate students take 60 to 70 courses (theory, labs, projects) over four years, amounting to 120 to 160 credits as per degree requirements. How many courses does one remember for the longest time? Count yours :) After working for ten years in one or two industries, what courses s/he misses the most that should have been taught in the first graduation?     
+
+
+---- 
 
 ## Jargons    
 
