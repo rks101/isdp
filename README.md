@@ -421,6 +421,8 @@ Common encoding types are base32 which converts binary data to the string of cha
 
 [crackstation.net](https://crackstation.net/) to try Hash cracker/resolver.    
 
+[AES encryption decryption online tools](https://devglan.com/online-tools/aes-encryption-decryption)    
+
 ----
 
 ## Weak Links 
