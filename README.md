@@ -451,6 +451,10 @@ A secure password is the one:
 
 ## Incidents or Examples   
 
+
+April 2024    
+[This is a repeat of FedEx courier fraud and its ugly fraud](https://timesofindia.indiatimes.com/city/bengaluru/fedex-fraud-woman-made-to-strip-on-cam-loses-15l/articleshow/109145771.cms) [link2](https://www.thenewsminute.com/karnataka/fedex-scam-bengaluru-woman-made-to-strip-on-cam-transfer-rs-15-lakh).    
+
 October 2023     
 [Some of the worst cyberattacks in 2023 including Okta, MOVEit, LastPass, and T-Mobile](https://www.wired.com/story/worst-hacks-2023/)     
 Rethink about the online password managers and their promises. Do not store passwords in online password managers.     
