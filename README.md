@@ -9,6 +9,7 @@ Note:- You get to be aware of constant surveillance, not just web browsers, but 
 
 
   * [ISDP](#isdp)  
+     * [CIA and DAD](cia-and-dad) 
      * [OSINT](#osint)  
      * [HTTP Response Headers](#http-response-headers)  
      * [SSL/TLS Certificates](#ssl-tls-certificates)
@@ -30,6 +31,18 @@ Note:- You get to be aware of constant surveillance, not just web browsers, but 
 ## Shannon's Maxim 
 Shannon's Maxim => _We should always assume that the enemy will fully know how our system works._    
 rks101: So, can we make it easy, make it explicit? to make better, break better, and defend better?    
+
+---- 
+
+## CIA and DAD    
+
+CIA triad is a model that guides security policies for information security. CIA triad refers to an information system's confidentiality, integrity, and availability.      
+
+The attackers or adversaries have a mindset of another countering approach - the DAD triad that refers to disclosure, alteration, and denial of information.    
+
+[DAD](https://library.mosse-institute.com/articles/2022/05/the-attacker-mindset-the-dad-triad/the-attacker-mindset-the-dad-triad.html)     
+
+---- 
 
 ## OSINT 
 We hear about OSINT => _Open Source INTelligence_ often in the context of information security and data privacy to gather data stealthily or by knocking on the servers' doors.    
