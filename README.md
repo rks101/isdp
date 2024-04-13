@@ -696,7 +696,7 @@ TODO: add details of studies
 
 Q1. In 1942, the US government passed the Victory Act, causing the top tax rate to skyrocket to 88 percent, which rose to 94 percent in 1944 due to various surtaxes. The top tax rate in Britain rose as high as 98 percent in the 1940s. In Germany, the top tax rate climbed to 64.99 percent in 1941. What was the top tax rate in Ukraine, which was engulfed in war for over two years during 2022-24? Why?     
 
-Q2. In India, B. Tech. Undergraduate students take 60 to 70 courses (theory, labs, projects) over four years, amounting to 120 to 160 credits as per degree requirements. How many courses does one remember for the longest time? Count yours :) After working for ten years in one or two industries, what courses s/he misses the most that should have been taught in the first graduation?     
+Q2. In India, B. Tech. Undergraduate students take 60 to 70 courses (theory, labs, projects) over four years, amounting to 120 to 160 credits as per degree requirements. How many courses does one remember for the longest time? Count yours :) After working for ten years in one or two industries, what courses s/he misses the most that should have been taught in the first college degree?     
 
 
 ---- 
@@ -706,7 +706,6 @@ Q2. In India, B. Tech. Undergraduate students take 60 to 70 courses (theory, lab
 Privacy    
 PII: Personally Identifiable Information   
 RTBF: Right to Be Forgotten   
-AMP: Accelerated Mobile Pages    
 ATT: App Tracking Transparency   
 DP: Differential Privacy    
 PHA: Potentially Harmful Applications   
