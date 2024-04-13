@@ -27,6 +27,7 @@ Note:- You get to be aware of constant surveillance, not just web browsers, but 
      * [Random Stats](#random-stats)
      * [Quiz](#quiz)
      * [Jargons](#jargons)
+     * [VAPT)(#vapt)
 
 ## Shannon's Maxim 
 Shannon's Maxim => _We should always assume that the enemy will fully know how our system works._    
@@ -720,3 +721,19 @@ RMA: Return Material Authorization
 EDR: End-point detection and response   
 XDR: Extended detection and response    
 IAM: Identity and Access Management   
+
+----
+
+## VAPT    
+
+Vulnerability assessment and penetration testing (VAPT)     
+
+[OWASP top 10 vulnerabilities](https://github.com/payloadbox/command-injection-payload-list)   
+
+[Cross Site Scripting (XSS) detection tool - XSStrike](https://github.com/s0md3v/XSStrike)    
+
+[Command injection sample payloads](https://github.com/payloadbox/command-injection-payload-list)     
+
+[API Scanner ZAP](https://www.jit.io/blog/api-scanner-with-owasp-zap)    
+
+
