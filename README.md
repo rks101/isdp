@@ -9,7 +9,7 @@ Note:- You get to be aware of constant surveillance, not just web browsers, but 
 
 
   * [ISDP](#isdp)  
-     * [CIA and DAD](cia-and-dad) 
+     * [CIA and DAD](#cia-and-dad) 
      * [OSINT](#osint)  
      * [HTTP Response Headers](#http-response-headers)  
      * [SSL/TLS Certificates](#ssl-tls-certificates)
@@ -27,7 +27,7 @@ Note:- You get to be aware of constant surveillance, not just web browsers, but 
      * [Random Stats](#random-stats)
      * [Quiz](#quiz)
      * [Jargons](#jargons)
-     * [VAPT)(#vapt)
+     * [VAPT](#vapt)
 
 ## Shannon's Maxim 
 Shannon's Maxim => _We should always assume that the enemy will fully know how our system works._    
