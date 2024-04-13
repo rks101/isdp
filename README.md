@@ -51,6 +51,7 @@ We hear about OSINT => _Open Source INTelligence_ often in the context of inform
 
 **OSINT** => Passive reconnaissance and intelligence gathered using your target’s resources explicitly meant for public use as to a potential user, role, or affiliate. e.g., sslscan or curl query for a domain.    
 
+[A few sources of OSINT](https://www.crowdstrike.com/cybersecurity-101/osint-open-source-intelligence/) - published studies, research papers, news articles, public data repositories, survey data, data released by government agencies, voluntary disclosures, leaked data online, archives of historical data, etc.     
 
 [OS Intelligence (OSINT) Tools](https://www.osinttechniques.com/osint-tools.html)   
 
