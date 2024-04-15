@@ -509,6 +509,9 @@ December 2020
 
 [Zimperium blog - Dissecting Mobile Native Code](https://www.zimperium.com/blog/dissecting-mobile-native-code-packers-case-study/)   
 
+Dec 2019    
+[Researcher shows access to one frame at a time for private YouTube videos, receives bounty](https://bugs.xdavidhu.me/google/2021/01/11/stealing-your-private-videos-one-frame-at-a-time/)     
+
 May 2017   
 [WannaCry ransomware](https://www.kaspersky.com/resource-center/threats/ransomware-wannacry), [how it was stopped](https://www.cloudflare.com/en-gb/learning/security/ransomware/wannacry-ransomware/) and [EternalBlue](https://en.wikipedia.org/wiki/EternalBlue)     
 
