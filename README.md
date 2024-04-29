@@ -440,6 +440,8 @@ Common encoding types are base32 which converts binary data to the string of cha
 
 [AES encryption decryption online tools](https://devglan.com/online-tools/aes-encryption-decryption)    
 
+[MD5 and many more hashes](https://md5hashing.net/) to encode and decode text.    
+
 ----
 
 ## Weak Links 
