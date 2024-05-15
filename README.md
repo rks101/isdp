@@ -433,14 +433,20 @@ CPUINFO: OPENSSL_ia32cap=0x7ffaf3bfffebffff:0x18c05fdef3bfa7eb
 
 ## Encode Decode    
 
-Common encoding types are base32 which converts binary data to the string of characters A-Z and 2-7, and base64 which converts using the characters a-z, A-Z, 0-9, +, / and the equals sign used for padding.   
+Common encoding types are base32, which converts binary data to the string of characters A-Z and 2-7, and base64, which converts using the characters a-z, A-Z, 0-9, +, / and the equals sign used for padding.   
 [Base64 Encoder](https://www.base64encode.org/)     
+
+Encoding and encryption are two different things.    
+
+**Rainbow tables**: Online tools can help retrieve an original message from a hash using rainbow tables of stored hashes and messages.    
 
 [crackstation.net](https://crackstation.net/) to try Hash cracker/resolver.    
 
 [AES encryption decryption online tools](https://devglan.com/online-tools/aes-encryption-decryption)    
 
-[MD5 and many more hashes](https://md5hashing.net/) to encode and decode text.    
+[MD5 and many more hashes](https://md5hashing.net/) to decode the message.    
+
+[hashcat](https://hashcat.net/wiki/doku.php?id=example_hashes) provides example hashes.     
 
 ----
 
