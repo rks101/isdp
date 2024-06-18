@@ -650,6 +650,8 @@ This section compiles a few compliance and hardening requirements.
 
 [Cyber-Crisis Management Plan from Meity, India](https://www.cert-in.org.in/Downloader?pageid=5&type=2&fileName=CIPS-2017-0121.pdf), [CCMP from ministry](https://mowr.nic.in/core/Circulars/2022/e-Gov_21-12-2022_18.pdf), 
 
+[GDPR - Global Data Protection Regulation in EU](https://gdpr-info.eu/)    
+
 [Health Insurance Portability and Accountability Act (HIPPA)](https://www.cdc.gov/phlp/publications/topic/hipaa.html)    
 
 [Children's Online Privacy Protection Rule (COPPA)](https://www.ftc.gov/legal-library/browse/rules/childrens-online-privacy-protection-rule-coppa)    
