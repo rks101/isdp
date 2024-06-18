@@ -1,5 +1,5 @@
 # isdp
-This repository is a compilation of Information Security and Data Privacy (ISDP) topics and concerns with some examples - everything accessible in the public domain. The content below can be structured better, and I am looking for assistance on this, for now, compiling self-notes for a course under construction 🙂    
+This repository is a compilation of topics and concerns related to Information Security and Data Privacy (ISDP), with some examples. Everything is accessible in the public domain. The content below can be structured better, and I am looking for assistance on this, for now, compiling self-notes for a course under construction 🙂    
 
 The importance and relevancy of cybersecurity are ever-increasing and can be in every walk of life around us. News headlines fill our screens, reporting yet another hack or data leak. How often do we pay attention before submitting data to websites or mobile apps?     
 
@@ -659,6 +659,8 @@ This section compiles a few compliance and hardening requirements.
 [California Privacy Right Act (CPRA)](https://www.mineos.ai/glossary/cpra) is an amendment to CCPA.    
 
 [Personal Information Protection Act(PIPA)] in Japan     
+
+[PCI DSS - Payment Card Industry Data Security Standard](https://docs-prv.pcisecuritystandards.org/PCI%20DSS/Supporting%20Document/PCI_DSS-QRG-v4_0.pdf)     
 
 [ISO27001] Client's Data Security Protection    
 
