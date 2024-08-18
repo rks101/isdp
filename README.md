@@ -756,4 +756,7 @@ Vulnerability assessment and penetration testing (VAPT)
 
 [API Scanner ZAP](https://www.jit.io/blog/api-scanner-with-owasp-zap)    
 
+[GTFOBins](https://gtfobins.github.io/) is a curated list of Unix/Linux binaries that can be used to handle local security restrictions in misconfigured systems.    
+
+[LOLBAS](https://lolbas-project.github.io/) - "Living Off The Land Binaries, Scripts and Libraries" is a collection of Windows binaries that can be used to handle security restrictions in misconfigured systems.     
 
