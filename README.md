@@ -3,9 +3,9 @@ This repository is a compilation of topics and concerns related to Information S
 
 The importance and relevancy of cybersecurity are ever-increasing and can be in every walk of life around us. News headlines fill our screens, reporting yet another hack or data leak. How often do we pay attention before submitting data to websites or mobile apps?     
 
-Cybersecurity is relevant to everyone in the modern world, including a strong password policy to protect individual emails and workplaces or organizations needing to protect both devices and data from damage and accidental leakage.    
+Cybersecurity is relevant to everyone in the modern world, including a strong password policy to protect individual accounts at workplaces. Organizations must protect individual's personal data from accidental leakage.    
 
-Note:- You get to be aware of constant surveillance, not just web browsers, but even cameras around you, because good Cameras watch you at 3 meters, and people, even with science and technology backgrounds, are hellbent on justifying cameras in offices/rooms too with absolutely no regard to your mental health or data privacy. They can do so to boost purchases or justify investments and are very good at it! You can speak up before it reaches your doors, dorms, or residence. Speak up for data collection minimization.   
+Note:- You get to be aware of constant surveillance, not just web browsers, data trackers, and over-privileged apps, but even cameras around you. Good Cameras watch you at 3-to-6 meters, and people, even with science and technology backgrounds, are hellbent on justifying cameras in offices/rooms, pointed at your screens, too, with absolutely no regard for your mental health or data privacy. They can do so and are very good at justifying investment in it! You can speak up for data collection minimization.   
 
 
   * [ISDP](#isdp)  
