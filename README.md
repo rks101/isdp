@@ -634,6 +634,10 @@ e.g. open wallet:// or music:// in Safari on Apple phone/tablet/laptop.
 
 [SPARK report to address journal's Data Privacy Practices](https://sparcopen.org/news/2023/sparc-report-urges-action-to-address-concerns-with-sciencedirect-data-privacy-practices/)    
 
+[Elevation of Privacy](https://github.com/WithSecureOpenSource/elevation-of-privacy)     
+
+[Elevation of Privileges](https://github.com/adamshostack/eop/tree/master) Card Game     
+
 ### Data Brokers and Trackers    
 
 A data broker can be defined as a business/entity that knowingly collects and sells to third parties the personal information of a consumer with whom the business does not have a direct relationship. The country-specific laws can exempt some of these entities. Exempted businesses/entities may include consumer reporting agencies - credit bureaus, certain financial institutions, and insurance companies. e.g., In India CIBIL, CCI, NeSL, etc. may be exempted.     
