@@ -5,7 +5,7 @@ The importance and relevancy of cybersecurity are ever-increasing and can be in 
 
 Cybersecurity is relevant to everyone in the modern world, including a strong password policy to protect individual accounts at workplaces. Organizations must protect individual's personal data from accidental leakage.    
 
-Note:- You get to be aware of constant surveillance, not just web browsers, data trackers, and over-privileged apps, but even cameras around you. Good Cameras watch you at 3-to-6 meters, and people, even with science and technology backgrounds, are hellbent on justifying cameras in offices/rooms, pointed at your screens, too, with absolutely no regard for your mental health or data privacy. They can do so and are very good at justifying investment in it! You can speak up for data collection minimization.   
+Note:- You get to be aware of constant surveillance, not just web browsers, data trackers, and over-privileged apps, but even cameras around you. Good cameras can watch you and your screen activities! Speak up for data collection minimization.    
 
 
   * [ISDP](#isdp)  
@@ -500,7 +500,7 @@ Oct 2022
 
 April 2022   
 Android Apps [circumventing permission model](https://blog.appcensus.io/2022/04/06/the-curious-case-of-coulus-coelib/) using SDK copying phone numbers and leaking from the device.   
-
+[WebEx monitors microphone from browsers even when muted](https://www.securityweek.com/webex-monitors-microphone-even-when-muted-researchers-say/)     
 
 March 2022   
 A seemingly-legitimate looking Process Manager changes its avatar to malware and downloads another app to make money.    
