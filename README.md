@@ -470,7 +470,7 @@ A secure password is the one:
 - you never reused it on multiple sites     
 - you never reused it on other sites with varying one or two digits/characters
   
-*^ (because good Cameras watch you at 3 meters and people even with science and technology backgrounds are hellbent on justifying cameras in offices/rooms too with absolutely no regard to your mental health or data privacy)     
+*^ (Be careful when you type your passwords/PINs, etc. because Cameras watch you at 3 meters in offices, cafeterias, classrooms, labs (and cannot stop thefts), ATMs, wherever you go or reside. Who cares about your mental health or data privacy?)     
 
 ----
 
@@ -497,6 +497,8 @@ April 2023
 Oct 2022   
 [Insecure Direct Object Reference (IDOR)](https://www.varonis.com/blog/what-is-idor-insecure-direct-object-reference)   
 
+June 2022     
+[Summer of software patches](https://web.archive.org/web/20220710092527/https://www.wired.com/story/you-need-to-update-windows-and-chrome-right-now)    
 
 April 2022   
 Android Apps [circumventing permission model](https://blog.appcensus.io/2022/04/06/the-curious-case-of-coulus-coelib/) using SDK copying phone numbers and leaking from the device.   
@@ -534,8 +536,11 @@ September 2016
 
 ...     
 
+2009    
+[Stuxnet - malware to target centrifuges at Iran's uranium enrichment facility outside Natanz, Iran](https://web.archive.org/web/20220728015902/https://www.cyber.nj.gov/threat-center/threat-profiles/ics-malware-variants/stuxnet)     
+
 1998    
-[l0pht (group of 7 hackers) testified on many things, bringing down the internet in 30 minutes](https://www.youtube.com/watch?v=VVJldn_MmMY), [link-3](https://www.washingtonpost.com/sf/business/2015/06/22/net-of-insecurity-part-3/), customer data thefts by organization, and security holes in the knowledge of companies - this was in 1998!     
+[l0pht (group of 7 hackers) testified on many things, bringing down the internet in 30 minutes](https://www.youtube.com/watch?v=VVJldn_MmMY), [link-3](https://www.washingtonpost.com/sf/business/2015/06/22/net-of-insecurity-part-3/), customer data thefts by organization, and security loopholes in the knowledge of companies - this was in 1998!     
 
 1988    
 [Morris Worm](https://en.wikipedia.org/wiki/Morris_worm)    
