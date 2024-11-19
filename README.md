@@ -613,6 +613,8 @@ Kali Linux has a long list of tools that can be used for OSINT, gathering detail
 
 Mailing lists: Take a plung into publicly available open-source software, utilities, and their (developer) mailing lists, e.g. Linux kernel, Git, Clang, GCC, shell built-ins, Postgresql, github repositories, OSR, stack-overflow, etc.    
 
+[Handbook on Basics of Digital Hygiene for Higher Education](https://mgcub.ac.in/pdf/202411081824431ad590ed84.pdf) by UGC, India.     
+
 ----
 
 ## URL Schemes 
