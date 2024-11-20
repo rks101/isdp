@@ -651,6 +651,8 @@ A data broker can be defined as a business/entity that knowingly collects and se
 
 Tracker:    
 
+[The state of Mobile App Security](https://licelus.com/resources/state-of-mobile-app-security) by Lecel     
+
 ----
 
 ## Compliance and Hardening requirements     
