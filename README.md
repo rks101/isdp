@@ -470,7 +470,7 @@ A secure password is the one:
 - you never reused it on multiple sites     
 - you never reused it on other sites with varying one or two digits/characters
   
-*^ (Be careful when you type your passwords/PINs, etc. because Cameras watch you at 3 meters in offices, cafeterias, classrooms, labs (and cannot stop thefts), ATMs, wherever you go or reside. Who cares about your mental health or data privacy?)     
+*^ (Be careful when you type your passwords/PINs because Cameras watch you at 3 meters in offices (and cannot stop thefts), ATMs, public places, and wherever not. Who cares about your mental health or privacy?)    
 
 ----
 
