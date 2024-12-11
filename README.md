@@ -642,6 +642,8 @@ This section compiles a few compliance and hardening requirements.
 
 [Digital Personal Data Protection Bill, 2022, India](https://www.meity.gov.in/writereaddata/files/The%20Digital%20Personal%20Data%20Protection%20Bill%2C%202022.pdf) and [press release](https://prsindia.org/billtrack/draft-the-digital-personal-data-protection-bill-2022) and [another post on privacy bills](https://blog.ipleaders.in/different-aspects-of-right-to-privacy-under-article-21/)    
 
+[Digital Personal Data Protection Act (DPDP Act), 2023](https://www.meity.gov.in/content/digital-personal-data-protection-act-2023)    
+
 [Cyber-Crisis Management Plan from Meity, India](https://www.cert-in.org.in/Downloader?pageid=5&type=2&fileName=CIPS-2017-0121.pdf), [CCMP from ministry](https://mowr.nic.in/core/Circulars/2022/e-Gov_21-12-2022_18.pdf), 
 
 [GDPR - Global Data Protection Regulation in EU](https://gdpr-info.eu/)    
