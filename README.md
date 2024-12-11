@@ -756,3 +756,5 @@ Vulnerability assessment and penetration testing (VAPT)
 
 [SonarQube - Static Analyzer](https://www.sonarsource.com/products/sonarqube/)    
 
+[Reverse Engineering iOS apps](https://web.archive.org/web/20171222000837/https://www.owasp.org/images/b/b9/OWASP_Mobile_App_Hacking_%28AppSecUSA_2014%29_Workshop_Content.pdf)    
+
