@@ -566,7 +566,7 @@ MITRE, OWASP, etc, have some known databases that can provide ample cyber threat
 
 [Cyber Kill Chain](https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html) is a framework developed by Lockheed Martin under Intelligence Driven Defence for identifying and preventing cyber intrusions. The framework/model identifies what the adversaries must complete in order to achieve their objective.     
 
-Cyber Kill Chain has seven steps:     
+[//]: # Cyber Kill Chain has seven steps:     
 
 **Recon** (reconnaissance): Recon refers to activities where the attacker tries to learn as much as possible about the target - the types of servers, operating systems, IP addresses, names of users, harvesting email addresses, and anything that can help the attack’s success.    
 
