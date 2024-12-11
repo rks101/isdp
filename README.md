@@ -55,7 +55,7 @@ We hear about OSINT => _Open Source INTelligence_ often in the context of inform
 
 [OS Intelligence (OSINT) Tools](https://www.osinttechniques.com/osint-tools.html)   
 
-[Information you share is valuable](https://teachingprivacy.org/information-is-valuable/) and [You are leaving your footprints](https://teachingprivacy.org/youre-leaving-footprints/) at [Teaching Privacy](https://teachingprivacy.org)    
+[Information you share is valuable](https://teachingprivacy.org/information-is-valuable/) and [You are leaving your footprints](https://teachingprivacy.org/youre-leaving-footprints/), that makes [Teaching Privacy](https://teachingprivacy.org) important!    
 
 [Our World in Data](https://ourworldindata.org/)   
 
