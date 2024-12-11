@@ -561,28 +561,6 @@ MITRE, OWASP, etc, have some known databases that can provide ample cyber threat
 
 ---- 
 
-[//]: <> (## Cyber Kill Chain)    
-
-[//]: <> ([Cyber Kill Chain](https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html) is a framework developed by Lockheed Martin under Intelligence Driven Defence for identifying and preventing cyber intrusions. The framework/model identifies what the adversaries must complete in order to achieve their objective.)     
-
-[//]: <> (Cyber Kill Chain has seven steps:)   
-
-[//]: <> (**Recon** (reconnaissance): Recon refers to activities where the attacker tries to learn as much as possible about the target - the types of servers, operating systems, IP addresses, names of users, harvesting email addresses, and anything that can help the attack’s success.)    
-
-[//]: <> (**Weaponization**: This step refers to coupling exploit or preparing a file with a malicious component, for example, to provide the attacker with remote access.)    
-
-[//]: <> (**Delivery**: Delivery means delivering the “weaponized” bundle or file to the target via any feasible method, e.g., email, web hyperlink, or USB flash drive.)    
-
-[//]: <> (**Exploitation**: When users open the malicious bundle or file, their target system executes the malicious component.)    
-
-[//]: <> (**Installation**: This step should install the malicious component on the target assets to unleash mayhem.)    
-
-[//]: <> (**Command & Control (C2)**: The successful installation of the malware provides the attacker with a command and control ability over the target system. This is like remotely monitoring and watching the exploit play.)    
-
-[//]: <> (**Actions on Objectives**: After gaining control over one target system (Hands-on-Keyboard access), the attacker has achieved their objectives. One example objective is Data Exfiltration (stealing target asset’s data).)    
-
----- 
-
 ## Hands-on    
 
 At times, creating and fiddling with environment setup is fun, learning, and hell yes, time-consuming. These days, you can try out online environments or playgrounds without the need to install and create complex setups. So, for those who cannot afford an environment, or system or are too lazy to set up one, browser-based online learning kits are available.     
