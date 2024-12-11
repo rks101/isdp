@@ -773,3 +773,7 @@ Vulnerability assessment and penetration testing (VAPT)
 
 [LOLBAS](https://lolbas-project.github.io/) - "Living Off The Land Binaries, Scripts and Libraries" is a collection of Windows binaries that can be used to handle security restrictions in misconfigured systems.     
 
+[MobSF - Mobile-Security-Framework for Android, iOS mobile apps](https://github.com/MobSF/Mobile-Security-Framework-MobSF)    
+
+[SonarQube - Static Analyzer](https://www.sonarsource.com/products/sonarqube/)    
+
