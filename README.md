@@ -25,7 +25,6 @@ Note:- You get to be aware of constant surveillance, not just web browsers, data
      * [Android App Permissions](#android-app-permissions)
      * [Random Stats](#random-stats)
      * [Quiz](#quiz)
-     * [Jargons](#jargons)
      * [VAPT](#vapt)
 
 ## Shannon's Maxim 
@@ -718,7 +717,7 @@ Q2. In India, B. Tech. Undergraduate students take 60 to 70 courses (theory, lab
 
 
 ---- 
-
+<!-- 
 ## Jargons    
 
 Privacy    
@@ -738,8 +737,7 @@ RMA: Return Material Authorization
 EDR: End-point detection and response   
 XDR: Extended detection and response    
 IAM: Identity and Access Management   
-
-----
+-->
 
 ## VAPT    
 
