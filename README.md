@@ -30,7 +30,8 @@ Note:- You get to be aware of constant surveillance, not just web browsers, data
 
 ## Shannon's Maxim 
 Shannon's Maxim => _We should always assume that the enemy will fully know how our system works._    
-rks101: So, can we make it easy, make it explicit? to make better, break better, and defend better?    
+
+[//]: <> Can we make it explicit? to make better, break better, and defend better?    
 
 ---- 
 
