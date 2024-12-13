@@ -565,9 +565,13 @@ MITRE, OWASP, etc, have some known databases that can provide ample cyber threat
 
 At times, creating and fiddling with environment setup is fun, learning, and hell yes, time-consuming. These days, you can try out online environments or playgrounds without the need to install and create complex setups. So, for those who cannot afford an environment, or system or are too lazy to set up one, browser-based online learning kits are available.     
 
-[SEED Labs](https://seedsecuritylabs.org/) - grateful to receive (hard copy) labs from Professor Wenliang Du, Syracuse University.   
+[SEED Labs](https://seedsecuritylabs.org/) - labs from Professor Wenliang Du, Syracuse University.   
 
 [Try Hack Me](https://tryhackme.com) - gives virtual rooms or environments accessible from within the web browser to try out a few things.    
+
+[Hack The Box](https://www.hackthebox.com)    
+
+[ISAC Foundation](https://isacfoundation.org)     
 
 [Online Code Editors - Playgrounds](https://github.com/rks101/webapps#online-editors-playgrounds)    
 
