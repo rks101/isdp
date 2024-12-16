@@ -637,6 +637,8 @@ Tracker:
 
 [The state of Mobile App Security](https://licelus.com/resources/state-of-mobile-app-security) by Lecel     
 
+Some [companies](https://unicourt.com/) collect data from public records to share on the internet, run analytics, offer APIs, and charge a fee. e.g., Court hearings, litigation data, etc. There are [compelling reasons](https://thehill.com/opinion/technology/4820294-ai-data-public-records-privacy/) why public records should be off-limits for AI systems.     
+
 ----
 
 ## Compliance and Hardening requirements     
