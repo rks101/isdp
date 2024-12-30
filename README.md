@@ -1,11 +1,11 @@
 # isdp
-This repository is a compilation of topics and concerns related to Information Security and Data Privacy (ISDP), with some examples. Everything is accessible in the public domain. The content below can be structured better, and I am looking for assistance on this, for now, compiling self-notes for a course under construction 🙂    
+This repository is a compilation of topics and concerns related to Information Security and Data Privacy (ISDP). Every example mentioned below is accessible in the public domain. The content below can be structured better, and I am looking for assistance on this; for now, compiling self-notes for a course under construction 🙂    
 
-The importance and relevancy of cybersecurity are ever-increasing and can be in every walk of life around us. News headlines fill our screens, reporting yet another hack or data leak. How often do we pay attention before submitting data to websites or mobile apps?     
+The importance and relevancy of cybersecurity and privacy practices are only increasing with automation around us. News headlines fill our screens, reporting yet another hack, data leak, or cyber fraud. How often do we pay attention before submitting data to websites or mobile apps?     
 
-Cybersecurity is relevant to everyone in the modern world, including a strong password policy to protect individual accounts at workplaces. Organizations must protect individual's personal data from accidental leakage.    
+Cybersecurity is relevant to everyone in the modern world, including a strong password policy to protect individual accounts at workplaces. Organizations must protect personally identifiable information (PII) from accidental leakage and look toward minimizing data collection with the Notify and Consent principle.    
 
-Note:- You get to be aware of constant surveillance, not just web browsers, data trackers, and over-privileged apps, but even cameras around you. Good cameras can watch you and your screen activities! Speak up for data collection minimization.    
+Note:- You get to be aware of constant surveillance, not just web browsers, data trackers, and over-privileged apps, but even cameras around you. Good cameras can watch you and your screen activities in your personal space boundary! Identify those boundaries. Speak up for data collection minimization.    
 
 
   * [ISDP](#isdp)  
