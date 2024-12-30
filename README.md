@@ -562,6 +562,10 @@ MITRE, OWASP, etc, have some known databases that can provide ample cyber threat
 
 [MITRE ATT&CK matrix for enterprise](https://attack.mitre.org/matrices/enterprise/). Several other [ATT&CK matrices](https://attack.mitre.org/docs/ATTACK_Design_and_Philosophy_March_2020.pdf)  are published on Windows, macOS, Linux, Cloud, Mobile, etc., for categorization of adversary behavior.     
 
+[SAST v/s DAST](https://www.blackduck.com/blog/sast-vs-dast-difference.html)    
+SAST: Static Application Security Testing    
+DAST: Dynamic Application Security Testing    
+
 ---- 
 
 ## Hands-on    
