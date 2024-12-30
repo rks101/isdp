@@ -42,6 +42,8 @@ The attackers or adversaries have a mindset of another countering approach - the
 
 [DAD](https://library.mosse-institute.com/articles/2022/05/the-attacker-mindset-the-dad-triad/the-attacker-mindset-the-dad-triad.html)     
 
+One of the goals of the Information System is to protect the CIA (confidentiality, integrity, and availability) and constrain DAD (disclosure, alteration, and denial).    
+
 ---- 
 
 ## OSINT 
