@@ -582,7 +582,7 @@ At times, creating and fiddling with environment setup is fun, learning, and hel
 
 [ISAC Foundation](https://isacfoundation.org)     
 
-[Mobile Hacking Lab - ](https://www.mobilehackinglab.com/tryout-android-userland)     
+[Mobile Hacking Lab](https://www.mobilehackinglab.com/tryout-android-userland)     
 
 [8ksec](https://8ksec.io/case/)    
 
