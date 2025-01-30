@@ -695,6 +695,8 @@ STIG refers to Security Technical Implementation Guide
 
 [Family Educational Rights and Privacy Act(FERPA)]()    
 
+[Viksit Bharat at 2047 - Cybersecurity and Privacy](https://swadeshishodh.org/viksit-bharat-2047-a-look-at-the-future-of-science-and-technology/)   
+
 ---- 
 
 ## Windows App Permissions    
