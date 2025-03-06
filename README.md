@@ -455,7 +455,7 @@ Encoding and encryption are two different things.
 
 Web browsers and passwords remain a weak link in the overall security posture.    
 
-One should avoid [common or weak passwords](https://www.ncsc.gov.uk/blog-post/passwords-passwords-everywhere) in personal accounts and accounts at organizations/workplaces.     
+One should avoid [common or weak passwords](https://www.ncsc.gov.uk/blog-post/passwords-passwords-everywhere) in personal accounts and accounts at organizations/workplaces. We are the same human or individuals while managing personal and organizational accounts. Also, we carry over the same habits from one place to another. Therefore, we need to safeguard both our personal and organizational accounts with caution.     
 
 [How common is the password-reuse problem?](https://www.troyhunt.com/only-secure-password-is-one-you-cant/)    
 
@@ -471,7 +471,7 @@ A secure password is the one:
 - you never reused it on multiple sites     
 - you never reused it on other sites with varying one or two digits/characters
   
-*^ (Be careful when you type your passwords/PINs because Cameras watch you at 3 meters in offices (and cannot stop thefts), ATMs, public places, and wherever not. Who cares about your mental health or privacy?)    
+*^ (Be careful when you type your passwords/PINs because Cameras watch you at 3 meters in offices, ATMs, traveling stations, public places, etc.)    
 
 ----
 
@@ -509,7 +509,7 @@ Android Apps [circumventing permission model](https://blog.appcensus.io/2022/04/
 [WebEx monitors microphone from browsers even when muted](https://www.securityweek.com/webex-monitors-microphone-even-when-muted-researchers-say/)     
 
 March 2022   
-A seemingly-legitimate looking Process Manager changes its avatar to malware and downloads another app to make money.    
+A seemingly illegitimate-looking Process Manager changes its avatar to malware and downloads another app to make money.    
 [link1](https://www.androidpolice.com/malware-russian-hackers-tracks-you-records-audio/) app records audio and [link2](https://lab52.io/blog/complete-dissection-of-an-apk-with-a-suspicious-c2-server/) with dissection of the issue.  
 
 
