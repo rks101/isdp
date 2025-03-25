@@ -3,9 +3,9 @@ This repository is a compilation of topics and concerns related to Information S
 
 The importance and relevancy of cybersecurity and privacy practices are only increasing with automation around us. News headlines fill our screens, reporting yet another hack, data leak, or cyber fraud. How often do we pay attention before submitting data to websites or mobile apps?     
 
-Cybersecurity is relevant to everyone in the modern world, including a strong password policy to protect individual accounts at workplaces. Organizations must protect personally identifiable information (PII) from accidental leakage and look toward minimizing data collection with the Notify and Consent principle.    
+Cybersecurity is relevant to everyone in the modern world, including a strong password policy to protect individual accounts at workplaces. Organizations must protect personally identifiable information (PII) from accidental leakage and consider minimizing data collection with the Notify and Consent principle.    
 
-Note:- You get to be aware of constant surveillance, not just web browsers, data trackers, and over-privileged apps, but even cameras around you. Good cameras can watch you and your screen activities in your personal space boundary! Identify those boundaries. Speak up for data collection minimization.    
+Note:- You get to be aware of constant surveillance, not just web browsers, data trackers, and over-privileged apps, but even cameras around you. Good cameras can watch you and your screen activities in your personal space boundary! Identify those boundaries. There is a term for this problem: Shoulder Surfing (Someone watching over your shoulder). Speak up for data collection minimization.    
 
 
   * [ISDP](#isdp)  
