@@ -528,6 +528,9 @@ December 2020
 Dec 2019    
 [Researcher shows access to one frame at a time for private YouTube videos, receives bounty](https://bugs.xdavidhu.me/google/2021/01/11/stealing-your-private-videos-one-frame-at-a-time/)     
 
+2017    
+[Therac25 - radiation therapy machine delivers high dose due to race condition](https://smartbear.com/blog/bug-day-race-condition-therac-25/)    
+
 May 2017   
 [WannaCry ransomware](https://www.kaspersky.com/resource-center/threats/ransomware-wannacry), [how it was stopped](https://www.cloudflare.com/en-gb/learning/security/ransomware/wannacry-ransomware/) and [EternalBlue](https://en.wikipedia.org/wiki/EternalBlue)     
 
