@@ -477,6 +477,8 @@ A secure password is the one:
 
 ## Incidents or Examples   
 
+2025   
+[Fake CAPTCHA scam](https://indianexpress.com/article/technology/tech-news-technology/fake-captcha-scams-how-im-not-a-robot-could-infect-your-device-10190466/) - if sites with captcha, prompt you to follow instructions on the device with running commands or giving permissions - be careful, avoid running commands or giving permissions, exit the website and do cleanup.     
 
 2024    
 Digital Arrest - [multiple incidents](https://economictimes.indiatimes.com/news/india/digital-arrest-scam-how-cybercriminals-use-fear-to-empty-your-bank-account/articleshow/114836839.cms), [prof duped](https://education.economictimes.indiatimes.com/news/industry/retired-patna-university-professor-duped-of-rs-3-07-crore-in-digital-arrest-fraud/115460525), [Karnataka multiple cases](https://timesofindia.indiatimes.com/city/bengaluru/ktaka-loses-109cr-to-641-digital-arrest-cases-in-2024/articleshow/116265734.cms)     
