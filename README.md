@@ -614,6 +614,9 @@ Mailing lists: Take a plung into publicly available open-source software, utilit
 
 [Handbook on Basics of Digital Hygiene for Higher Education](https://mgcub.ac.in/pdf/202411081824431ad590ed84.pdf) by UGC, India.     
 
+[WebGoat](https://owasp.org/www-project-webgoat/) - a deliberately insecure application to test vulnerabilities     
+[iGoat](https://owasp.org/www-project-igoat-tool/) - A Learning Tool for iOS App Pentesting and Security    
+
 ----
 
 ## URL Schemes 
