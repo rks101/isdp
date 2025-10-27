@@ -1,7 +1,7 @@
 # isdp
 This repository is a compilation of topics and concerns related to Information Security and Data Privacy (ISDP). Every example mentioned below is accessible in the public domain. The content below can be structured better, and I am looking for assistance on this; for now, compiling self-notes for a course under construction 🙂    
 
-The importance and relevancy of cybersecurity and privacy practices are only increasing with automation around us. News headlines fill our screens, reporting yet another hack, data leak, or cyber fraud. How often do we pay attention before submitting data to websites or mobile apps?     
+The importance and relevance of cybersecurity and privacy practices are only increasing with automation around us. News headlines fill our screens, reporting yet another hack, data leak, or cyber fraud. How often do we pay attention before submitting data to websites or mobile apps?     
 
 Cybersecurity is relevant to everyone in the modern world, including a strong password policy to protect individual accounts at workplaces. Organizations must protect personally identifiable information (PII) from accidental leakage and consider minimizing data collection with the Notify and Consent principle.    
 
@@ -478,13 +478,14 @@ A secure password is the one:
 ## Incidents or Examples   
 
 2025   
+[Gmail passwords part of 183m account data breach](https://www.forbes.com/sites/daveywinder/2025/10/26/gmail-passwords-confirmed-as-part-of-183-million-account-data-breach/) - Should every country start building its own email servers for information security and data sovereignty?     
+
 [Fake CAPTCHA scam](https://indianexpress.com/article/technology/tech-news-technology/fake-captcha-scams-how-im-not-a-robot-could-infect-your-device-10190466/) - if sites with captcha, prompt you to follow instructions on the device with running commands or giving permissions - be careful, avoid running commands or giving permissions, exit the website and do cleanup.     
 
 2024    
 Digital Arrest - [multiple incidents](https://economictimes.indiatimes.com/news/india/digital-arrest-scam-how-cybercriminals-use-fear-to-empty-your-bank-account/articleshow/114836839.cms), [prof duped](https://education.economictimes.indiatimes.com/news/industry/retired-patna-university-professor-duped-of-rs-3-07-crore-in-digital-arrest-fraud/115460525), [Karnataka multiple cases](https://timesofindia.indiatimes.com/city/bengaluru/ktaka-loses-109cr-to-641-digital-arrest-cases-in-2024/articleshow/116265734.cms)     
 
-April 2024    
-[This is a repeat of FedEx courier fraud and its ugly fraud](https://timesofindia.indiatimes.com/city/bengaluru/fedex-fraud-woman-made-to-strip-on-cam-loses-15l/articleshow/109145771.cms) [link2](https://www.thenewsminute.com/karnataka/fedex-scam-bengaluru-woman-made-to-strip-on-cam-transfer-rs-15-lakh).    
+Courier fraud - [This is a repeat of FedEx courier fraud and its ugly fraud](https://timesofindia.indiatimes.com/city/bengaluru/fedex-fraud-woman-made-to-strip-on-cam-loses-15l/articleshow/109145771.cms) [link2](https://www.thenewsminute.com/karnataka/fedex-scam-bengaluru-woman-made-to-strip-on-cam-transfer-rs-15-lakh).    
 
 October 2023     
 [Some of the worst cyberattacks in 2023 including Okta, MOVEit, LastPass, and T-Mobile](https://www.wired.com/story/worst-hacks-2023/)     
