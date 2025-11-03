@@ -20,7 +20,8 @@ Note:- You get to be aware of constant surveillance, not just web browsers, data
      * [Practice and Hands-on](#hands\-on) 
      * [URL Schemes](#url-schemes) 
      * [Data Privacy](#data-privacy)
-     * [Compliance and Hardening requirements](#Compliance-and-Hardening-requirements)   
+     * [Compliance and Hardening requirements](#Compliance-and-Hardening-requirements)
+     * [Ethics and Governance Beyond Compliance](#ethics-and-governance-beyond-compliance) 
      * [Windows App Permissions](#windows-app-permissions) 
      * [Android App Permissions](#android-app-permissions)
      * [Random Stats](#random-stats)
@@ -709,6 +710,14 @@ STIG refers to Security Technical Implementation Guide
 [Viksit Bharat at 2047 - Cybersecurity and Privacy](https://swadeshishodh.org/viksit-bharat-2047-a-look-at-the-future-of-science-and-technology/)   
 
 ---- 
+
+## Ethics and Governance Beyond Compliance 
+
+With growing digital infrastructure across geographies, sectors, organizations, with people of different ages, there is a need to assess ethics and governance beyond compliance.   
+
+[Dialogue at Institute for Accountability in the Digital Age](https://i4ada.org/dialogues/)     
+
+----
 
 ## Windows App Permissions    
 
