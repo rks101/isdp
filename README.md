@@ -231,6 +231,8 @@ Permissions-Policy
 
 Every sysad and webmaster should consider [hardening HTTP response headers](https://scotthelme.co.uk/hardening-your-http-response-headers/).   
 
+[Helmet library for HTTP response headers](https://www.npmjs.com/package/helmet)     
+
 Some suggestions for [Apache server hardening](https://www.tecmint.com/apache-security-tips/)    
 
 [Check your browser's support for Subresource Integrity (SRI)](https://wpt.live/subresource-integrity/subresource-integrity.html), [what is Subresource Integrity(SRI)](https://www.srihash.org/) - It ensures your resources hosted on 3rd-party servers are not tampered with using libraries.     
