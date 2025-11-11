@@ -489,10 +489,11 @@ A secure password is the one:
 Digital Arrest - [multiple incidents](https://economictimes.indiatimes.com/news/india/digital-arrest-scam-how-cybercriminals-use-fear-to-empty-your-bank-account/articleshow/114836839.cms), [prof duped](https://education.economictimes.indiatimes.com/news/industry/retired-patna-university-professor-duped-of-rs-3-07-crore-in-digital-arrest-fraud/115460525), [Karnataka multiple cases](https://timesofindia.indiatimes.com/city/bengaluru/ktaka-loses-109cr-to-641-digital-arrest-cases-in-2024/articleshow/116265734.cms)     
 
 [Blue Dart Courier scam](https://www.youtube.com/watch?v=m1DT6tVWf1c) still active in 2025     
-WhatsApp India contact Grievance Officer (Help Center) - remember - whatsapp.com/contact     
+WhatsApp India contact / Help Center - remember - whatsapp.com/contact - for impersonation, fraudulent payment, account takeover/hack    
 **Never dial codes on the mobile received from unknown callers**     
 **Avoid calling unknown numbers from your mobile.**    
 **Avoid clicking links received from unknown callers for courier**    
+**In India: report to Cybercell with details** - remember to report - cybercrime.gov.in    
 
 FedEx courier fraud - [This is a repeat of FedEx courier fraud and its ugly fraud](https://timesofindia.indiatimes.com/city/bengaluru/fedex-fraud-woman-made-to-strip-on-cam-loses-15l/articleshow/109145771.cms) [link2](https://www.thenewsminute.com/karnataka/fedex-scam-bengaluru-woman-made-to-strip-on-cam-transfer-rs-15-lakh).    
 
