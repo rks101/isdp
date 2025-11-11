@@ -568,6 +568,10 @@ September 2016
 1979, 1994   
 [Kevin Mitnick](https://www.mitnicksecurity.com/about-kevin-mitnick-mitnick-security) - Hacked into DEC, Bell computers, and attempts on other networks.    
 
+Movies:     
+[The Net](https://en.wikipedia.org/wiki/The_Net_(1995_film))    
+[The Social Dilemma](https://en.wikipedia.org/wiki/The_Social_Dilemma)    
+
 ----
 
 ## Cyber Threat Intelligence   
