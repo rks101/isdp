@@ -490,6 +490,9 @@ Digital Arrest - [multiple incidents](https://economictimes.indiatimes.com/news/
 
 [Blue Dart Courier scam](https://www.youtube.com/watch?v=m1DT6tVWf1c) still active in 2025     
 WhatsApp India contact Grievance Officer (Help Center) - remember - whatsapp.com/contact     
+**Never dial codes on the mobile received from unknown callers**     
+**Avoid calling unknown numbers from your mobile.**    
+**Avoid clicking links received from unknown callers for courier**    
 
 Courier fraud - [This is a repeat of FedEx courier fraud and its ugly fraud](https://timesofindia.indiatimes.com/city/bengaluru/fedex-fraud-woman-made-to-strip-on-cam-loses-15l/articleshow/109145771.cms) [link2](https://www.thenewsminute.com/karnataka/fedex-scam-bengaluru-woman-made-to-strip-on-cam-transfer-rs-15-lakh).    
 
