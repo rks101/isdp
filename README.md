@@ -695,6 +695,8 @@ This section compiles a few compliance and hardening requirements.
 
 [Digital Personal Data Protection Act (DPDP Act), 2023](https://www.meity.gov.in/content/digital-personal-data-protection-act-2023)    
 
+[Aadhar Act 2016](https://uidai.gov.in/images/Aadhaar_Act_2016_as_amended.pdf) from UIDAI website. [Press release of Aadhar Bill in Parliament](https://prsindia.org/files/bills_acts/bills_parliament/2016/Aadhaar_Bill,_2016.pdf)    
+
 [Cyber-Crisis Management Plan from Meity, India](https://www.cert-in.org.in/Downloader?pageid=5&type=2&fileName=CIPS-2017-0121.pdf), [CCMP from ministry](https://mowr.nic.in/core/Circulars/2022/e-Gov_21-12-2022_18.pdf), 
 
 [GDPR - Global Data Protection Regulation in EU](https://gdpr-info.eu/)    
