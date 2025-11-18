@@ -480,13 +480,20 @@ A secure password is the one:
 
 ## Incidents or Examples   
 
-2025   
+Nov 2025   
+[Princeton University - Student, Donor, Alumni data stolen](https://education.economictimes.indiatimes.com/news/international/princeton-university-hit-by-major-cyberattack-student-donor-and-alumni-data-stolen/125383956) and [link2](https://oit.princeton.edu/incident)    
+The intruder gained access to data through a phone phishing incident. Target employee had access to the advancement database.    
+**Data minimization is crucial when collecting and storing data. If and only if personal data is stored online, it can be stolen from websites.**    
+**In phishing attacks, hackers impersonate trusted sources through emails, messages (SMS, WhatsApp, etc.), or calls to deceive people into sharing sensitive information. This act exploits human "trust" to gain access to data like passwords and financial details.**    
+
 [Gmail passwords part of 183m account data breach](https://www.forbes.com/sites/daveywinder/2025/10/26/gmail-passwords-confirmed-as-part-of-183-million-account-data-breach/) - Should every country start building its own email servers for information security and data sovereignty?     
 
-[Fake CAPTCHA scam](https://indianexpress.com/article/technology/tech-news-technology/fake-captcha-scams-how-im-not-a-robot-could-infect-your-device-10190466/) - if sites with captcha, prompt you to follow instructions on the device with running commands or giving permissions - be careful, avoid running commands or giving permissions, exit the website and do cleanup.     
+[Fake CAPTCHA scam](https://indianexpress.com/article/technology/tech-news-technology/fake-captcha-scams-how-im-not-a-robot-could-infect-your-device-10190466/) - if sites with a captcha prompt you to follow instructions on the device with running commands or giving permissions - be careful, avoid running commands or giving permissions, exit the website, and do a cleanup.     
 
 2024    
 Digital Arrest - [multiple incidents](https://economictimes.indiatimes.com/news/india/digital-arrest-scam-how-cybercriminals-use-fear-to-empty-your-bank-account/articleshow/114836839.cms), [prof duped](https://education.economictimes.indiatimes.com/news/industry/retired-patna-university-professor-duped-of-rs-3-07-crore-in-digital-arrest-fraud/115460525), [Karnataka multiple cases](https://timesofindia.indiatimes.com/city/bengaluru/ktaka-loses-109cr-to-641-digital-arrest-cases-in-2024/articleshow/116265734.cms)     
+**In India, no law enforcement agency will call or email you to get details or report your crime to you online, or demand money, or do online videography. They will simply be at your door.**   
+**Digital arrest act exploits human "weakness", especially for defamation or public shame. Cut such calls and block/report the numbers.**    
 
 [Blue Dart Courier scam](https://www.youtube.com/watch?v=m1DT6tVWf1c) still active in 2025     
 WhatsApp India contact / Help Center - remember - whatsapp.com/contact - for impersonation, fraudulent payment, account takeover/hack    
