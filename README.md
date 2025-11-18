@@ -69,11 +69,11 @@ We hear about OSINT => _Open Source INTelligence_ often in the context of inform
 You can use curl to view HTTP headers.    
 
 ```
-$ curl -v eg.iitjammu.ac.in 
+$ curl -v eg.riit.ac.in 
 *   Trying 13.126.157.211:80...
-* Connected to eg.iitjammu.ac.in (13.126.157.211) port 80 (#0)
+* Connected to eg.riit.ac.in (13.126.157.211) port 80 (#0)
 > GET / HTTP/1.1                                      <-- Request Headers
-> Host: eg.iitjammu.ac.in                             <--
+> Host: eg.riit.ac.in                             <--
 > User-Agent: curl/7.81.0                             <--
 > Accept: */*                                         <--
 > 
@@ -83,7 +83,7 @@ $ curl -v eg.iitjammu.ac.in
 < Server: Apache                                     <-- Response Headers
 < Referrer-Policy: strict-origin                     <--
 < X-Frame-Options: SAMEORIGIN                        <--
-< Location: https://eg.iitjammu.ac.in/               <--
+< Location: https://eg.riit.ac.in/               <--
 < Content-Length: 210 
 < Content-Type: text/html; charset=iso-8859-1        <--
 < 
@@ -92,28 +92,28 @@ $ curl -v eg.iitjammu.ac.in
 <title>302 Found</title>
 </head><body>
 <h1>Found</h1>
-<p>The document has moved <a href="https://eg.iitjammu.ac.in/">here</a>.</p>
+<p>The document has moved <a href="https://eg.riit.ac.in/">here</a>.</p>
 </body></html>
-* Connection #0 to host eg.iitjammu.ac.in left intact
+* Connection #0 to host eg.riit.ac.in left intact
 ```
 Or see only HTTP Response headers:    
 ```
-$ curl -I eg.iitjammu.ac.in 
+$ curl -I eg.riit.ac.in 
 HTTP/1.1 302 Found
 Date: Tue, 13 Jun 2023 13:19:36 GMT
 Server: Apache
 Referrer-Policy: strict-origin
 X-Frame-Options: SAMEORIGIN
-Location: https://eg.iitjammu.ac.in/
+Location: https://eg.riit.ac.in/
 Content-Type: text/html; charset=iso-8859-1
 ```
 Here is some more info using -Lvso options with curl:     
 ```
-$ curl -Lvso /dev/null  eg.iitjammu.ac.in
+$ curl -Lvso /dev/null  eg.riit.ac.in
 *   Trying 13.126.157.211:80...
-* Connected to eg.iitjammu.ac.in (13.126.157.211) port 80 (#0)
+* Connected to eg.riit.ac.in (13.126.157.211) port 80 (#0)
 > GET / HTTP/1.1
-> Host: eg.iitjammu.ac.in
+> Host: eg.riit.ac.in
 > User-Agent: curl/7.81.0
 > Accept: */*
 > 
@@ -123,17 +123,17 @@ $ curl -Lvso /dev/null  eg.iitjammu.ac.in
 < Server: Apache
 < Referrer-Policy: strict-origin
 < X-Frame-Options: SAMEORIGIN
-< Location: https://eg.iitjammu.ac.in/
+< Location: https://eg.riit.ac.in/
 < Content-Length: 210
 < Content-Type: text/html; charset=iso-8859-1
 < 
 * Ignoring the response-body
 { [210 bytes data]
-* Connection #0 to host eg.iitjammu.ac.in left intact
+* Connection #0 to host eg.riit.ac.in left intact
 * Clear auth, redirects to port from 80 to 443
-* Issue another request to this URL: 'https://eg.iitjammu.ac.in/'
+* Issue another request to this URL: 'https://eg.riit.ac.in/'
 *   Trying 13.126.157.211:443...
-* Connected to eg.iitjammu.ac.in (13.126.157.211) port 443 (#1)
+* Connected to eg.riit.ac.in (13.126.157.211) port 443 (#1)
 * ALPN, offering h2
 * ALPN, offering http/1.1
 *  CAfile: /etc/ssl/certs/ca-certificates.crt
@@ -179,16 +179,16 @@ $ curl -Lvso /dev/null  eg.iitjammu.ac.in
 * SSL connection using TLSv1.2 / ECDHE-RSA-AES256-GCM-SHA384
 * ALPN, server accepted to use http/1.1
 * Server certificate:
-*  subject: CN=eg.iitjammu.ac.in
+*  subject: CN=eg.riit.ac.in
 *  start date: Oct  1 07:06:43 2022 GMT
 *  expire date: Oct 27 10:53:42 2023 GMT
-*  subjectAltName: host "eg.iitjammu.ac.in" matched cert's "eg.iitjammu.ac.in"
+*  subjectAltName: host "eg.riit.ac.in" matched cert's "eg.riit.ac.in"
 *  issuer: C=US; ST=Arizona; L=Scottsdale; O=GoDaddy.com, Inc.; OU=http://certs.godaddy.com/repository/; CN=Go Daddy Secure Certificate Authority - G2
 *  SSL certificate verify ok.
 * TLSv1.2 (OUT), TLS header, Supplemental data (23):
 } [5 bytes data]
 > GET / HTTP/1.1
-> Host: eg.iitjammu.ac.in
+> Host: eg.riit.ac.in
 > User-Agent: curl/7.81.0
 > Accept: */*
 > 
@@ -215,7 +215,7 @@ $ curl -Lvso /dev/null  eg.iitjammu.ac.in
 < 
 * TLSv1.2 (IN), TLS header, Supplemental data (23):
 { [5 bytes data]
-* Connection #1 to host eg.iitjammu.ac.in left intact
+* Connection #1 to host eg.riit.ac.in left intact
 ```
 
 
@@ -288,45 +288,45 @@ Notes:-
 **Publically searchable SSL/TLS databases** store Certificate Transparency (CT) logs for every SSL/TLS certificate created.    
 
 ```
-https://crt.sh/?q=saral.iitjammu.ac.in
+https://crt.sh/?q=saral.riit.ac.in
 
 crt.sh ID	 Logged At  ⇧	Not Before	Not After	Common Name	Matching Identities	Issuer Name
-12457506210	2024-03-21	2024-03-21	2025-03-21	saral.iitjammu.ac.in	saral.iitjammu.ac.in	C=US, ST=Arizona, L=Scottsdale, O="GoDaddy.com, Inc.", OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2
+12457506210	2024-03-21	2024-03-21	2025-03-21	saral.riit.ac.in	saral.riit.ac.in	C=US, ST=Arizona, L=Scottsdale, O="GoDaddy.com, Inc.", OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2
 
-https://crt.sh/?q=eg.iitjammu.ac.in
-
-crt.sh ID	 Logged At  ⇧	Not Before	Not After	Common Name	Matching Identities	Issuer Name
-12457516850	2024-03-21	2023-10-03	2024-10-27	eg.iitjammu.ac.in	eg.iitjammu.ac.in
-www.eg.iitjammu.ac.in	C=US, ST=Arizona, L=Scottsdale, O="GoDaddy.com, Inc.", OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2
-10580537009	2023-10-03	2022-10-01	2023-10-27	eg.iitjammu.ac.in	eg.iitjammu.ac.in
-www.eg.iitjammu.ac.in	C=US, ST=Arizona, L=Scottsdale, O="GoDaddy.com, Inc.", OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2
-10580367151	2023-10-03	2023-10-03	2024-10-27	eg.iitjammu.ac.in	eg.iitjammu.ac.in
-www.eg.iitjammu.ac.in	C=US, ST=Arizona, L=Scottsdale, O="GoDaddy.com, Inc.", OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2
-7655110496	2022-10-01	2022-10-01	2023-10-27	eg.iitjammu.ac.in	eg.iitjammu.ac.in
-www.eg.iitjammu.ac.in	C=US, ST=Arizona, L=Scottsdale, O="GoDaddy.com, Inc.", OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2
-5307822883	2021-09-29	2021-09-29	2022-10-31	eg.iitjammu.ac.in	eg.iitjammu.ac.in
-www.eg.iitjammu.ac.in	C=US, ST=Arizona, L=Scottsdale, O="GoDaddy.com, Inc.", OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2
-3582841268	2020-10-31	2020-10-27	2021-10-27	eg.iitjammu.ac.in	eg.iitjammu.ac.in
-www.eg.iitjammu.ac.in	C=US, ST=Arizona, L=Scottsdale, O="GoDaddy.com, Inc.", OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2
-3563761812	2020-10-27	2020-10-27	2021-10-27	eg.iitjammu.ac.in	eg.iitjammu.ac.in
-www.eg.iitjammu.ac.in	C=US, ST=Arizona, L=Scottsdale, O="GoDaddy.com, Inc.", OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2
-
-
-https://crt.sh/?q=erp.iitjammu.ac.in
+https://crt.sh/?q=eg.riit.ac.in
 
 crt.sh ID	 Logged At  ⇧	Not Before	Not After	Common Name	Matching Identities	Issuer Name
-2827528381	2020-05-19	2020-05-12	2022-06-22	erp.iitjammu.ac.in	erp.iitjammu.ac.in
-www.erp.iitjammu.ac.in	C=US, ST=Arizona, L=Scottsdale, O="GoDaddy.com, Inc.", OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2
-2797505830	2020-05-12	2020-05-12	2022-06-22	erp.iitjammu.ac.in	erp.iitjammu.ac.in
-www.erp.iitjammu.ac.in	C=US, ST=Arizona, L=Scottsdale, O="GoDaddy.com, Inc.", OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2
-1612288285	2019-06-25	2019-06-22	2020-06-22	erp.iitjammu.ac.in	erp.iitjammu.ac.in
-www.erp.iitjammu.ac.in	C=US, ST=Arizona, L=Scottsdale, O="GoDaddy.com, Inc.", OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2
-1603025694	2019-06-22	2019-06-22	2020-06-22	erp.iitjammu.ac.in	erp.iitjammu.ac.in
-www.erp.iitjammu.ac.in	C=US, ST=Arizona, L=Scottsdale, O="GoDaddy.com, Inc.", OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2
-576000286	2018-07-06	2018-06-22	2019-06-22	erp.iitjammu.ac.in	erp.iitjammu.ac.in
-www.erp.iitjammu.ac.in	C=US, ST=Arizona, L=Scottsdale, O="GoDaddy.com, Inc.", OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2
-542356038	2018-06-22	2018-06-22	2019-06-22	erp.iitjammu.ac.in	erp.iitjammu.ac.in
-www.erp.iitjammu.ac.in	C=US, ST=Arizona, L=Scottsdale, O="GoDaddy.com, Inc.", OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2
+12457516850	2024-03-21	2023-10-03	2024-10-27	eg.riit.ac.in	eg.riit.ac.in
+www.eg.riit.ac.in	C=US, ST=Arizona, L=Scottsdale, O="GoDaddy.com, Inc.", OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2
+10580537009	2023-10-03	2022-10-01	2023-10-27	eg.riit.ac.in	eg.riit.ac.in
+www.eg.riit.ac.in	C=US, ST=Arizona, L=Scottsdale, O="GoDaddy.com, Inc.", OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2
+10580367151	2023-10-03	2023-10-03	2024-10-27	eg.riit.ac.in	eg.riit.ac.in
+www.eg.riit.ac.in	C=US, ST=Arizona, L=Scottsdale, O="GoDaddy.com, Inc.", OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2
+7655110496	2022-10-01	2022-10-01	2023-10-27	eg.riit.ac.in	eg.riit.ac.in
+www.eg.riit.ac.in	C=US, ST=Arizona, L=Scottsdale, O="GoDaddy.com, Inc.", OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2
+5307822883	2021-09-29	2021-09-29	2022-10-31	eg.riit.ac.in	eg.riit.ac.in
+www.eg.riit.ac.in	C=US, ST=Arizona, L=Scottsdale, O="GoDaddy.com, Inc.", OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2
+3582841268	2020-10-31	2020-10-27	2021-10-27	eg.riit.ac.in	eg.riit.ac.in
+www.eg.riit.ac.in	C=US, ST=Arizona, L=Scottsdale, O="GoDaddy.com, Inc.", OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2
+3563761812	2020-10-27	2020-10-27	2021-10-27	eg.riit.ac.in	eg.riit.ac.in
+www.eg.riit.ac.in	C=US, ST=Arizona, L=Scottsdale, O="GoDaddy.com, Inc.", OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2
+
+
+https://crt.sh/?q=erp.riit.ac.in
+
+crt.sh ID	 Logged At  ⇧	Not Before	Not After	Common Name	Matching Identities	Issuer Name
+2827528381	2020-05-19	2020-05-12	2022-06-22	erp.riit.ac.in	erp.riit.ac.in
+www.erp.riit.ac.in	C=US, ST=Arizona, L=Scottsdale, O="GoDaddy.com, Inc.", OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2
+2797505830	2020-05-12	2020-05-12	2022-06-22	erp.riit.ac.in	erp.riit.ac.in
+www.erp.riit.ac.in	C=US, ST=Arizona, L=Scottsdale, O="GoDaddy.com, Inc.", OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2
+1612288285	2019-06-25	2019-06-22	2020-06-22	erp.riit.ac.in	erp.riit.ac.in
+www.erp.riit.ac.in	C=US, ST=Arizona, L=Scottsdale, O="GoDaddy.com, Inc.", OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2
+1603025694	2019-06-22	2019-06-22	2020-06-22	erp.riit.ac.in	erp.riit.ac.in
+www.erp.riit.ac.in	C=US, ST=Arizona, L=Scottsdale, O="GoDaddy.com, Inc.", OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2
+576000286	2018-07-06	2018-06-22	2019-06-22	erp.riit.ac.in	erp.riit.ac.in
+www.erp.riit.ac.in	C=US, ST=Arizona, L=Scottsdale, O="GoDaddy.com, Inc.", OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2
+542356038	2018-06-22	2018-06-22	2019-06-22	erp.riit.ac.in	erp.riit.ac.in
+www.erp.riit.ac.in	C=US, ST=Arizona, L=Scottsdale, O="GoDaddy.com, Inc.", OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2
 ```
 
 ----
@@ -339,17 +339,17 @@ openssl s_client -connect server:port -tls1_2
 ```    
 
 ```
-$ openssl s_client -connect eg.iitjammu.ac.in:443 -tls1_2
+$ openssl s_client -connect eg.riit.ac.in:443 -tls1_2
 CONNECTED(00000003)
 depth=2 C = US, ST = Arizona, L = Scottsdale, O = "GoDaddy.com, Inc.", CN = Go Daddy Root Certificate Authority - G2
 verify return:1
 depth=1 C = US, ST = Arizona, L = Scottsdale, O = "GoDaddy.com, Inc.", OU = http://certs.godaddy.com/repository/, CN = Go Daddy Secure Certificate Authority - G2
 verify return:1
-depth=0 CN = eg.iitjammu.ac.in
+depth=0 CN = eg.riit.ac.in
 verify return:1
 ---
 **Certificate chain** 
- 0 s:CN = eg.iitjammu.ac.in
+ 0 s:CN = eg.riit.ac.in
    i:C = US, ST = Arizona, L = Scottsdale, O = "GoDaddy.com, Inc.", OU = http://certs.godaddy.com/repository/, CN = Go Daddy Secure Certificate Authority - G2
    a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
    v:NotBefore: Oct  1 07:06:43 2022 GMT; NotAfter: Oct 27 10:53:42 2023 GMT
@@ -373,7 +373,7 @@ MIblahblahblahvsgfsgdfgdfgdghdhddhgdfgnfgdhfgfsgdfhhhdhdfnrjtukui
 dshfjdshfssgfsjgjgsjfblahblahblahpakpakpakakpakpakpakakddsjldkd/w
 pakpakpakakpakpakpakak==
 -----END CERTIFICATE-----
-subject=CN = eg.iitjammu.ac.in
+subject=CN = eg.riit.ac.in
 issuer=C = US, ST = Arizona, L = Scottsdale, O = "GoDaddy.com, Inc.", OU = http://certs.godaddy.com/repository/, CN = Go Daddy Secure Certificate Authority - G2
 ---
 No client certificate CA names sent
