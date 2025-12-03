@@ -569,6 +569,9 @@ September 2016
 1998    
 [l0pht (group of 7 hackers) testified on many things, bringing down the internet in 30 minutes](https://www.youtube.com/watch?v=VVJldn_MmMY), [link-3](https://www.washingtonpost.com/sf/business/2015/06/22/net-of-insecurity-part-3/), customer data thefts by organizations, and security loopholes in the knowledge of companies - this was in 1998!     
 
+1996   
+[Smashing the Stack for Fun and Profit](https://phrack.org/issues/49/14) was published in Phrack magazine (49/14) to show buffer overflow attacks by Aleph One (Mudge)     
+
 1988    
 [Morris Worm](https://en.wikipedia.org/wiki/Morris_worm) released by [Robert Tappan Morris](https://en.wikipedia.org/wiki/Robert_Tappan_Morris)    
 
