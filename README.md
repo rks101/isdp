@@ -766,6 +766,8 @@ TODO: add details of studies
 
 [41 US States sue Meta in Oct 2023](https://www.washingtonpost.com/technology/2023/10/24/meta-lawsuit-facebook-instagram-children-mental-health/) alleging the company's platforms are addictive and detrimental to children's mental health. This is how Big Tech firms deploy algorithms to maximize user engagement and profits through advt.    
 
+[Y Combinator](https://en.wikipedia.org/wiki/Y_Combinator) - birth of OpenAI is related to YC.    
+
 ----
 
 ## Quiz   
