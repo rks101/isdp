@@ -567,13 +567,13 @@ September 2016
 [Stuxnet - malware to target centrifuges at Iran's uranium enrichment facility outside Natanz, Iran](https://web.archive.org/web/20220728015902/https://www.cyber.nj.gov/threat-center/threat-profiles/ics-malware-variants/stuxnet)     
 
 1998    
-[l0pht (group of 7 hackers) testified on many things, bringing down the internet in 30 minutes](https://www.youtube.com/watch?v=VVJldn_MmMY), [link-3](https://www.washingtonpost.com/sf/business/2015/06/22/net-of-insecurity-part-3/), customer data thefts by organization, and security loopholes in the knowledge of companies - this was in 1998!     
+[l0pht (group of 7 hackers) testified on many things, bringing down the internet in 30 minutes](https://www.youtube.com/watch?v=VVJldn_MmMY), [link-3](https://www.washingtonpost.com/sf/business/2015/06/22/net-of-insecurity-part-3/), customer data thefts by organizations, and security loopholes in the knowledge of companies - this was in 1998!     
 
 1988    
-[Morris Worm](https://en.wikipedia.org/wiki/Morris_worm)    
+[Morris Worm](https://en.wikipedia.org/wiki/Morris_worm) released by [Robert Tappan Morris](https://en.wikipedia.org/wiki/Robert_Tappan_Morris)    
 
 1979, 1994   
-[Kevin Mitnick](https://www.mitnicksecurity.com/about-kevin-mitnick-mitnick-security) - Hacked into DEC, Bell computers, and attempts on other networks.    
+[Kevin Mitnick](https://www.mitnicksecurity.com/about-kevin-mitnick-mitnick-security) - Hacked into DEC, Bell computers, and attempted on other networks.    
 
 Movies:     
 [The Net](https://en.wikipedia.org/wiki/The_Net_(1995_film))    
