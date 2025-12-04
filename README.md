@@ -551,6 +551,9 @@ Dec 2019
 2017    
 [Therac25 - radiation therapy machine delivers high dose due to race condition](https://smartbear.com/blog/bug-day-race-condition-therac-25/)    
 
+[Attention is all you need](https://arxiv.org/pdf/1706.03762) from Google Brain (Ashish Vaswani) and Google Research.     
+
+
 May 2017   
 [WannaCry ransomware](https://www.kaspersky.com/resource-center/threats/ransomware-wannacry), [how it was stopped](https://www.cloudflare.com/en-gb/learning/security/ransomware/wannacry-ransomware/) and [EternalBlue](https://en.wikipedia.org/wiki/EternalBlue)     
 
@@ -577,6 +580,10 @@ September 2016
 
 1979, 1994   
 [Kevin Mitnick](https://www.mitnicksecurity.com/about-kevin-mitnick-mitnick-security) - Hacked into DEC, Bell computers, and attempted on other networks.    
+
+
+Lists:    
+[List of security and hacking incidents](https://en.wikipedia.org/wiki/List_of_security_hacking_incidents)    
 
 Movies:     
 [The Net](https://en.wikipedia.org/wiki/The_Net_(1995_film))    
