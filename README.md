@@ -476,9 +476,13 @@ A secure password is the one:
   
 *^ (Be careful when you type your passwords/PINs because Cameras watch you at 3 meters in offices, ATMs, traveling stations, public places, etc.)    
 
-----
+---
 
 ## Incidents or Examples   
+
+Dec 2015 
+[Online scams/frauds have led to considering SIM binding directives](https://indianexpress.com/article/technology/tech-news-technology/dot-sim-binding-directive-technical-challenges-scams-fraud-10400506/)    
+
 
 Nov 2025   
 [Princeton University - Student, Donor, Alumni data stolen](https://education.economictimes.indiatimes.com/news/international/princeton-university-hit-by-major-cyberattack-student-donor-and-alumni-data-stolen/125383956) and [link2](https://oit.princeton.edu/incident)    
