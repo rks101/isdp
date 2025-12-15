@@ -146,34 +146,7 @@ $ curl -Lvso /dev/null  eg.riit.ac.in
 { [5 bytes data]
 * TLSv1.3 (IN), TLS handshake, Server hello (2):
 { [108 bytes data]
-* TLSv1.2 (IN), TLS header, Certificate Status (22):
-{ [5 bytes data]
-* TLSv1.2 (IN), TLS handshake, Certificate (11):
-{ [5135 bytes data]
-* TLSv1.2 (IN), TLS header, Certificate Status (22):
-{ [5 bytes data]
-* TLSv1.2 (IN), TLS handshake, Server key exchange (12):
-{ [333 bytes data]
-* TLSv1.2 (IN), TLS header, Certificate Status (22):
-{ [5 bytes data]
-* TLSv1.2 (IN), TLS handshake, Server finished (14):
-{ [4 bytes data]
-* TLSv1.2 (OUT), TLS header, Certificate Status (22):
-} [5 bytes data]
-* TLSv1.2 (OUT), TLS handshake, Client key exchange (16):
-} [70 bytes data]
-* TLSv1.2 (OUT), TLS header, Finished (20):
-} [5 bytes data]
-* TLSv1.2 (OUT), TLS change cipher, Change cipher spec (1):
-} [1 bytes data]
-* TLSv1.2 (OUT), TLS header, Certificate Status (22):
-} [5 bytes data]
-* TLSv1.2 (OUT), TLS handshake, Finished (20):
-} [16 bytes data]
-* TLSv1.2 (IN), TLS header, Finished (20):
-{ [5 bytes data]
-* TLSv1.2 (IN), TLS header, Certificate Status (22):
-{ [5 bytes data]
+...
 * TLSv1.2 (IN), TLS handshake, Finished (20):
 { [16 bytes data]
 * SSL connection using TLSv1.2 / ECDHE-RSA-AES256-GCM-SHA384
