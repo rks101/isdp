@@ -453,11 +453,12 @@ A secure password is the one:
 
 ## Incidents or Examples   
 
-Dec 2015 
+Dec 2015    
 [8 Million Users' AI Conversations Sold for Profit by "Privacy" Extensions](https://www.koi.ai/blog/urban-vpn-browser-extension-ai-conversations-data-collection)    
 Be aware of the browser extensions you install for AI prompts. Think, do you really need them?    
 
 [Pre-installing Sanchar Sathi app, SIM Binding directive, sharing GPS location of phone owner may lead to cyber surveillance](https://frontline.thehindu.com/interviews/telecom-cybersecurity-rules-surveillance-india/article70398987.ece)    
+
 [Online scams/frauds have led to considering SIM binding directives](https://indianexpress.com/article/technology/tech-news-technology/dot-sim-binding-directive-technical-challenges-scams-fraud-10400506/)    
 
 
