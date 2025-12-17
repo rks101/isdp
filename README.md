@@ -453,7 +453,7 @@ A secure password is the one:
 
 ## Incidents or Examples   
 
-Dec 2015    
+Dec 2025    
 [8 Million Users' AI Conversations Sold for Profit by "Privacy" Extensions](https://www.koi.ai/blog/urban-vpn-browser-extension-ai-conversations-data-collection)    
 Be aware of the browser extensions you install for AI prompts. Think, do you really need them?    
 
