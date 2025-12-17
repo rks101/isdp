@@ -15,7 +15,7 @@ Note:- You get to be aware of constant surveillance, not just web browsers, data
      * [SSL/TLS Certificates](#ssl-tls-certificates)
      * [Encode Decode](#encode-decode)
      * [Weak Links](#weak-links)
-     * [Incidents or Examples](#incidents-or-examples)  
+     * [Events or Examples](#events-or-examples)  
      * [Cyber Threat Intelligence](#cyber-threat-intelligence)
      * [Practice and Hands-on](#hands\-on) 
      * [URL Schemes](#url-schemes) 
@@ -451,7 +451,7 @@ A secure password is the one:
 
 ---
 
-## Incidents or Examples   
+## Events or Examples   
 
 Dec 2025    
 [8 Million Users' AI Conversations Sold for Profit by "Privacy" Extensions](https://www.koi.ai/blog/urban-vpn-browser-extension-ai-conversations-data-collection)    
@@ -541,6 +541,10 @@ Dec 2019
 
 [Attention is all you need](https://arxiv.org/pdf/1706.03762) from Google Brain (Ashish Vaswani) and Google Research.     
 
+August 2017   
+On 24th August 2017, the Supreme Court of India delivered a historic unanimous verdict for India, declaring that the "**Right to Privacy is Fundamental**" and recognizing it as an intrinsic part of Article 21 - Right to Life and Personal Liberty. Privacy is Not Absolute. Like other fundamental rights, it is subject to reasonable restrictions. The state can limit privacy for legitimate aims such as national security, public order, prevention of crime, protection of health, and rights of others.   
+
+In 2012, Justice K. S. Puttaswamy (Retd.), a former judge of the Karnataka High Court, filed a writ petition challenging the Aadhaar scheme on the grounds that it violated the right to privacy. The Supreme Court's verdict in 2017 is in response to the debate that "**Is the right to privacy a fundamental right under the Constitution of India?**"    
 
 May 2017   
 [WannaCry ransomware](https://www.kaspersky.com/resource-center/threats/ransomware-wannacry), [how it was stopped](https://www.cloudflare.com/en-gb/learning/security/ransomware/wannacry-ransomware/) and [EternalBlue](https://en.wikipedia.org/wiki/EternalBlue)     
