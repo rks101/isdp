@@ -514,13 +514,18 @@ March 2022
 A seemingly illegitimate-looking Process Manager changes its avatar to malware and downloads another app to make money.    
 [link1](https://www.androidpolice.com/malware-russian-hackers-tracks-you-records-audio/) app records audio and [link2](https://lab52.io/blog/complete-dissection-of-an-apk-with-a-suspicious-c2-server/) with dissection of the issue.  
 
-
 Dec 2021   
 [Location data leaked even app user opted-out](https://www.vice.com/en/article/5dgmqz/huq-location-data-opt-out-no-consent)   
 
-
 October 2021    
 [Facebook Papers](https://www.npr.org/2021/10/25/1049015366/the-facebook-papers-what-you-need-to-know)    
+
+July 2021    
+Israel-based NSO Group's Pegasus malware was abused by its government clients to spy on journalists, opposition politicians, and rights activists. [backlink](https://frontline.thehindu.com/dispatches/journalists-activists-among-50000-targets-of-israeli-spyware-as-per-reports/article35408546.ece)    
+
+The Pegasus scandal came to light in 2021 after a list of 50,000 phone numbers — belonging to suspected hacking targets — was leaked to major media organisations. The list included the phone numbers of politicians, heads of state, business leaders, activists, and journalists.    
+
+Update: May, 2025, a California jury delivered a landmark verdict in favour of WhatsApp, owned by Meta, awarding the company $167 million in punitive and compensatory damages against NSO Group, for its Pegasus spyware. [backlink](https://frontline.thehindu.com/news/whatsapp-pegasus-privacy-lawsuit-nso-verdict-2025/article69552778.ece)    
 
 December 2020   
 [SolarWinds - supply chain attack](https://www.fortinet.com/resources/cyberglossary/solarwinds-cyber-attack) and a rather [untold long story of SolarWinds supply chain attack](https://www.wired.com/story/the-untold-story-of-solarwinds-the-boldest-supply-chain-hack-ever/)     
