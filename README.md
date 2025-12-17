@@ -458,6 +458,7 @@ Dec 2025
 Be aware of the browser extensions you install for AI prompts. Think, do you really need them?    
 
 [Pre-installing Sanchar Sathi app, SIM Binding directive, sharing GPS location of phone owner may lead to cyber surveillance](https://frontline.thehindu.com/interviews/telecom-cybersecurity-rules-surveillance-india/article70398987.ece)    
+Is it really necessary?   
 
 [Online scams/frauds have led to considering SIM binding directives](https://indianexpress.com/article/technology/tech-news-technology/dot-sim-binding-directive-technical-challenges-scams-fraud-10400506/)    
 
