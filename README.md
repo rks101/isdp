@@ -550,11 +550,14 @@ May 2017
 [WannaCry ransomware](https://www.kaspersky.com/resource-center/threats/ransomware-wannacry), [how it was stopped](https://www.cloudflare.com/en-gb/learning/security/ransomware/wannacry-ransomware/) and [EternalBlue](https://en.wikipedia.org/wiki/EternalBlue)     
 
 March 2017   
-[Equifax data breach](https://www.csoonline.com/article/567833/equifax-data-breach-faq-what-happened-who-was-affected-what-was-the-impact.html) personally identifying data of hundreds of millions of people was stolen from Equifax (credit reporting agency)    
+[Equifax data breach](https://www.csoonline.com/article/567833/equifax-data-breach-faq-what-happened-who-was-affected-what-was-the-impact.html) personal identifying data of hundreds of millions of people was stolen from Equifax (a credit reporting agency)    
 
 
 September 2016    
 [Mirai Botnet](https://www.cloudflare.com/en-gb/learning/ddos/glossary/mirai-botnet/)   
+
+Feb 2014   
+[Apple's SSL validation flaw](https://www.malwarebytes.com/blog/news/2014/02/apple-in-hot-water-after-ssltls-validation-fiasco) - an unconditional and repeated line "goto fail;" bypasses SSL certificate verification for iPhone/iPad/iPod devices. was it because of the peccadillos of C or the lack of code review?    
 
 ...     
 
