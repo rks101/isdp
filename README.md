@@ -559,6 +559,9 @@ September 2016
 Feb 2014   
 [Apple's SSL validation flaw](https://www.malwarebytes.com/blog/news/2014/02/apple-in-hot-water-after-ssltls-validation-fiasco) - an unconditional and repeated line "goto fail;" bypasses SSL certificate verification for iPhone/iPad/iPod devices. was it because of the peccadillos of C or the lack of code review?    
 
+April 2014   
+[HeartBleed an accident with OpenSSL](https://www.dailymail.co.uk/sciencetech/article-2602277/Heartbleed-accident-Developer-confesses-coding-error-admits-effect-clearly-severe.html)    
+
 ...     
 
 2009    
