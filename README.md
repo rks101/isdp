@@ -570,6 +570,9 @@ Feb 2014
 1996   
 [Smashing the Stack for Fun and Profit](https://phrack.org/issues/49/14) was published in Phrack magazine (49/14) to show buffer overflow attacks by Aleph One (Mudge)     
 
+June 1996    
+[Ariane V88 rocket launcher explodes 37 seconds after launch](https://en.wikipedia.org/wiki/Ariane_flight_V88). The investigation reveals that, in its inertial reference system, the value of one variable exceeds the expected value, resulting in a conversion from a 64-bit floating-point number to a 16-bit signed integer. This overflow leads to an unhandled hardware exception. Was it the supplier's fault or a lack of code/specs review?     
+
 1988    
 [Morris Worm](https://en.wikipedia.org/wiki/Morris_worm) released by [Robert Tappan Morris](https://en.wikipedia.org/wiki/Robert_Tappan_Morris)    
 
