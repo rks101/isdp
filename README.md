@@ -700,6 +700,8 @@ This section compiles a few compliance and hardening requirements.
 
 [Compare Data Protection laws of the world](https://www.dlapiperdataprotection.com/index.html)    
 
+[What constitutes as personal information](https://hyperproof.io/what-is-personal-identifiable-information/)    
+
 [Right to Information (RTI) in India](https://rti.gov.in/)    
 
 [Digital Personal Data Protection Bill, 2022, India](https://www.meity.gov.in/writereaddata/files/The%20Digital%20Personal%20Data%20Protection%20Bill%2C%202022.pdf) and [press release](https://prsindia.org/billtrack/draft-the-digital-personal-data-protection-bill-2022) and [another post on privacy bills](https://blog.ipleaders.in/different-aspects-of-right-to-privacy-under-article-21/)    
