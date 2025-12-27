@@ -58,7 +58,7 @@ We hear about OSINT => _Open Source INTelligence_ often in the context of inform
 
 [OS Intelligence (OSINT) Tools](https://www.osinttechniques.com/osint-tools.html)   
 
-[Information you share is valuable](https://teachingprivacy.org/information-is-valuable/) and [You are leaving your footprints](https://teachingprivacy.org/youre-leaving-footprints/), that makes [Teaching Privacy](https://teachingprivacy.org) important!    
+[Information you share is valuable](https://teachingprivacy.org/information-is-valuable/) and [You are leaving your footprints](https://teachingprivacy.org/youre-leaving-footprints/), which makes [Teaching Privacy](https://teachingprivacy.org) important!    
 
 [Our World in Data](https://ourworldindata.org/)   
 
@@ -691,6 +691,13 @@ Tracker:
 [The state of Mobile App Security](https://licelus.com/resources/state-of-mobile-app-security) by Lecel     
 
 Some [companies](https://unicourt.com/) collect data from public records to share on the internet, run analytics, offer APIs, and charge a fee. e.g., Court hearings, litigation data, etc. There are [compelling reasons](https://thehill.com/opinion/technology/4820294-ai-data-public-records-privacy/) why public records should be off-limits for AI systems.     
+
+**Oh! G00gle**    
+In more than one service, such as G00gle and YouTube, the platform gathers a huge amount of your personal information (not just your IP) to analyze and track you. Moreover, YouTube is owned by G00gle/Alphabet, a company that tracks you across many websites (via AdSense or Google Analytics). Read their Privacy Policy once.    
+**Alternatives**    
+Try replacing (completely switching) Chrome with Duck Duck Go. No obligation, just give it a try.   
+Try PeerTube instead of YouTube. No obligation, just give it a try.    
+You don't really need the Google Search app on mobile devices. No obligation, just give it a try.    
 
 ----
 
