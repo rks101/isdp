@@ -684,7 +684,7 @@ e.g. open wallet:// or music:// in Safari on Apple phone/tablet/laptop.
 
 ### Data Brokers and Trackers    
 
-A data broker can be defined as a business/entity that knowingly collects and sells to third parties the personal information of a consumer with whom the business does not have a direct relationship. The country-specific laws can exempt some of these entities. Exempted businesses/entities may include consumer reporting agencies - credit bureaus, certain financial institutions, and insurance companies. e.g., In India CIBIL, CCI, NeSL, etc. may be exempted.     
+Data brokers are companies that knowingly collect data from public records, as well as from offline/online commerce (including retailers, social media platforms, and location-based services), and sell this data to third parties, anyone willing to pay, for a fee. The country-specific laws can exempt some of these entities. Exempted businesses/entities may include consumer reporting agencies - credit bureaus, certain financial institutions, and insurance companies. e.g., In India CIBIL, CCI, NeSL, etc. may be exempted. \cite [1](https://redact.dev/blog/data-brokers-101-what-they-are-and-how-to-protect-your-info), [2](https://databrokerswatch.org/), [3](https://proton.me/blog/data-brokers), [4](https://www.malwarebytes.com/cybersecurity/basics/data-brokers)      
 
 Tracker:    
 
