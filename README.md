@@ -846,3 +846,17 @@ Vulnerability assessment and penetration testing (VAPT)
 [Reverse Engineering iOS apps](https://web.archive.org/web/20171222000837/https://www.owasp.org/images/b/b9/OWASP_Mobile_App_Hacking_%28AppSecUSA_2014%29_Workshop_Content.pdf) and [IPA Tool](https://github.com/majd/ipatool)    
 
 [Content Disarm and Reconstruct (CDR)](https://www.opswat.com/blog/what-is-content-disarm-and-reconstruction)    
+
+----
+
+## Responsible Disclosure Programs
+
+Opening argument: "Security by Obscurity" does not exist. All it takes is a motivated individual to study the system, or just observe it, and knock on the door (Hi Bob!). There is a need to open up avenues for enthusiastic campus students, developers, and researchers to report vulnerabilities through Responsible Disclosure Programs without criminalizing them. An early acknowledgment, recognition, and an optional bounty can go a long way toward avoiding embarrassment (from the adversaries) caused by superficial or deep-rooted inefficiencies and half-measures in defending these systems. Open source and Linux philosophy make systems more resilient and able to sustain longer. With or without AI, human intelligence is essential.     
+
+One could metaphorically describe VAPT (openness) as the air above, and the Apps and Web Interfaces (economy) as the earth below. It is easier and faster to refresh the air than it is to turn and fertilize the earth, yet purified air is necessary before healthy changes can be made in the earth. So it is too early for us to speak of economic triumphs, and unlike the old days, nobody is making any developer (divine) promises; they are in short supply due to the everything.ai bubble. We must wait for the earth to absorb the air and be enriched. -- Partly inspired by the poet [Yevgeny Yevtushenko](https://www.azquotes.com/author/16058-Yevgeny_Yevtushenko)    
+
+[Apple - Vulnerability Disclosure](https://security.apple.com/terms-and-conditions/) and [bounty](https://security.apple.com/bounty/) and [web server acks](https://support.apple.com/en-us/102774)    
+
+[Anthropic - Responsible Disclosure Program](https://www.anthropic.com/responsible-disclosure-policy), had sweet chain of events    
+
+[Open AI - Outbound Coordinated Disclosure Policy - Sept 2025](https://openai.com/policies/outbound-coordinated-disclosure-policy/)    
