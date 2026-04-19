@@ -28,6 +28,7 @@ Note:- You get to be aware of constant surveillance, not just web browsers, data
      * [Quiz](#quiz)
      * [VAPT](#vapt)
      * [Responsible Disclosure Programs](#responsible-disclosure-programs)
+     * [AI Supremacy Opinions](#ai-supremacy-opinions)
 
 ## Shannon's Maxim 
 Shannon's Maxim => _We should always assume that the enemy will fully know how our system works._    
@@ -861,3 +862,22 @@ One could metaphorically describe VAPT (openness) as the air above, and the Apps
 [Anthropic - Responsible Disclosure Program](https://www.anthropic.com/responsible-disclosure-policy), had sweet chain of events    
 
 [Open AI - Outbound Coordinated Disclosure Policy - Sept 2025](https://openai.com/policies/outbound-coordinated-disclosure-policy/)    
+
+----
+
+## AI Supremacy Opinions 
+
+AI, GenAI, AGI, and the race that changed the world post Covid.   
+
+Then there were nine:    
+1. OpenAI (2015) - ChatGPT (Game Changer in Nov 2022) - led by Sam Altman - one of the best-connected entrepreneurs in Silicon Valley who'd stuffed YC with futuristic start-ups during 2014-19. YC is a VC firm founded in 2005 by Paul Graham, Jessica Livingston, Robert Tappan Morris (of Morris Worm fame), and Trevor Blackwell. Not-for-profit OpenAI turned into a for-profit in 2019. Microsoft has heavily invested in OpenAI.    
+2. DeepMind (2010) by Neuroscientist Demis Hassabis (Chemistry Nobel for Protein Structure predictions in 2024) and Mustafa Suleyman (later moved to Microsoft AI) - Google acquired DeepMind in 2014, Google Brain by Google - both fed into - Gemini (2023) 
+3. Microsoft AI led by Mustafa Suleman (Cofounder of DeepMind, later co-founded Inflection AI), Copilot - Microsoft, Microsoft sells Azure cloud infrastructure for compute. 
+4. Anthropic (2021) - Claude (2023) - with Dario Amodei
+5. Purplexity (2022) - Arvind Srinivas, Demis, Andy
+6. DeepSeek (July 2023) - by Liang Wenfeng (China) brought low-cost open-weight models without training data. Game Changer for low-cost and smaller models.  
+7. Grok (November 2023) - by xAI from Tesla founder Elon Musk (was one cofounder of OpenAI, left in 2018)
+8. NVidia - selling GPUs and circular investments in the above AI companies    
+9. Meta AI - Mark Zuckerberg (Facebook/Instagram/WhatsApp) fame - started Facebook AI Research or FAIR (2013) with Yann LeCun, gave an open-sourced ML framework, PyTorch, in 2017. Demis Hassabis met with Mark Zuckerberg twice about DeepMind. Zuckerberg declined to buy DeepMind because of the ethics governance board over which Hassabis/Suleyman did not agree. 
+ 
+---- 
