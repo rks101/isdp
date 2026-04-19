@@ -869,7 +869,7 @@ One could metaphorically describe VAPT (openness) as the air above, and the Apps
 
 AI, GenAI, AGI, and the race that changed the world post Covid.   
 
-Then there were nine:    
+Then there were nine pins:    
 1. OpenAI (2015) - ChatGPT (Game Changer in Nov 2022) - led by Sam Altman - one of the best-connected entrepreneurs in Silicon Valley who'd stuffed YC with futuristic start-ups during 2014-19. YC is a VC firm founded in 2005 by Paul Graham, Jessica Livingston, Robert Tappan Morris (of Morris Worm fame), and Trevor Blackwell. Not-for-profit OpenAI turned into a for-profit in 2019. Microsoft has heavily invested in OpenAI.    
 2. DeepMind (2010) by Neuroscientist Demis Hassabis (Chemistry Nobel for Protein Structure predictions in 2024) and Mustafa Suleyman (later moved to Microsoft AI) - Google acquired DeepMind in 2014, Google Brain by Google - both fed into - Gemini (2023) 
 3. Microsoft AI led by Mustafa Suleman (Cofounder of DeepMind, later co-founded Inflection AI), Copilot - Microsoft, Microsoft sells Azure cloud infrastructure for compute. 
