@@ -456,7 +456,7 @@ A secure password is the one:
 ## Events or Examples   
 
 April 2026    
-[Anthropic's another Claudy Day - Claude Mythos code leak](https://www.pcmag.com/news/anthropic-issues-8000-copyright-takedowns-to-scrub-claude-code-leak)   
+[Anthropic's another Claudy Day - Claude code leak](https://www.pcmag.com/news/anthropic-issues-8000-copyright-takedowns-to-scrub-claude-code-leak), [link2](https://x.com/Fried_rice/status/2038894956459290963)    
 
 
 Dec 2025    
