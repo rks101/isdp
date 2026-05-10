@@ -507,7 +507,9 @@ October 2023
 April 2023    
 [Atomic macOS stealer](https://thehackernews.com/2023/04/new-atomic-macos-stealer-can-steal-your.html)    
 
-Oct 2022   
+Nov 2022    
+[AIIMS Delhi patient data leak and Ransomware attack](https://www.indiatimes.com/explainers/technology/explained-whats-happening-at-aiims-after-sensitive-ransomware-attack/articleshow/127166472.html) - servers down that were hosting the patient management system, e-Hospital, and digital personal data of over 3 Cr patients.     
+Oct 2022    
 [Insecure Direct Object Reference (IDOR)](https://www.varonis.com/blog/what-is-idor-insecure-direct-object-reference)   
 
 June 2022     
@@ -535,7 +537,7 @@ The Pegasus scandal came to light in 2021 after a list of 50,000 phone numbers â
 Update: May, 2025, a California jury delivered a landmark verdict in favour of WhatsApp, owned by Meta, awarding the company $167 million in punitive and compensatory damages against NSO Group, for its Pegasus spyware. [backlink](https://frontline.thehindu.com/news/whatsapp-pegasus-privacy-lawsuit-nso-verdict-2025/article69552778.ece)    
 
 December 2020   
-[SolarWinds - supply chain attack](https://www.fortinet.com/resources/cyberglossary/solarwinds-cyber-attack) and a rather [untold long story of SolarWinds supply chain attack](https://www.wired.com/story/the-untold-story-of-solarwinds-the-boldest-supply-chain-hack-ever/)     
+[SolarWinds - supply chain attack](https://www.fortinet.com/resources/cyberglossary/solarwinds-cyber-attack) and a rather [untold long story of SolarWinds supply chain attack](https://www.wired.com/story/the-untold-story-of-solarwinds-the-boldest-supply-chain-hack-ever/), [link2](https://www.techtarget.com/whatis/feature/SolarWinds-hack-explained-Everything-you-need-to-know)     
 
 [Zimperium blog - Dissecting Mobile Native Code](https://www.zimperium.com/blog/dissecting-mobile-native-code-packers-case-study/)   
 
