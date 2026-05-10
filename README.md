@@ -508,7 +508,7 @@ April 2023
 [Atomic macOS stealer](https://thehackernews.com/2023/04/new-atomic-macos-stealer-can-steal-your.html)    
 
 Nov 2022    
-[AIIMS Delhi patient data leak and Ransomware attack](https://www.indiatimes.com/explainers/technology/explained-whats-happening-at-aiims-after-sensitive-ransomware-attack/articleshow/127166472.html) - servers down that were hosting the patient management system, e-Hospital, and digital personal data of over 3 Cr patients.     
+[AIIMS Delhi patient data leak and massive ransomware attack](https://www.indiatimes.com/explainers/technology/explained-whats-happening-at-aiims-after-sensitive-ransomware-attack/articleshow/127166472.html), [link2](https://timesofindia.indiatimes.com/blogs/toi-editorials/held-to-ransom-healthcare-sector-is-a-sitting-duck-to-cybercriminals-aiims-and-other-hospitals-must-shore-up-security-systems/) - servers down that were hosting the patient management system, e-Hospital, and digital personal data with tests and discharge summary of over 3 Cr patients, including high-profile politicians, bureaucrats, judges.     
 Oct 2022    
 [Insecure Direct Object Reference (IDOR)](https://www.varonis.com/blog/what-is-idor-insecure-direct-object-reference)   
 
