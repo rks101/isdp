@@ -758,6 +758,8 @@ STIG refers to Security Technical Implementation Guide
 
 [Family Educational Rights and Privacy Act(FERPA)]()    
 
+[Transparency Consent Framework (TCF) by IAB Europe and IAB Tech lab](https://iabtechlab.com/press-releases/iab-europe-iab-tech-lab-release-updated-transparency-consent-framework/)    
+
 [Viksit Bharat at 2047 - Cybersecurity and Privacy](https://swadeshishodh.org/viksit-bharat-2047-a-look-at-the-future-of-science-and-technology/)   
 
 Australia enacts a law to ban social media for users below 16 years of age, World's 1st nation, Dec, 2025   
