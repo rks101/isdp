@@ -47,6 +47,8 @@ The attackers or adversaries have a mindset of another countering approach - the
 
 One of the goals of the Information System is to protect the CIA (confidentiality, integrity, and availability) and constrain DAD (disclosure, alteration, and denial).    
 
+Confidentiality is related to Privacy. Another acronym PAIN (Privacy, Availability, Integrity, Non-repudiation) refers to information systems trying to manage pain.   
+
 ---- 
 
 ## OSINT 
