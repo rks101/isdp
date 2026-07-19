@@ -31,7 +31,7 @@ Note:- You get to be aware of constant surveillance, not just web browsers, data
      * [AI Supremacy Opinions](#ai-supremacy-opinions)
 
 ## Shannon's Maxim 
-Shannon's Maxim => _We should always assume that the enemy will fully know how our system works._    
+Shannon's Maxim => _We should always assume that the adversary will fully know how our system works._    
 
 [//]: <> Can we make it explicit? to make better, break better, and defend better?    
 
