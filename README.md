@@ -460,6 +460,10 @@ June 2026
 [CBSE portal glitch](https://education.economictimes.indiatimes.com/news/school-education/rs-69000-for-answer-sheets-cbse-portal-glitch-leaves-students-parents-baffled-re-evaluation-timeline-extended/131312688) - ever wondered who develops these portals! Then, none other than [IITM and IITK](https://education.economictimes.indiatimes.com/news/school-education/iit-madras-to-analyse-cbse-portal-issues-experts-to-assist-till-system-becomes-robust/131310748) are called upon to do RCA.     
 [NEET paper leak relatable](https://education.economictimes.indiatimes.com/news/school-education/teacher-topper-coaching-king-and-a-neet-leak-trail/131310833)     
 
+May 2026   
+[Canvas hacked](https://lifehacker.com/tech/canvas-hack-shuts-down-college-computers-across-nation?test_uuid=zXnWOLjQQwkYjMVwrvo5w&test_variant=A).   
+
+
 April 2026    
 [Anthropic's another Claudy Day - Claude code leak](https://www.pcmag.com/news/anthropic-issues-8000-copyright-takedowns-to-scrub-claude-code-leak), [link2](https://x.com/Fried_rice/status/2038894956459290963), [link3](https://www.oasis.security/blog/claude-ai-prompt-injection-data-exfiltration-vulnerability)     
 
