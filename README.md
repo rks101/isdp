@@ -457,9 +457,11 @@ A secure password is the one:
 
 ## Events or Examples   
 
+July 2026      
+[Apple accuses OpenAI of using stolen trade secrets to create its upcoming AI gadgets in new lawsuit](https://edition.cnn.com/2026/07/10/tech/apple-openai-devices-lawsuit)    
 
 June 2026     
-[CBSE portal glitch](https://education.economictimes.indiatimes.com/news/school-education/rs-69000-for-answer-sheets-cbse-portal-glitch-leaves-students-parents-baffled-re-evaluation-timeline-extended/131312688) - ever wondered who develops these portals! Then, none other than [IITM and IITK](https://education.economictimes.indiatimes.com/news/school-education/iit-madras-to-analyse-cbse-portal-issues-experts-to-assist-till-system-becomes-robust/131310748) are called upon to do RCA.     
+[CBSE portal glitch](https://education.economictimes.indiatimes.com/news/school-education/rs-69000-for-answer-sheets-cbse-portal-glitch-leaves-students-parents-baffled-re-evaluation-timeline-extended/131312688) - ever wondered who develops these portals! Then, [IITs](https://education.economictimes.indiatimes.com/news/school-education/iit-madras-to-analyse-cbse-portal-issues-experts-to-assist-till-system-becomes-robust/131310748) are called upon to do RCA.     
 [NEET paper leak relatable](https://education.economictimes.indiatimes.com/news/school-education/teacher-topper-coaching-king-and-a-neet-leak-trail/131310833)     
 
 May 2026   
