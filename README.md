@@ -492,6 +492,10 @@ The intruder gained access to data through a phone phishing incident. Target emp
 
 [Fake CAPTCHA scam](https://indianexpress.com/article/technology/tech-news-technology/fake-captcha-scams-how-im-not-a-robot-could-infect-your-device-10190466/) - if sites with a captcha prompt you to follow instructions on the device with running commands or giving permissions - be careful, avoid running commands or giving permissions, exit the website, and do a cleanup.     
 
+July 2025    
+[Nayara Energy, an Indian oil refining firm, losing access to MS Office paid licenses due to EU sanctions comes as a Digital Sovereignty wakeup call for large oraganizations and institutions](https://www.thehindubusinessline.com/info-tech/facing-legal-action-microsoft-restores-services-to-nayara-energy/article69872923.ece), [link2](https://www.latestly.com/technology/microsoft-restores-services-to-nayara-energy-after-legal-dispute-amid-new-eu-sanctions-on-rosneft-backed-oil-giant-7034250.html), [link3](https://kbssidhu.substack.com/p/microsoft-nayara-energy-case-indias).    
+An Indian alternative already exists in Zoho to which central govt already moved on to.     
+
 2024    
 Digital Arrest - [multiple incidents](https://economictimes.indiatimes.com/news/india/digital-arrest-scam-how-cybercriminals-use-fear-to-empty-your-bank-account/articleshow/114836839.cms), [prof duped](https://education.economictimes.indiatimes.com/news/industry/retired-patna-university-professor-duped-of-rs-3-07-crore-in-digital-arrest-fraud/115460525), [Karnataka multiple cases](https://timesofindia.indiatimes.com/city/bengaluru/ktaka-loses-109cr-to-641-digital-arrest-cases-in-2024/articleshow/116265734.cms)     
 **In India, no law enforcement agency will call or email you to get details or report your crime to you online, or demand money, or do online videography. They will simply be at your door.**   
