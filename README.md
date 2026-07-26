@@ -72,9 +72,6 @@ We hear about OSINT => _Open Source INTelligence_ often in the context of inform
 
 You can use curl to view HTTP headers.    
 
-<details>
- <summary> curl -v eg.riit.ac.in </summary>
-  <p>
 ```
 $ curl -v eg.riit.ac.in 
 *   Trying 13.126.157.211:80...
@@ -114,9 +111,6 @@ X-Frame-Options: SAMEORIGIN
 Location: https://eg.riit.ac.in/
 Content-Type: text/html; charset=iso-8859-1
 ```
-
-  </p>
-</details>
 
 
 Here is some more info using -Lvso options with curl:     
