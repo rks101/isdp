@@ -465,6 +465,8 @@ July 2026
 June 2026     
 [CBSE portal glitch](https://education.economictimes.indiatimes.com/news/school-education/rs-69000-for-answer-sheets-cbse-portal-glitch-leaves-students-parents-baffled-re-evaluation-timeline-extended/131312688) - ever wondered who develops these portals! Then, [IITs](https://education.economictimes.indiatimes.com/news/school-education/iit-madras-to-analyse-cbse-portal-issues-experts-to-assist-till-system-becomes-robust/131310748) are called upon to do RCA.     
 [NEET paper leak relatable](https://education.economictimes.indiatimes.com/news/school-education/teacher-topper-coaching-king-and-a-neet-leak-trail/131310833)     
+[Tryst with medical examination paper leaks](https://lawyersarc.in/news/neet-paper-leak-history-from-2015-to-2026-scandals/) in 2015, 2021, [2024](https://education.economictimes.indiatimes.com/news/higher-education/neet-paper-leak-four-education-ministers-four-reforms-why-india-is-still-fighting-the-same-exam-crisis/132562839), 2026. Only in 2026, RE-NEET (UG) conducted and the Ministry of Education officials witnessed shuffling.     
+
 
 May 2026   
 [Canvas hacked](https://lifehacker.com/tech/canvas-hack-shuts-down-college-computers-across-nation?test_uuid=zXnWOLjQQwkYjMVwrvo5w&test_variant=A).   
