@@ -416,8 +416,8 @@ CPUINFO: OPENSSL_ia32cap=0x7ffaf3bfffebffff:0x18c05fdef3bfa7eb
 
 ## Encode Decode    
 
-Common encoding types are base32, which converts binary data to the string of characters A-Z and 2-7, and base64, which converts using the characters a-z, A-Z, 0-9, +, / and the equals sign used for padding.   
-[Base64 Encoder](https://www.base64encode.org/)     
+Common encoding types are base32, which converts binary data to the string of characters A-Z and 2-7, and base64, which converts using the characters a-z, A-Z, 0-9, +, / and the equals sign (==) used for padding.   
+[Base64 Encoder](https://www.base64encode.org/) and [base64.sh](https://www.base64.sh/)     
 
 Encoding and encryption are two different things.    
 
