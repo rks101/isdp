@@ -905,7 +905,7 @@ Then there were nine pins:
 4. Anthropic (2021) - Claude (2023) - with Dario Amodei
 5. Purplexity (2022) - Arvind Srinivas, Demis, Andy
 6. DeepSeek (July 2023) - by Liang Wenfeng (China) brought low-cost open-weight models without training data. Game Changer for low-cost and smaller models.  
-7. Grok (November 2023) - by xAI from Tesla founder Elon Musk (was one cofounder of OpenAI, left in 2018)
+7. Grok (November 2023) - by xAI from Tesla founder Elon Musk (was one co-founder of OpenAI, left in 2018). Read about [PayPal Mafia](https://en.wikipedia.org/wiki/PayPal_Mafia)    
 8. Meta AI - Mark Zuckerberg (Facebook/Instagram/WhatsApp) fame - started Facebook AI Research or FAIR (2013) with Yann LeCun, gave an open-sourced ML framework, PyTorch, in 2017. Demis Hassabis met with Mark Zuckerberg twice about DeepMind. Zuckerberg declined to buy DeepMind because of the ethics governance board over which Hassabis/Suleyman did not agree. 
 9. NVidia (Genseng Huang) - selling GPUs and circular investments in the above AI companies    
 10. Apple - one of the Big Five, did not join the race, works on on-device Apple Intelligence   
