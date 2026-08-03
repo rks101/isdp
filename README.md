@@ -901,11 +901,11 @@ AI, GenAI, AGI, and the race that changed the world post Covid.
 Then there were nine pins:    
 1. DeepMind (2010) by Neuroscientist Demis Hassabis (Chemistry Nobel for Protein Structure predictions in 2024) and Mustafa Suleyman (later moved to Microsoft AI) - Google acquired DeepMind in 2014, Google Brain by Google - both fed into - Gemini (2023) 
 2. OpenAI (2015) - ChatGPT (Game Changer in Nov 2022) - led by Sam Altman - one of the best-connected entrepreneurs in Silicon Valley who'd stuffed YC with futuristic start-ups during 2014-19. YC is a VC firm founded in 2005 by Paul Graham, Jessica Livingston, Robert Tappan Morris (of Morris Worm fame), and Trevor Blackwell. Not-for-profit OpenAI turned into a for-profit in 2019. Microsoft has heavily invested in OpenAI.    
-3. Microsoft AI led by Mustafa Suleman (Cofounder of DeepMind, later co-founded Inflection AI), Copilot - Microsoft, Microsoft sells Azure cloud infrastructure for compute. 
-4. Anthropic (2021) - Claude (2023) - with Dario Amodei
+3. Microsoft AI led by Mustafa Suleman (Cofounder of DeepMind, later co-founded Inflection AI with Reid Hoffman of LinkedIn fame), Copilot - Microsoft, Microsoft sells Azure cloud infrastructure for compute. 
+4. Anthropic (2021) - Claude (2023) - with Dario Amodei, scared the tech-world by Claude Mythos's accidental release claiming to find bugs in the software deployed around the globe.    
 5. Purplexity (2022) - Arvind Srinivas, Demis, Andy
 6. DeepSeek (July 2023) - by Liang Wenfeng (China) brought low-cost open-weight models without training data. Game Changer for low-cost and smaller models.  
-7. Grok (November 2023) - by xAI from Tesla founder Elon Musk (was one co-founder of OpenAI, left in 2018). Read about [PayPal Mafia](https://en.wikipedia.org/wiki/PayPal_Mafia)    
+7. Grok (November 2023) - by xAI from Tesla founder Elon Musk (was one co-founder of OpenAI in 2015, left in 2018). Read about [PayPal Mafia](https://en.wikipedia.org/wiki/PayPal_Mafia) and [where are they](https://observer.com/2025/10/paypal-cofounders-today/) including Peter Thiel of PayPal Co-founder, CEO and later Palantir (works with USA federal agencies and provides data intelligence and surveillance solutions).    
 8. Meta AI - Mark Zuckerberg (Facebook/Instagram/WhatsApp) fame - started Facebook AI Research or FAIR (2013) with Yann LeCun, gave an open-sourced ML framework, PyTorch, in 2017. Demis Hassabis met with Mark Zuckerberg twice about DeepMind. Zuckerberg declined to buy DeepMind because of the ethics governance board over which Hassabis/Suleyman did not agree. 
 9. NVidia (Genseng Huang) - selling GPUs and circular investments in the above AI companies    
 10. Apple - one of the Big Five, did not join the race, works on on-device Apple Intelligence   
