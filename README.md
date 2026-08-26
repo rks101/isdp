@@ -460,6 +460,9 @@ A secure password is the one:
 ## Events or Examples   
 
 
+August 2026    
+[Census 2027 - is going to ask 40 questions including personal data](https://www.jagranjosh.com/general-knowledge/census-2027-questions-complete-list-of-40-questions-and-whats-new-download-pdf-link-1820011386-1) on demographics, parental details, and more personal data, such as exact date of birth, birthplace, age at marriage, explicit SC/ST category and specific caste name as a drop down, bank accounts, Aadhaar, Voter ID and Passport number, Driving license details, place of COVID-19 vaccination.      
+
 July 2026      
 [Apple accuses OpenAI of using stolen trade secrets to create its upcoming AI gadgets in new lawsuit](https://edition.cnn.com/2026/07/10/tech/apple-openai-devices-lawsuit)    
 
