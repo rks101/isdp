@@ -814,6 +814,7 @@ We have conducted three separate studies and we show apps are not transparent ab
 
 These studies voice our growing concerns over what an app says (looking at its application description) and what discrepancies are found when we look at permissions available to the app and what is being used inside the binary code of the app. Digital Personal Data exfiltration happens at the cost of using the so-called free app and implicit/deemed consent to "Terms and Conditions" of users do not read them or these T&Cs are not shown prominently! It has become more difficult to locate permission details than before.     
 
+[OWASP - Mobile Application Security Verification Standard (MASVS)](https://mas.owasp.org/MASTG/knowledge/android/MASVS-PLATFORM/MASTG-KNOW-0017/)    
 TODO: add details of studies     
 
 ---- 
